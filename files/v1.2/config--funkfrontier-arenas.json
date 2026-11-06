@@ -1,0 +1,4 @@
+{
+  "_comment": "Move trainer battles into the battle arena. /funk arenas on|off changes this in game.",
+  "enabled": true
+}

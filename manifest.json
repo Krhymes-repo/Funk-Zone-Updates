@@ -1,0 +1,92 @@
+{
+  "version": "1.2",
+  "notes": "Auto-update, party menus, travel buttons, Funk City title screen",
+  "zip": "1.2",
+  "files": [
+    {
+      "path": "mods/funkfrontier-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/mods--funkfrontier-1.0.0.jar",
+      "sha1": "418a5166517858152ed0fb1937e7fd1105d1e258",
+      "size": 19692412,
+      "mode": "replace"
+    },
+    {
+      "path": "datapacks/Funk Zone DP.zip",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/datapacks--funk-zone-dp.zip",
+      "sha1": "73b90f105866abfb804d56b00013679d6813bfc8",
+      "size": 8957720,
+      "mode": "replace"
+    },
+    {
+      "path": "resourcepacks/Funk Zone Music.zip",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/resourcepacks--funk-zone-music.zip",
+      "sha1": "3ba76227d7baa76794e83a90031e909d180e89a4",
+      "size": 21811497,
+      "mode": "replace"
+    },
+    {
+      "path": "config/fancymenu/assets/funk_city_night.png",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--assets--funk_city_night.png",
+      "sha1": "853fb0f445d245d48df0df309ffa8b353f37fe8f",
+      "size": 55822,
+      "mode": "replace"
+    },
+    {
+      "path": "config/fancymenu/assets/funk_city_title.png",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--assets--funk_city_title.png",
+      "sha1": "7fc5016872590b6cc57971504a646a30b1b34140",
+      "size": 240069,
+      "mode": "replace"
+    },
+    {
+      "path": "config/fancymenu/customization/cobbleverse_main_curseforge.txt",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--customization--cobbleverse_main_curseforge.txt",
+      "sha1": "dd883d2ae34dfc467ac7b736bdd22de0de831a86",
+      "size": 68973,
+      "mode": "replace"
+    },
+    {
+      "path": "config/fancymenu/customization/cobbleverse_pause_menu_curseforge.txt",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--customization--cobbleverse_pause_menu_curseforge.txt",
+      "sha1": "030c17b0e65df5104e04c0fbe606370f612710ef",
+      "size": 47861,
+      "mode": "replace"
+    },
+    {
+      "path": "config/fancymenu/customization/cobbleverse_resourcepack_selection.txt",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--customization--cobbleverse_resourcepack_selection.txt",
+      "sha1": "c0cf28e051d4070e5fcf530dc4fa33e04ee33887",
+      "size": 28386,
+      "mode": "replace"
+    },
+    {
+      "path": "config/funkfrontier.json",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier.json",
+      "sha1": "47fe423b61ceb0f82e0431da0539b0feda52d6f9",
+      "size": 1453,
+      "mode": "once"
+    },
+    {
+      "path": "config/funkfrontier-arenas.json",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier-arenas.json",
+      "sha1": "f6c3c169845fe7b19950679bbd290c86238989a5",
+      "size": 125,
+      "mode": "once"
+    },
+    {
+      "path": "config/funkfrontier-transitions.properties",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier-transitions.properties",
+      "sha1": "87cbc244149f434f655663dbc6992a6299ba6e6a",
+      "size": 213,
+      "mode": "once"
+    },
+    {
+      "path": "config/funkfrontier-videos.json",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier-videos.json",
+      "sha1": "60c6bc5cdb958d98a808b3a285021f0596f3c672",
+      "size": 22,
+      "mode": "once"
+    }
+  ],
+  "remove": []
+}
