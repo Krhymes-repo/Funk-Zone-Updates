@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
-  "notes": "Multiplayer list shows just the Funk Zone server",
+  "version": "1.2.3",
+  "notes": "Hide the battle-cancelled message when a wild battle moves to its arena",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.2/mods--funkfrontier-1.0.0.jar",
-      "sha1": "d036213af9490a897b87b72e4faad3f0083103b5",
-      "size": 19702912,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.3/mods--funkfrontier-1.0.0.jar",
+      "sha1": "40951e77cf422950d2af62722728096f6381e355",
+      "size": 19704262,
       "mode": "replace",
       "side": "both"
     },
