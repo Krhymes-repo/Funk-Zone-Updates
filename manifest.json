@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "notes": "Hide the battle-cancelled message when a wild battle moves to its arena",
+  "version": "1.2.4",
+  "notes": "Fix wild arena battles getting stuck when the wild Pokemon's first move is rejected",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.3/mods--funkfrontier-1.0.0.jar",
-      "sha1": "40951e77cf422950d2af62722728096f6381e355",
-      "size": 19704262,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.4/mods--funkfrontier-1.0.0.jar",
+      "sha1": "5309a64ef2f2f7af739158ef8be743940597d736",
+      "size": 19704988,
       "mode": "replace",
       "side": "both"
     },
