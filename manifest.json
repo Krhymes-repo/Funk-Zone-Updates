@@ -1,6 +1,6 @@
 {
-  "version": "1.2.4",
-  "notes": "Fix wild arena battles getting stuck when the wild Pokemon's first move is rejected",
+  "version": "1.2.5",
+  "notes": "Mods start one at a time, fixing a rare freeze while loading",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -70,6 +70,14 @@
       "size": 28386,
       "mode": "replace",
       "side": "client"
+    },
+    {
+      "path": "config/fml.toml",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.5/config--fml.toml",
+      "sha1": "098470f9db1af6c6766b47c77252e5cbb124b861",
+      "size": 1550,
+      "mode": "replace",
+      "side": "both"
     },
     {
       "path": "config/funkfrontier.json",
