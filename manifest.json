@@ -1,6 +1,6 @@
 {
-  "version": "1.2.5",
-  "notes": "Mods start one at a time, fixing a rare freeze while loading",
+  "version": "1.2.6",
+  "notes": "More reliable installs: the installer starts right after the download and keeps a log",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.4/mods--funkfrontier-1.0.0.jar",
-      "sha1": "5309a64ef2f2f7af739158ef8be743940597d736",
-      "size": 19704988,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.6/mods--funkfrontier-1.0.0.jar",
+      "sha1": "faf3c7ffe389d338907c4ca63ebd1a3185520d53",
+      "size": 19706568,
       "mode": "replace",
       "side": "both"
     },
