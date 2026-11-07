@@ -1,6 +1,6 @@
 {
-  "version": "1.2.29",
-  "notes": "Adds Lootr (+ Lootrmon for Cobblemon gilded chests): loot chests have separate loot for every player",
+  "version": "1.2.30",
+  "notes": "Chests looted before Lootr get their loot back (each player once); Homestead loot balls can now be opened once by every player",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.28/mods--funkfrontier-1.0.0.jar",
-      "sha1": "ecc39c1090b745b13b1f9d90133abf6bce076a50",
-      "size": 20068614,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.30/mods--funkfrontier-1.0.0.jar",
+      "sha1": "bb5e3543b37db6cf5cfb023536b8eecc702aced8",
+      "size": 20078395,
       "mode": "replace",
       "side": "both"
     },
@@ -81,9 +81,9 @@
     },
     {
       "path": "config/cobbleloots.json",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.13/config--cobbleloots.json",
-      "sha1": "0d0465c270381b3664a965fb4e48f5102348110e",
-      "size": 1155,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.30/config--cobbleloots.json",
+      "sha1": "c6f879e760bae0533be0b3d0f2e6f903ef6393b6",
+      "size": 1156,
       "mode": "replace",
       "side": "both"
     },
