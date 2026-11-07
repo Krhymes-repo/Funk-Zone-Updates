@@ -1,6 +1,6 @@
 {
-  "version": "1.2.7",
-  "notes": "Fix duplicate clerks, shop pets and roaming locals",
+  "version": "1.2.8",
+  "notes": "Fix resource pack order (Carbink disconnect)",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.7/mods--funkfrontier-1.0.0.jar",
-      "sha1": "7b97fdf06a82eabc02574cd1d7a5de51b36f21b0",
-      "size": 19711062,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.8/mods--funkfrontier-1.0.0.jar",
+      "sha1": "5ebdad260c097eed6f5fe3e14461bd4dc8c3dda3",
+      "size": 19712640,
       "mode": "replace",
       "side": "both"
     },
