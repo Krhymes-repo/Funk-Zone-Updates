@@ -1,6 +1,6 @@
 {
-  "version": "1.2.27",
-  "notes": "Magikarp Derby lanes checked and rebuilt if doubled up, so one Magikarp races in each lane",
+  "version": "1.2.28",
+  "notes": "Funk City loot balls have loot again (they pointed at the wrong Cobbleloots kind and opened empty)",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,17 +9,17 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.27/mods--funkfrontier-1.0.0.jar",
-      "sha1": "9fa5bd9e765ce988eb9a078aa36e23da28b73ffb",
-      "size": 20068018,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.28/mods--funkfrontier-1.0.0.jar",
+      "sha1": "ecc39c1090b745b13b1f9d90133abf6bce076a50",
+      "size": 20068614,
       "mode": "replace",
       "side": "both"
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.18/datapacks--funk-zone-dp.zip",
-      "sha1": "58214f52755e1f9d46c60768c349e9aaed7cd59b",
-      "size": 8565530,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.28/datapacks--funk-zone-dp.zip",
+      "sha1": "b23c52c15a2a49820f3882191b5d573735f9e717",
+      "size": 8565738,
       "mode": "replace",
       "side": "both"
     },
