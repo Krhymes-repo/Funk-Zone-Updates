@@ -1,6 +1,6 @@
 {
-  "version": "1.2.19",
-  "notes": "Poke Balls in your Pokemon Bag or backpack can be thrown in battle; third-person aim crosshair, target highlight, throw arc and over-the-shoulder camera; quests: auto-tracking, a compass with directions, a light beam over your next stop and a Show me trail. Switch any of it in Pause > Funk Helpers.",
+  "version": "1.2.20",
+  "notes": "Wild Pokemon spawn on the routes again: the glass dome no longer counts as a roof.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.19/mods--funkfrontier-1.0.0.jar",
-      "sha1": "5d019d062afefe14597a4aea70ddc29f5f1ac2d8",
-      "size": 19770180,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.20/mods--funkfrontier-1.0.0.jar",
+      "sha1": "1f8afe9bca443e9adcb77c59b8fa59a5ba216a8f",
+      "size": 19770408,
       "mode": "replace",
       "side": "both"
     },
