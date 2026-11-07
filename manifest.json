@@ -1,6 +1,6 @@
 {
-  "version": "1.2.15",
-  "notes": "Catches in wild battles count for the district they happened in; quest rewards for things you finish while away are handed over by the quest giver; no more wild Pokemon spawning under the streets or inside buildings.",
+  "version": "1.2.16",
+  "notes": "Ghost Lounge and Gym Holder battles now go to the battle arenas. Also: wild-battle catches count for their district, quest givers hand over rewards for things you finished while away, no wild Pokemon under the streets or inside buildings.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.15/mods--funkfrontier-1.0.0.jar",
-      "sha1": "8c5a51f63c8d599b1923b9a8972aa18f0af12aa1",
-      "size": 19719227,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.16/mods--funkfrontier-1.0.0.jar",
+      "sha1": "b29a053b50ac06cee9db964309b8d963ec4088de",
+      "size": 19720209,
       "mode": "replace",
       "side": "both"
     },
