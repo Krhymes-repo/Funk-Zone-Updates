@@ -1,6 +1,6 @@
 {
-  "version": "1.2.17",
-  "notes": "Adds a network recorder to track down the mid-battle disconnects. Includes 1.2.16 (ghost and Holder battles in the arenas, catch counting, owed rewards, city spawns).",
+  "version": "1.2.18",
+  "notes": "Fixes display Pokemon being re-made every few seconds; the spawn guard now logs what it removes; the server logs its running version at start; optional controller support when Controlify is installed.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,17 +9,17 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.17/mods--funkfrontier-1.0.0.jar",
-      "sha1": "7147885795c6286327c065bfa165b10eee0d6a75",
-      "size": 19730818,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.18/mods--funkfrontier-1.0.0.jar",
+      "sha1": "3c269c1262c9ae8a27f4ea869ff6ff2e59828383",
+      "size": 19737808,
       "mode": "replace",
       "side": "both"
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.10/datapacks--funk-zone-dp.zip",
-      "sha1": "a5da415a0dcb6567a110a7cb0df0e1d20e8ef78d",
-      "size": 8565358,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.18/datapacks--funk-zone-dp.zip",
+      "sha1": "58214f52755e1f9d46c60768c349e9aaed7cd59b",
+      "size": 8565530,
       "mode": "replace",
       "side": "both"
     },
