@@ -1,6 +1,6 @@
 {
-  "version": "1.2.22",
-  "notes": "Target highlight, throw arc and quest beam drawn in the right place; quest compass, beam and Show me now cover gym badges, district catches and tower battles, with hints for anywhere-steps",
+  "version": "1.2.23",
+  "notes": "Third-person camera: Ctrl+Scroll zooms in/out, Ctrl+Shift+Scroll moves it further off the shoulder, Ctrl+Middle-click resets",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.22/mods--funkfrontier-1.0.0.jar",
-      "sha1": "3b16da54b2c80aab33fd74321acd7ec20c523048",
-      "size": 20058090,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.23/mods--funkfrontier-1.0.0.jar",
+      "sha1": "ab1cb16fb9f56a17512d8a842d40b903ba696b9b",
+      "size": 20059605,
       "mode": "replace",
       "side": "both"
     },
