@@ -1,6 +1,6 @@
 {
-  "version": "1.2.14",
-  "notes": "Trainer battles no longer stall when a trainer has to send out its next Pokemon.",
+  "version": "1.2.15",
+  "notes": "Catches in wild battles count for the district they happened in; quest rewards for things you finish while away are handed over by the quest giver; no more wild Pokemon spawning under the streets or inside buildings.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.14/mods--funkfrontier-1.0.0.jar",
-      "sha1": "63e32658f0859a29319d0f28b2d1b3e35a99d450",
-      "size": 19717017,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.15/mods--funkfrontier-1.0.0.jar",
+      "sha1": "8c5a51f63c8d599b1923b9a8972aa18f0af12aa1",
+      "size": 19719227,
       "mode": "replace",
       "side": "both"
     },
