@@ -1,6 +1,6 @@
 {
-  "version": "1.2.6",
-  "notes": "More reliable installs: the installer starts right after the download and keeps a log",
+  "version": "1.2.7",
+  "notes": "Fix duplicate clerks, shop pets and roaming locals",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,17 +9,17 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.6/mods--funkfrontier-1.0.0.jar",
-      "sha1": "faf3c7ffe389d338907c4ca63ebd1a3185520d53",
-      "size": 19706568,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.7/mods--funkfrontier-1.0.0.jar",
+      "sha1": "7b97fdf06a82eabc02574cd1d7a5de51b36f21b0",
+      "size": 19711062,
       "mode": "replace",
       "side": "both"
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/datapacks--funk-zone-dp.zip",
-      "sha1": "73b90f105866abfb804d56b00013679d6813bfc8",
-      "size": 8957720,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.7/datapacks--funk-zone-dp.zip",
+      "sha1": "de97ea79ac0bf800ee43a79b429e75613dac894d",
+      "size": 8563019,
       "mode": "replace",
       "side": "both"
     },
