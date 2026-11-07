@@ -1,6 +1,6 @@
 {
-  "version": "1.2.11",
-  "notes": "Fix the Windows installer not starting (folders with spaces)",
+  "version": "1.2.12",
+  "notes": "Install now button on the title screen",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.11/mods--funkfrontier-1.0.0.jar",
-      "sha1": "486bc141d24ef58d489fb77c0ca9899d1e0ec717",
-      "size": 19713873,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.12/mods--funkfrontier-1.0.0.jar",
+      "sha1": "a0005b9fe5700efccca4bc1b338227ef103ca0a1",
+      "size": 19715917,
       "mode": "replace",
       "side": "both"
     },
