@@ -1,6 +1,6 @@
 {
-  "version": "1.2.26",
-  "notes": "Click your title at the top of the quest log to switch between titles you've earned",
+  "version": "1.2.27",
+  "notes": "Magikarp Derby lanes checked and rebuilt if doubled up, so one Magikarp races in each lane",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.26/mods--funkfrontier-1.0.0.jar",
-      "sha1": "380507a98b288e1bfe7b5ca1f15ac6b083c79303",
-      "size": 20064295,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.27/mods--funkfrontier-1.0.0.jar",
+      "sha1": "9fa5bd9e765ce988eb9a078aa36e23da28b73ffb",
+      "size": 20068018,
       "mode": "replace",
       "side": "both"
     },
