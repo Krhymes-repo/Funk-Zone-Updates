@@ -1,6 +1,6 @@
 {
-  "version": "1.2.13",
-  "notes": "Team battle camera; no empty loot balls in Funk City",
+  "version": "1.2.14",
+  "notes": "Trainer battles no longer stall when a trainer has to send out its next Pokemon.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.13/mods--funkfrontier-1.0.0.jar",
-      "sha1": "154de789cb6119f1bbe439d23b970211097e5506",
-      "size": 19716803,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.14/mods--funkfrontier-1.0.0.jar",
+      "sha1": "63e32658f0859a29319d0f28b2d1b3e35a99d450",
+      "size": 19717017,
       "mode": "replace",
       "side": "both"
     },
