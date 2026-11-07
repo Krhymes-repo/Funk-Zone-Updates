@@ -1,6 +1,6 @@
 {
-  "version": "1.2.28",
-  "notes": "Funk City loot balls have loot again (they pointed at the wrong Cobbleloots kind and opened empty)",
+  "version": "1.2.29",
+  "notes": "Adds Lootr (+ Lootrmon for Cobblemon gilded chests): loot chests have separate loot for every player",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -125,6 +125,22 @@
       "sha1": "60c6bc5cdb958d98a808b3a285021f0596f3c672",
       "size": 22,
       "mode": "once",
+      "side": "both"
+    },
+    {
+      "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar",
+      "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+      "size": 1075929,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+      "url": "https://edge.forgecdn.net/files/7652/512/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+      "sha1": "6aaea2de5eedb7cb1a3aab39136fed78265b8c6b",
+      "size": 43426,
+      "mode": "replace",
       "side": "both"
     }
   ],
