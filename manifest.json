@@ -1,6 +1,6 @@
 {
-  "version": "1.2.24",
-  "notes": "Old broken quests repaired on login; catches on the routes around a district now count for it (Field Notes credited); side quests can be restarted from the quest log",
+  "version": "1.2.25",
+  "notes": "Exotic Pets pens no longer blink out and respawn every few seconds",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.24/mods--funkfrontier-1.0.0.jar",
-      "sha1": "80ac7635580fc8f9c09495a638e437a810216e7c",
-      "size": 20061009,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.25/mods--funkfrontier-1.0.0.jar",
+      "sha1": "7a8d30fe154ba05e85f9e99c133fbc24fa41db7a",
+      "size": 20061023,
       "mode": "replace",
       "side": "both"
     },
