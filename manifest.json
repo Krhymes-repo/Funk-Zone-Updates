@@ -1,6 +1,6 @@
 {
-  "version": "1.2.16",
-  "notes": "Ghost Lounge and Gym Holder battles now go to the battle arenas. Also: wild-battle catches count for their district, quest givers hand over rewards for things you finished while away, no wild Pokemon under the streets or inside buildings.",
+  "version": "1.2.17",
+  "notes": "Adds a network recorder to track down the mid-battle disconnects. Includes 1.2.16 (ghost and Holder battles in the arenas, catch counting, owed rewards, city spawns).",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.16/mods--funkfrontier-1.0.0.jar",
-      "sha1": "b29a053b50ac06cee9db964309b8d963ec4088de",
-      "size": 19720209,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.17/mods--funkfrontier-1.0.0.jar",
+      "sha1": "7147885795c6286327c065bfa165b10eee0d6a75",
+      "size": 19730818,
       "mode": "replace",
       "side": "both"
     },
