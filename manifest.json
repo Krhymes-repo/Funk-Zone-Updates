@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
-  "notes": "Fix resource pack order (Carbink disconnect)",
+  "version": "1.2.9",
+  "notes": "Open the Berry Bar, Green Thumb and Mint shops; stop roaming Plaza Pokemon multiplying",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,17 +9,17 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.8/mods--funkfrontier-1.0.0.jar",
-      "sha1": "5ebdad260c097eed6f5fe3e14461bd4dc8c3dda3",
-      "size": 19712640,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.9/mods--funkfrontier-1.0.0.jar",
+      "sha1": "eec99c10a5c51c0c5bea33be59f75f59cf8a5015",
+      "size": 19712724,
       "mode": "replace",
       "side": "both"
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.7/datapacks--funk-zone-dp.zip",
-      "sha1": "de97ea79ac0bf800ee43a79b429e75613dac894d",
-      "size": 8563019,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.9/datapacks--funk-zone-dp.zip",
+      "sha1": "37aa914727ef087970d68763b8ba5276e0435b49",
+      "size": 8564802,
       "mode": "replace",
       "side": "both"
     },
