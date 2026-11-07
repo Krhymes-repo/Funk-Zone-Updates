@@ -1,6 +1,6 @@
 {
-  "version": "1.2.12",
-  "notes": "Install now button on the title screen",
+  "version": "1.2.13",
+  "notes": "Team battle camera; no empty loot balls in Funk City",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.12/mods--funkfrontier-1.0.0.jar",
-      "sha1": "a0005b9fe5700efccca4bc1b338227ef103ca0a1",
-      "size": 19715917,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.13/mods--funkfrontier-1.0.0.jar",
+      "sha1": "154de789cb6119f1bbe439d23b970211097e5506",
+      "size": 19716803,
       "mode": "replace",
       "side": "both"
     },
@@ -76,6 +76,14 @@
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.5/config--fml.toml",
       "sha1": "098470f9db1af6c6766b47c77252e5cbb124b861",
       "size": 1550,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "config/cobbleloots.json",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.13/config--cobbleloots.json",
+      "sha1": "0d0465c270381b3664a965fb4e48f5102348110e",
+      "size": 1155,
       "mode": "replace",
       "side": "both"
     },
