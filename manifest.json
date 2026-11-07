@@ -1,6 +1,6 @@
 {
-  "version": "1.2.20",
-  "notes": "Wild Pokemon spawn on the routes again: the glass dome no longer counts as a roof.",
+  "version": "1.2.21",
+  "notes": "The third-person camera now actually sits off your shoulder.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.20/mods--funkfrontier-1.0.0.jar",
-      "sha1": "1f8afe9bca443e9adcb77c59b8fa59a5ba216a8f",
-      "size": 19770408,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.21/mods--funkfrontier-1.0.0.jar",
+      "sha1": "a6423b080d6b49abbadaccee08713b4c3ac55d9f",
+      "size": 19770487,
       "mode": "replace",
       "side": "both"
     },
