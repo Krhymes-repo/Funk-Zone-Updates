@@ -1,6 +1,6 @@
 {
-  "version": "1.2.25",
-  "notes": "Exotic Pets pens no longer blink out and respawn every few seconds",
+  "version": "1.2.26",
+  "notes": "Click your title at the top of the quest log to switch between titles you've earned",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.25/mods--funkfrontier-1.0.0.jar",
-      "sha1": "7a8d30fe154ba05e85f9e99c133fbc24fa41db7a",
-      "size": 20061023,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.26/mods--funkfrontier-1.0.0.jar",
+      "sha1": "380507a98b288e1bfe7b5ca1f15ac6b083c79303",
+      "size": 20064295,
       "mode": "replace",
       "side": "both"
     },
