@@ -1,6 +1,6 @@
 {
-  "version": "1.2.10",
-  "notes": "Shop clerks tracked by id: no more doubled Galleria clerks",
+  "version": "1.2.11",
+  "notes": "Fix the Windows installer not starting (folders with spaces)",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.10/mods--funkfrontier-1.0.0.jar",
-      "sha1": "4d936983dd00cf85f280b77558d1299006d700e0",
-      "size": 19713451,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.11/mods--funkfrontier-1.0.0.jar",
+      "sha1": "486bc141d24ef58d489fb77c0ca9899d1e0ec717",
+      "size": 19713873,
       "mode": "replace",
       "side": "both"
     },
