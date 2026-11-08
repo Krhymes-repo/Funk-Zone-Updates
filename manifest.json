@@ -1,6 +1,6 @@
 {
-  "version": "1.2.39",
-  "notes": "Daily sell limits: each kind of item up to 25,000 coins' worth a day (5 diamonds), 150,000 a day in all",
+  "version": "1.2.40",
+  "notes": "The Galleria's Green Thumb garden shop is now TM Records: DJ Tamsin sells 130 TMs sorted by type. Mulch and mint leaves moved to the Rainbow Gardens Mart.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,17 +9,17 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.39/mods--funkfrontier-1.0.0.jar",
-      "sha1": "1c7352016720d3787cb53019d5eee73f91eb6aca",
-      "size": 20111226,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.40/mods--funkfrontier-1.0.0.jar",
+      "sha1": "ead248ff2ac54a12538264ddac44e4f5dd21d872",
+      "size": 20111304,
       "mode": "replace",
       "side": "both"
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.34/datapacks--funk-zone-dp.zip",
-      "sha1": "fb14f6c4449f2a465488d9d67e285869cbe10a06",
-      "size": 8570226,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.40/datapacks--funk-zone-dp.zip",
+      "sha1": "efc9dbacfa4e39beaaec8c5b6d61ba022ad5c8ee",
+      "size": 8969522,
       "mode": "replace",
       "side": "both"
     },
