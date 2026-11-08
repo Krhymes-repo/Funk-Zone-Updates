@@ -1,6 +1,6 @@
 {
-  "version": "1.2.36",
-  "notes": "PokeBikes go back into your inventory when you get off",
+  "version": "1.2.37",
+  "notes": "PokeBikes don't wear out any more; falling into water in Funk City puts you on the nearest land instead of the Plaza",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.35/mods--funkfrontier-1.0.0.jar",
-      "sha1": "c2a9489bab318ea22b1ad542241d7e3dbfe48660",
-      "size": 20093138,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.37/mods--funkfrontier-1.0.0.jar",
+      "sha1": "68543231744e36c1196665e2218bddcd9f909aea",
+      "size": 20094605,
       "mode": "replace",
       "side": "both"
     },
@@ -97,9 +97,9 @@
     },
     {
       "path": "config/pokebike/pokebike-server.json",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.36/config--pokebike--pokebike-server.json",
-      "sha1": "7c9f150c5e6e9beaf0748ac112a89a59d94c5ec7",
-      "size": 813,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.37/config--pokebike--pokebike-server.json",
+      "sha1": "1cc0f22d53483f0495a50fa5d27163b769a261ff",
+      "size": 815,
       "mode": "replace",
       "side": "both"
     },
