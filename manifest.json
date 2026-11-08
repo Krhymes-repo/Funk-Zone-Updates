@@ -1,6 +1,6 @@
 {
-  "version": "1.2.35",
-  "notes": "Updates now install themselves: the game checks right as it starts, restarts itself to install and reopens. Plaza station buttons set out on one wall, and every travel button is labelled",
+  "version": "1.2.36",
+  "notes": "PokeBikes go back into your inventory when you get off",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -92,6 +92,14 @@
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.19/config--betterthirdperson.json5",
       "sha1": "848177ad9802e2095a0b2cbd4f5b719e69b11cbd",
       "size": 639,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "config/pokebike/pokebike-server.json",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.36/config--pokebike--pokebike-server.json",
+      "sha1": "7c9f150c5e6e9beaf0748ac112a89a59d94c5ec7",
+      "size": 813,
       "mode": "replace",
       "side": "both"
     },
