@@ -1,6 +1,6 @@
 {
-  "version": "1.2.30",
-  "notes": "Chests looted before Lootr get their loot back (each player once); Homestead loot balls can now be opened once by every player",
+  "version": "1.2.31",
+  "notes": "Fixes being kicked for 'Timed out' during battles: the game keeps answering the server under the battle camera",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.30/mods--funkfrontier-1.0.0.jar",
-      "sha1": "bb5e3543b37db6cf5cfb023536b8eecc702aced8",
-      "size": 20078395,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.31/mods--funkfrontier-1.0.0.jar",
+      "sha1": "9cffcdf0d8c6a3f88a2bfba882913de8b845b9c0",
+      "size": 20080221,
       "mode": "replace",
       "side": "both"
     },
