@@ -1,6 +1,6 @@
 {
-  "version": "1.2.33",
-  "notes": "No more wild Alphas, Ultra Beasts or Ultra Wormholes in gyms and battle arenas",
+  "version": "1.2.34",
+  "notes": "Poke Centers added to the Power Plant and Poison districts",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,17 +9,17 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.33/mods--funkfrontier-1.0.0.jar",
-      "sha1": "bf366862ea07c225991c0d56fdfa0c733a20f835",
-      "size": 20085492,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.34/mods--funkfrontier-1.0.0.jar",
+      "sha1": "6bf39feee05500e573770cc4abc21f0937a5a8aa",
+      "size": 20085588,
       "mode": "replace",
       "side": "both"
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.28/datapacks--funk-zone-dp.zip",
-      "sha1": "b23c52c15a2a49820f3882191b5d573735f9e717",
-      "size": 8565738,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.34/datapacks--funk-zone-dp.zip",
+      "sha1": "fb14f6c4449f2a465488d9d67e285869cbe10a06",
+      "size": 8570226,
       "mode": "replace",
       "side": "both"
     },
