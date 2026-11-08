@@ -1,6 +1,6 @@
 {
-  "version": "1.2.32",
-  "notes": "Minigames (Ditto, Derby, gallery, dance, quiz, lights, orders) clean up doubled markers, so each spot gets one",
+  "version": "1.2.33",
+  "notes": "No more wild Alphas, Ultra Beasts or Ultra Wormholes in gyms and battle arenas",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.32/mods--funkfrontier-1.0.0.jar",
-      "sha1": "05a723fbff300214dc20036e16e086bc3812b1b0",
-      "size": 20083087,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.33/mods--funkfrontier-1.0.0.jar",
+      "sha1": "bf366862ea07c225991c0d56fdfa0c733a20f835",
+      "size": 20085492,
       "mode": "replace",
       "side": "both"
     },
