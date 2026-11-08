@@ -1,6 +1,6 @@
 {
-  "version": "1.2.37",
-  "notes": "PokeBikes don't wear out any more; falling into water in Funk City puts you on the nearest land instead of the Plaza",
+  "version": "1.2.38",
+  "notes": "Wardrobe button in the inventory; every plain Minecraft item can be sold (diamonds 5,000)",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.37/mods--funkfrontier-1.0.0.jar",
-      "sha1": "68543231744e36c1196665e2218bddcd9f909aea",
-      "size": 20094605,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.38/mods--funkfrontier-1.0.0.jar",
+      "sha1": "66c07ce4f04aead9d047c0ea29dc83def273ce05",
+      "size": 20105202,
       "mode": "replace",
       "side": "both"
     },
