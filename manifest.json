@@ -1,6 +1,6 @@
 {
-  "version": "1.2.34",
-  "notes": "Poke Centers added to the Power Plant and Poison districts",
+  "version": "1.2.35",
+  "notes": "Updates now install themselves: the game checks right as it starts, restarts itself to install and reopens. Plaza station buttons set out on one wall, and every travel button is labelled",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.34/mods--funkfrontier-1.0.0.jar",
-      "sha1": "6bf39feee05500e573770cc4abc21f0937a5a8aa",
-      "size": 20085588,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.35/mods--funkfrontier-1.0.0.jar",
+      "sha1": "c2a9489bab318ea22b1ad542241d7e3dbfe48660",
+      "size": 20093138,
       "mode": "replace",
       "side": "both"
     },
