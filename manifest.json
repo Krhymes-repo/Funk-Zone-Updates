@@ -1,6 +1,6 @@
 {
-  "version": "1.2.38",
-  "notes": "Wardrobe button in the inventory; every plain Minecraft item can be sold (diamonds 5,000)",
+  "version": "1.2.39",
+  "notes": "Daily sell limits: each kind of item up to 25,000 coins' worth a day (5 diamonds), 150,000 a day in all",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.38/mods--funkfrontier-1.0.0.jar",
-      "sha1": "66c07ce4f04aead9d047c0ea29dc83def273ce05",
-      "size": 20105202,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.39/mods--funkfrontier-1.0.0.jar",
+      "sha1": "1c7352016720d3787cb53019d5eee73f91eb6aca",
+      "size": 20111226,
       "mode": "replace",
       "side": "both"
     },
