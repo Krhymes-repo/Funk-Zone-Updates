@@ -1,6 +1,6 @@
 {
-  "version": "1.2.48",
-  "notes": "Waystones can be used on the Homestead Commons and other protected land.",
+  "version": "1.2.49",
+  "notes": "Crafting tables in your claim pull missing ingredients from your claim's chests when you pick a recipe in the recipe book (shift-click for a full stack).",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.48/mods--funkfrontier-1.0.0.jar",
-      "sha1": "d65faaf69dcb02c065d27bf990ee0ab3db970d42",
-      "size": 20172186,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.49/mods--funkfrontier-1.0.0.jar",
+      "sha1": "a5fe8351d07908c5e2cf61b9cc8297911ed9db86",
+      "size": 20179090,
       "mode": "replace",
       "side": "both"
     },
