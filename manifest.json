@@ -1,6 +1,6 @@
 {
-  "version": "1.2.41",
-  "notes": "Catch quests in a district (like Field Notes in Boulder Heights) count more reliably.",
+  "version": "1.2.42",
+  "notes": "Magikarp Derby betting now opens a menu instead of chat buttons. The Pokemon Bag has an Auto-pack on/off switch beside its screen.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.41/mods--funkfrontier-1.0.0.jar",
-      "sha1": "5ad487781a07eb6c30eb46b6c7f81f8b40fc6749",
-      "size": 20114195,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.42/mods--funkfrontier-1.0.0.jar",
+      "sha1": "288671687de91fcdc3b5929a95594bc79a2abc91",
+      "size": 20128533,
       "mode": "replace",
       "side": "both"
     },
