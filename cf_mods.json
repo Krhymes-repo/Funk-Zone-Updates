@@ -1,4 +1,22 @@
 {
+  "mods/Chunky-NeoForge-1.4.23.jar": "https://edge.forgecdn.net/files/6383/261/Chunky-NeoForge-1.4.23.jar",
+  "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar": "https://edge.forgecdn.net/files/6054/947/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+  "mods/Terralith_1.21.x_v2.6.2.jar": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar",
+  "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar": "https://edge.forgecdn.net/files/8894/736/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+  "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar": "https://edge.forgecdn.net/files/8806/71/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+  "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar": "https://edge.forgecdn.net/files/6276/955/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+  "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar": "https://edge.forgecdn.net/files/5954/804/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+  "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar": "https://edge.forgecdn.net/files/5924/482/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+  "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar": "https://edge.forgecdn.net/files/5812/193/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+  "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar": "https://edge.forgecdn.net/files/6606/621/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+  "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar": "https://edge.forgecdn.net/files/5924/487/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+  "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar": "https://edge.forgecdn.net/files/6272/264/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+  "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar": "https://edge.forgecdn.net/files/5812/532/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+  "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar": "https://edge.forgecdn.net/files/5812/553/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+  "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar": "https://edge.forgecdn.net/files/6913/179/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+  "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar": "https://edge.forgecdn.net/files/5812/546/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
   "mods/lootr-neoforge-1.21.1-1.11.38.127.jar": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar",
-  "mods/lootrmon-neoforge-1.21.1-0.0.0.3.jar": "https://edge.forgecdn.net/files/7652/512/lootrmon-neoforge-1.21.1-0.0.0.3.jar"
+  "mods/lootrmon-neoforge-1.21.1-0.0.0.3.jar": "https://edge.forgecdn.net/files/7652/512/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+  "mods/neoforge-ctov-1.21.1-3.6.4.jar": "https://edge.forgecdn.net/files/9435/193/neoforge-ctov-1.21.1-3.6.4.jar",
+  "mods/tectonic-3.0.28-neoforge-21.1.jar": "https://edge.forgecdn.net/files/8855/43/tectonic-3.0.28-neoforge-21.1.jar"
 }

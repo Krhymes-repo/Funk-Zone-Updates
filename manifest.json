@@ -1,6 +1,6 @@
 {
-  "version": "1.2.46",
-  "notes": "Rumors can be tracked: the tracker, compass and Show me lead you to whoever has the quest.",
+  "version": "1.2.47",
+  "notes": "The Wilds get bigger: Terralith biomes, Tectonic terrain, YUNG's structures and new villages in land nobody's explored yet. New: the Wilds Ranger Corps - talk to Ranger Rowan at the Homestead Commons for daily and weekly contracts, ranks, rare Pokemon and the Ranger Shop (/ranger).",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,17 +9,17 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.46/mods--funkfrontier-1.0.0.jar",
-      "sha1": "607f8e5ea8837a72863bc4d9e06a6e005729cb04",
-      "size": 20133532,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.47/mods--funkfrontier-1.0.0.jar",
+      "sha1": "2dfe480d24b6a01295d992a62a0437b33df7da27",
+      "size": 20172124,
       "mode": "replace",
       "side": "both"
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.43/datapacks--funk-zone-dp.zip",
-      "sha1": "15b0772b0ef5553177a07829e4240d418ece18b8",
-      "size": 8969542,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.47/datapacks--funk-zone-dp.zip",
+      "sha1": "7b6331723a5f0288a7c22912c290230024f628d3",
+      "size": 8977532,
       "mode": "replace",
       "side": "both"
     },
@@ -104,6 +104,22 @@
       "side": "both"
     },
     {
+      "path": "datapacks/Funk Zone Wilds Biomes.zip",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.47/datapacks--funk-zone-wilds-biomes.zip",
+      "sha1": "26cab91b053ce593b081c6c5bce6f3998c05807b",
+      "size": 64231,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "config/biome_replacer.properties",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.47/config--biome_replacer.properties",
+      "sha1": "44b5dccad085c9cd28efa900ad4acb6b457f86bd",
+      "size": 518,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
       "path": "config/funkfrontier.json",
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier.json",
       "sha1": "47fe423b61ceb0f82e0431da0539b0feda52d6f9",
@@ -136,6 +152,134 @@
       "side": "both"
     },
     {
+      "path": "mods/Chunky-NeoForge-1.4.23.jar",
+      "url": "https://edge.forgecdn.net/files/6383/261/Chunky-NeoForge-1.4.23.jar",
+      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+      "size": 340572,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "url": "https://edge.forgecdn.net/files/6054/947/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191",
+      "size": 120364,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/Terralith_1.21.x_v2.6.2.jar",
+      "url": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar",
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+      "size": 2814865,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "url": "https://edge.forgecdn.net/files/8894/736/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+      "size": 413763,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "url": "https://edge.forgecdn.net/files/8806/71/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+      "sha1": "6420fdb345b5e33b3a51254799dc281c9c53d3c5",
+      "size": 400316,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "url": "https://edge.forgecdn.net/files/6276/955/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+      "sha1": "90529257dbd92558998c65178294bc7b2fd16a64",
+      "size": 905839,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/5954/804/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+      "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4",
+      "size": 782160,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "url": "https://edge.forgecdn.net/files/5924/482/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+      "sha1": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8",
+      "size": 795839,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/5812/193/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "6a14e1d8201f068ca87ef8333e471c5378955906",
+      "size": 493967,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "url": "https://edge.forgecdn.net/files/6606/621/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+      "sha1": "4061ece2141475227646649046fc14c2da505922",
+      "size": 609639,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "url": "https://edge.forgecdn.net/files/5924/487/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+      "sha1": "fba629defdb92ad99ec4f411895afb6e19555a18",
+      "size": 1025571,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "url": "https://edge.forgecdn.net/files/6272/264/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+      "sha1": "5d06a5850af7c577612d4592706a8e156bbe1cbf",
+      "size": 461244,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/5812/532/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+      "sha1": "bbf6c91f4a2829c58bc024eaaab821986bc93de6",
+      "size": 174789,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/5812/553/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "18099c2d54acd16bb8ab90a66f40fa16496d065e",
+      "size": 136820,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/6913/179/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+      "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04",
+      "size": 13006621,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "url": "https://edge.forgecdn.net/files/5812/546/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+      "sha1": "62833733aaf407f36bdacf648ed4b2ef9940662b",
+      "size": 198183,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
       "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
       "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar",
       "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
@@ -148,6 +292,22 @@
       "url": "https://edge.forgecdn.net/files/7652/512/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
       "sha1": "6aaea2de5eedb7cb1a3aab39136fed78265b8c6b",
       "size": 43426,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/neoforge-ctov-1.21.1-3.6.4.jar",
+      "url": "https://edge.forgecdn.net/files/9435/193/neoforge-ctov-1.21.1-3.6.4.jar",
+      "sha1": "753b631f6cb258a448ac12b858e9a1cacbfefb6b",
+      "size": 7239618,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/tectonic-3.0.28-neoforge-21.1.jar",
+      "url": "https://edge.forgecdn.net/files/8855/43/tectonic-3.0.28-neoforge-21.1.jar",
+      "sha1": "db15156eec4320c2997c4dd4948119472de01224",
+      "size": 451757,
       "mode": "replace",
       "side": "both"
     }
