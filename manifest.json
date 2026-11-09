@@ -1,6 +1,6 @@
 {
-  "version": "1.2.50",
-  "notes": "Create arrives! Build machines, trains (Steam n Rails), airships (Aeronautics + add-ons), copycat blocks, deco and more. The Galleria grand staircase is now a pair of real escalators. Machines work in your own claim but not in Funk City or the Commons. ScalableLux removed (it clashes with the airship physics).",
+  "version": "1.2.51",
+  "notes": "Bikes work in the Homestead Commons now (they used to freeze you in place there).",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.50/mods--funkfrontier-1.0.0.jar",
-      "sha1": "470a1ddde402360d3a2118a9238cf01a68e4a682",
-      "size": 20191236,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.51/mods--funkfrontier-1.0.0.jar",
+      "sha1": "de980bce02806e5dc532a551a29a2842f6b46f79",
+      "size": 20191248,
       "mode": "replace",
       "side": "both"
     },
@@ -432,7 +432,5 @@
       "side": "both"
     }
   ],
-  "remove": [
-    "mods/ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar"
-  ]
+  "remove": []
 }
