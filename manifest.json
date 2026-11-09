@@ -1,6 +1,6 @@
 {
-  "version": "1.2.44",
-  "notes": "Koga's gym has a pad beside him that takes you back to the entrance.",
+  "version": "1.2.45",
+  "notes": "Bikes no longer get packed into the Pokemon Bag automatically.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.44/mods--funkfrontier-1.0.0.jar",
-      "sha1": "2722c36cbbc75aaec6550c18eac2e6284c9c27bf",
-      "size": 20133049,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.45/mods--funkfrontier-1.0.0.jar",
+      "sha1": "8117e412bda22b4f39b797cbec74cf0b3c8f0bc8",
+      "size": 20133067,
       "mode": "replace",
       "side": "both"
     },
