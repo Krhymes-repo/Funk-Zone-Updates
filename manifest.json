@@ -1,6 +1,6 @@
 {
-  "version": "1.2.42",
-  "notes": "Magikarp Derby betting now opens a menu instead of chat buttons. The Pokemon Bag has an Auto-pack on/off switch beside its screen.",
+  "version": "1.2.43",
+  "notes": "Builder Bea at the Homestead Commons now sells Waystones (5,000).",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -17,9 +17,9 @@
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.40/datapacks--funk-zone-dp.zip",
-      "sha1": "efc9dbacfa4e39beaaec8c5b6d61ba022ad5c8ee",
-      "size": 8969522,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.43/datapacks--funk-zone-dp.zip",
+      "sha1": "15b0772b0ef5553177a07829e4240d418ece18b8",
+      "size": 8969542,
       "mode": "replace",
       "side": "both"
     },
