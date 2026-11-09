@@ -1,6 +1,6 @@
 {
-  "version": "1.2.47",
-  "notes": "The Wilds get bigger: Terralith biomes, Tectonic terrain, YUNG's structures and new villages in land nobody's explored yet. New: the Wilds Ranger Corps - talk to Ranger Rowan at the Homestead Commons for daily and weekly contracts, ranks, rare Pokemon and the Ranger Shop (/ranger).",
+  "version": "1.2.48",
+  "notes": "Waystones can be used on the Homestead Commons and other protected land.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,9 +9,9 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.47/mods--funkfrontier-1.0.0.jar",
-      "sha1": "2dfe480d24b6a01295d992a62a0437b33df7da27",
-      "size": 20172124,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.48/mods--funkfrontier-1.0.0.jar",
+      "sha1": "d65faaf69dcb02c065d27bf990ee0ab3db970d42",
+      "size": 20172186,
       "mode": "replace",
       "side": "both"
     },
