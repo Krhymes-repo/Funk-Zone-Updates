@@ -1,6 +1,6 @@
 {
-  "version": "1.2.51",
-  "notes": "Bikes work in the Homestead Commons now (they used to freeze you in place there).",
+  "version": "1.2.52",
+  "notes": "Alpha Pokemon now get their own battleground, the Alpha Den. Wild alphas you find out in the world no longer vanish when the battle starts.",
   "zip": "1.2",
   "server": {
     "name": "Funk Zone",
@@ -9,17 +9,17 @@
   "files": [
     {
       "path": "mods/funkfrontier-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.51/mods--funkfrontier-1.0.0.jar",
-      "sha1": "de980bce02806e5dc532a551a29a2842f6b46f79",
-      "size": 20191248,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.52/mods--funkfrontier-1.0.0.jar",
+      "sha1": "0bd7686e8bcd0ffe4284bd077f4e9d820431f2b0",
+      "size": 20191501,
       "mode": "replace",
       "side": "both"
     },
     {
       "path": "datapacks/Funk Zone DP.zip",
-      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.47/datapacks--funk-zone-dp.zip",
-      "sha1": "7b6331723a5f0288a7c22912c290230024f628d3",
-      "size": 8977532,
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.52/datapacks--funk-zone-dp.zip",
+      "sha1": "9216ef3f437058cf94cda095f9ed95d4d019abcd",
+      "size": 8981226,
       "mode": "replace",
       "side": "both"
     },
