@@ -432,5 +432,7 @@
       "side": "both"
     }
   ],
-  "remove": []
+  "remove": [
+    "mods/ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar"
+  ]
 }
