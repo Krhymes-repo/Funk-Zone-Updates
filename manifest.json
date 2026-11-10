@@ -1198,6 +1198,54 @@
    "size": 1511305,
    "mode": "replace",
    "side": "client"
+  },
+  {
+   "path": "mods/artifacts-neoforge-13.2.5.jar",
+   "url": "https://edge.forgecdn.net/files/8791/899/artifacts-neoforge-13.2.5.jar",
+   "sha1": "fb6cd3be2d034dde369ffd7558c95c6daa44189e",
+   "size": 1086922,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/BuildingWands-neoforge-MC1.21-2.14.jar",
+   "url": "https://edge.forgecdn.net/files/7527/71/BuildingWands-neoforge-MC1.21-2.14.jar",
+   "sha1": "15d4c4a1b240daaf040403168041adeaadbcfa52",
+   "size": 413807,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobbledex-rei-emi-jei-neoforge-2.32.14.jar",
+   "url": "https://edge.forgecdn.net/files/9396/631/cobbledex-rei-emi-jei-neoforge-2.32.14.jar",
+   "sha1": "cd02afbe8da2f92f788e7f050fac23e26b907d91",
+   "size": 8971279,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon_trainers_backpack-neoforge-1.0.2.jar",
+   "url": "https://edge.forgecdn.net/files/8467/958/cobblemon_trainers_backpack-neoforge-1.0.2.jar",
+   "sha1": "6164b4a6c3b1a58243587d1a309993fcaef8b98e",
+   "size": 214005,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/create-cobblemon-integrations-0.3.9.jar",
+   "url": "https://edge.forgecdn.net/files/8400/881/create-cobblemon-integrations-0.3.9.jar",
+   "sha1": "216789cc9ee6e8c244fafdbb55b1bc7a6287b3ab",
+   "size": 809402,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/OctoLib-NEOFORGE-0.6.3-1.21.jar",
+   "url": "https://edge.forgecdn.net/files/9478/818/OctoLib-NEOFORGE-0.6.3-1.21.jar",
+   "sha1": "df7ded04b794d2d61dbb8e54e34527624c0cc1aa",
+   "size": 544385,
+   "mode": "replace",
+   "side": "both"
   }
  ],
  "remove": [

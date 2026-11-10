@@ -1271,6 +1271,12 @@
   "mods/zamega-neoforge-1.8.2+1.8.2.jar",
   "mods/ShadowedHearts-neoforge-1.0.6-SNAPSHOT-funkzone.jar",
   "mods/cobblemonminigames-neoforge-4.2.1+cobblemon1.8.0-funkzone.jar",
-  "mods/cobblemon-environment-interactions-neoforge-3.1.0-neoforge.jar"
+  "mods/cobblemon-environment-interactions-neoforge-3.1.0-neoforge.jar",
+  "mods/artifacts-neoforge-13.2.5.jar",
+  "mods/BuildingWands-neoforge-MC1.21-2.14.jar",
+  "mods/cobbledex-rei-emi-jei-neoforge-2.32.14.jar",
+  "mods/cobblemon_trainers_backpack-neoforge-1.0.2.jar",
+  "mods/create-cobblemon-integrations-0.3.9.jar",
+  "mods/OctoLib-NEOFORGE-0.6.3-1.21.jar"
  ]
 }
