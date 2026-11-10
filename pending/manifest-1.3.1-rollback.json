@@ -1,0 +1,1273 @@
+{
+ "version": "1.3.1",
+ "notes": "Rolled back to the 1.2.52 setup (Cobblemon 1.7.3) while a problem with the Cobblemon 1.8 update is fixed.",
+ "zip": "1.2",
+ "server": {
+  "name": "Funk Zone",
+  "address": "funkzone:25565"
+ },
+ "files": [
+  {
+   "path": "mods/funkfrontier-1.0.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.52/mods--funkfrontier-1.0.0.jar",
+   "sha1": "0bd7686e8bcd0ffe4284bd077f4e9d820431f2b0",
+   "size": 20191501,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "datapacks/Funk Zone DP.zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.52/datapacks--funk-zone-dp.zip",
+   "sha1": "9216ef3f437058cf94cda095f9ed95d4d019abcd",
+   "size": 8981226,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "resourcepacks/Funk Zone Music.zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/resourcepacks--funk-zone-music.zip",
+   "sha1": "3ba76227d7baa76794e83a90031e909d180e89a4",
+   "size": 21811497,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/funk_city_night.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--assets--funk_city_night.png",
+   "sha1": "853fb0f445d245d48df0df309ffa8b353f37fe8f",
+   "size": 55822,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/funk_city_title.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--assets--funk_city_title.png",
+   "sha1": "7fc5016872590b6cc57971504a646a30b1b34140",
+   "size": 240069,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/customization/cobbleverse_main_curseforge.txt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--customization--cobbleverse_main_curseforge.txt",
+   "sha1": "dd883d2ae34dfc467ac7b736bdd22de0de831a86",
+   "size": 68973,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/customization/cobbleverse_pause_menu_curseforge.txt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--customization--cobbleverse_pause_menu_curseforge.txt",
+   "sha1": "030c17b0e65df5104e04c0fbe606370f612710ef",
+   "size": 47861,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/customization/cobbleverse_resourcepack_selection.txt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--customization--cobbleverse_resourcepack_selection.txt",
+   "sha1": "c0cf28e051d4070e5fcf530dc4fa33e04ee33887",
+   "size": 28386,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fml.toml",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.5/config--fml.toml",
+   "sha1": "098470f9db1af6c6766b47c77252e5cbb124b861",
+   "size": 1550,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/cobbleloots.json",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.30/config--cobbleloots.json",
+   "sha1": "c6f879e760bae0533be0b3d0f2e6f903ef6393b6",
+   "size": 1156,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/betterthirdperson.json5",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.19/config--betterthirdperson.json5",
+   "sha1": "848177ad9802e2095a0b2cbd4f5b719e69b11cbd",
+   "size": 639,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/pokebike/pokebike-server.json",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.37/config--pokebike--pokebike-server.json",
+   "sha1": "1cc0f22d53483f0495a50fa5d27163b769a261ff",
+   "size": 815,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "datapacks/Funk Zone Wilds Biomes.zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.47/datapacks--funk-zone-wilds-biomes.zip",
+   "sha1": "26cab91b053ce593b081c6c5bce6f3998c05807b",
+   "size": 64231,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/biome_replacer.properties",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2.47/config--biome_replacer.properties",
+   "sha1": "44b5dccad085c9cd28efa900ad4acb6b457f86bd",
+   "size": 518,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/funkfrontier.json",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier.json",
+   "sha1": "47fe423b61ceb0f82e0431da0539b0feda52d6f9",
+   "size": 1453,
+   "mode": "once",
+   "side": "both"
+  },
+  {
+   "path": "config/funkfrontier-arenas.json",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier-arenas.json",
+   "sha1": "f6c3c169845fe7b19950679bbd290c86238989a5",
+   "size": 125,
+   "mode": "once",
+   "side": "both"
+  },
+  {
+   "path": "config/funkfrontier-transitions.properties",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier-transitions.properties",
+   "sha1": "87cbc244149f434f655663dbc6992a6299ba6e6a",
+   "size": 213,
+   "mode": "once",
+   "side": "both"
+  },
+  {
+   "path": "config/funkfrontier-videos.json",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--funkfrontier-videos.json",
+   "sha1": "60c6bc5cdb958d98a808b3a285021f0596f3c672",
+   "size": 22,
+   "mode": "once",
+   "side": "both"
+  },
+  {
+   "path": "mods/Chunky-NeoForge-1.4.23.jar",
+   "url": "https://edge.forgecdn.net/files/6383/261/Chunky-NeoForge-1.4.23.jar",
+   "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+   "size": 340572,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Create Encased-1.21.1-1.10.0-fix1.jar",
+   "url": "https://edge.forgecdn.net/files/9332/388/Create%20Encased-1.21.1-1.10.0-fix1.jar",
+   "sha1": "c37f6a614621b2c37e5fb1d78f07f31d9456e0c1",
+   "size": 3383308,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+   "url": "https://edge.forgecdn.net/files/6054/947/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+   "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191",
+   "size": 120364,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Terralith_1.21.x_v2.6.2.jar",
+   "url": "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar",
+   "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+   "size": 2814865,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+   "url": "https://edge.forgecdn.net/files/8894/736/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+   "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+   "size": 413763,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+   "url": "https://edge.forgecdn.net/files/8806/71/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar",
+   "sha1": "6420fdb345b5e33b3a51254799dc281c9c53d3c5",
+   "size": 400316,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+   "url": "https://edge.forgecdn.net/files/6276/955/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+   "sha1": "90529257dbd92558998c65178294bc7b2fd16a64",
+   "size": 905839,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+   "url": "https://edge.forgecdn.net/files/5954/804/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+   "sha1": "73a660c13063450e555e5e2c015ae24d606b32b4",
+   "size": 782160,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+   "url": "https://edge.forgecdn.net/files/5924/482/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+   "sha1": "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8",
+   "size": 795839,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+   "url": "https://edge.forgecdn.net/files/5812/193/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+   "sha1": "6a14e1d8201f068ca87ef8333e471c5378955906",
+   "size": 493967,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+   "url": "https://edge.forgecdn.net/files/6606/621/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+   "sha1": "4061ece2141475227646649046fc14c2da505922",
+   "size": 609639,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+   "url": "https://edge.forgecdn.net/files/5924/487/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+   "sha1": "fba629defdb92ad99ec4f411895afb6e19555a18",
+   "size": 1025571,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+   "url": "https://edge.forgecdn.net/files/6272/264/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+   "sha1": "5d06a5850af7c577612d4592706a8e156bbe1cbf",
+   "size": 461244,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+   "url": "https://edge.forgecdn.net/files/5812/532/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar",
+   "sha1": "bbf6c91f4a2829c58bc024eaaab821986bc93de6",
+   "size": 174789,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+   "url": "https://edge.forgecdn.net/files/5812/553/YungsBridges-1.21.1-NeoForge-5.1.1.jar",
+   "sha1": "18099c2d54acd16bb8ab90a66f40fa16496d065e",
+   "size": 136820,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+   "url": "https://edge.forgecdn.net/files/6913/179/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+   "sha1": "bcab81f578b3cb31e599ae327c6634b9fa8d0f04",
+   "size": 13006621,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+   "url": "https://edge.forgecdn.net/files/5812/546/YungsExtras-1.21.1-NeoForge-5.1.1.jar",
+   "sha1": "62833733aaf407f36bdacf648ed4b2ef9940662b",
+   "size": 198183,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/aeroworks-1.5.0.jar",
+   "url": "https://edge.forgecdn.net/files/8743/51/aeroworks-1.5.0.jar",
+   "sha1": "a14ff1c30f3c824b36ee6e2e711a47fd537a5c5f",
+   "size": 790152,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/bellsandwhistles-0.4.7-1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/6299/879/bellsandwhistles-0.4.7-1.21.1.jar",
+   "sha1": "85944080f8bd47dad64a8193a70662cd9ddbb200",
+   "size": 193619,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/copycats-3.0.11-mc.1.21.1-neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/9504/789/copycats-3.0.11-mc.1.21.1-neoforge.jar",
+   "sha1": "020a921b43794bb2172d48a5e6ec4a4f56a681b9",
+   "size": 1805121,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/create-1.21.1-6.0.10.jar",
+   "url": "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+   "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+   "size": 19123767,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+   "url": "https://edge.forgecdn.net/files/8763/471/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+   "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
+   "size": 33123131,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/create_bb-1.0.8-1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8723/463/create_bb-1.0.8-1.21.1.jar",
+   "sha1": "59220d82cf962773e26778fc24c454e761368092",
+   "size": 2618795,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/createdeco-2.1.3.jar",
+   "url": "https://edge.forgecdn.net/files/7943/181/createdeco-2.1.3.jar",
+   "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38",
+   "size": 3328498,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/createframed-1.21.1-1.8.2.jar",
+   "url": "https://edge.forgecdn.net/files/8394/637/createframed-1.21.1-1.8.2.jar",
+   "sha1": "222c998ffc62cd734e1318134c7f182c68f2b527",
+   "size": 2871366,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/escalated-1.3.2-mc.1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8679/269/escalated-1.3.2-mc.1.21.1.jar",
+   "sha1": "34854b74bd9c627b873cb21bb5ec15fbad038db6",
+   "size": 512624,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/gadgets-and-gizmos-bundled-2.0-pre-release-4.jar",
+   "url": "https://edge.forgecdn.net/files/9260/191/gadgets-and-gizmos-bundled-2.0-pre-release-4.jar",
+   "sha1": "935ffdc6696ed9e00817d87859b9175a5d14fcc1",
+   "size": 36464232,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/interiors-0.6.1 v3.jar",
+   "url": "https://edge.forgecdn.net/files/8974/633/interiors-0.6.1%20v3.jar",
+   "sha1": "1c1cca4888ca30e12e6dee53f466ffa8af4ab796",
+   "size": 471085,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/lootr-neoforge-1.21.1-1.11.38.127.jar",
+   "url": "https://edge.forgecdn.net/files/8968/561/lootr-neoforge-1.21.1-1.11.38.127.jar",
+   "sha1": "7a305b581abd90e1a8b7c1bb5eb4511d2653aa58",
+   "size": 1075929,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+   "url": "https://edge.forgecdn.net/files/7652/512/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
+   "sha1": "6aaea2de5eedb7cb1a3aab39136fed78265b8c6b",
+   "size": 43426,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/neoforge-ctov-1.21.1-3.6.4.jar",
+   "url": "https://edge.forgecdn.net/files/9435/193/neoforge-ctov-1.21.1-3.6.4.jar",
+   "sha1": "753b631f6cb258a448ac12b858e9a1cacbfefb6b",
+   "size": 7239618,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/railways-0.2.1+neoforge-mc1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8243/336/railways-0.2.1%2bneoforge-mc1.21.1.jar",
+   "sha1": "f2d71927ef504b597a6c992d02118c1e6ee6e369",
+   "size": 12118736,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/sable-neoforge-1.21.1-2.0.6.jar",
+   "url": "https://edge.forgecdn.net/files/9043/865/sable-neoforge-1.21.1-2.0.6.jar",
+   "sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+   "size": 12986135,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/sablexaeromaps-1.21.1-1.4.2.jar",
+   "url": "https://edge.forgecdn.net/files/9321/190/sablexaeromaps-1.21.1-1.4.2.jar",
+   "sha1": "1a8f809b7346448f9825db4d387a1e4a1439e243",
+   "size": 111146,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/tectonic-3.0.28-neoforge-21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8855/43/tectonic-3.0.28-neoforge-21.1.jar",
+   "sha1": "db15156eec4320c2997c4dd4948119472de01224",
+   "size": 451757,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "resourcepacks/COBBLEVERSE-CCC.zip",
+   "url": "https://edge.forgecdn.net/files/7812/941/COBBLEVERSE-CCC.zip",
+   "sha1": "30db98755a6a0ca565ec8ccd13503c180f6a40b9",
+   "size": 8536643,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
+   "url": "https://edge.forgecdn.net/files/7585/194/E19%20Cobblemon%20Minimap%20Icons.zip",
+   "sha1": "1aefc7a313b3c6f719d2fa53916afff18cd0792f",
+   "size": 19398814,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "resourcepacks/FreshAnimations_v1.10.4.zip",
+   "url": "https://edge.forgecdn.net/files/7670/377/FreshAnimations_v1.10.4.zip",
+   "sha1": "73db740a6868e043c5e615c036fca2c912615b6e",
+   "size": 850941,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "resourcepacks/Fully Hisuian Starters 1.1.1.zip",
+   "url": "https://edge.forgecdn.net/files/7550/982/Fully%20Hisuian%20Starters%201.1.1.zip",
+   "sha1": "aec849f89f5351c30ef31da5d91691aebfaac590",
+   "size": 202557,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "resourcepacks/Icon Fresh 0.4.zip",
+   "url": "https://edge.forgecdn.net/files/7402/610/Icon%20Fresh%200.4.zip",
+   "sha1": "b9ddfb4614220612c7492666db730393954435b8",
+   "size": 852471,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/ShadowedHearts-neoforge-1.0.6-SNAPSHOT.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/mods--shadowedhearts-neoforge-1.0.6-snapshot.jar",
+   "sha1": "41e65a4aa69a6535268e1ef85836f2a909a74e73",
+   "size": 16609710,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cbmnfieldlab-neoforge-2.0.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/mods--cbmnfieldlab-neoforge-2.0.2.jar",
+   "sha1": "1fe6f84c14b555c40c1232630c8ec8e8a912d5e4",
+   "size": 155187,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobble_contests-neoforge-1.0.6.jar",
+   "url": "https://edge.forgecdn.net/files/7371/870/cobble_contests-neoforge-1.0.6.jar",
+   "sha1": "10e59fbeffc1c4aef8ea4f14edf4ead24d97ed54",
+   "size": 773243,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/better-pokedex-scanner-1.0.0.jar",
+   "url": "https://edge.forgecdn.net/files/7931/23/better-pokedex-scanner-1.0.0.jar",
+   "sha1": "cfb76dc69acbe4ec18a7f59b0911c7399afd671e",
+   "size": 350293,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon-environment-interactions-neoforge-3.1.0.jar",
+   "url": "https://edge.forgecdn.net/files/8211/166/cobblemon-environment-interactions-neoforge-3.1.0-neoforge.jar",
+   "sha1": "5162191dec164073772b2025cc8a9d4da2d42385",
+   "size": 255153,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon_outbreaks-neoforge-1.1.2.jar",
+   "url": "https://edge.forgecdn.net/files/7877/665/cobblemon_outbreaks-neoforge-1.1.2.jar",
+   "sha1": "ea4e6428470dfb24a4df0ead7bfc8994699eb44c",
+   "size": 265488,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon_snap-neoforge-1.1.3.jar",
+   "url": "https://edge.forgecdn.net/files/7957/574/cobblemon_snap-neoforge-1.1.3.jar",
+   "sha1": "8279507e9dfe347c24bc32ae955d486332d09c0e",
+   "size": 4945713,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemonminigames-neoforge-4.2.1+cobblemon1.8.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/mods--cobblemonminigames-neoforge-4.2.1-cobblemon1.8.0.jar",
+   "sha1": "1eca767559acb51fdaf6bf52012af6672a1586eb",
+   "size": 7930148,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Cobbreeding-neoforge-2.2.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/mods--cobbreeding-neoforge-2.2.2.jar",
+   "sha1": "5e031dde496b447b4aa9b51bd63c3f6f9a78be86",
+   "size": 468045,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Gts-2.5.1-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/mods--gts-2.5.1-neoforge.jar",
+   "sha1": "9d0a9b5d1761511f8cfba077c40ff07f634b9914",
+   "size": 513160,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon-journey-mounts-1.7.2.jar",
+   "url": "https://edge.forgecdn.net/files/7516/317/cobblemon-journey-mounts-1.7.2.jar",
+   "sha1": "e9934906ef119dc7ab1001f72d4e7b23c2f73220",
+   "size": 7368421,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "datapacks/COBBLEVERSE-DP-v21-CF.zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/datapacks--cobbleverse-dp-v21-cf.zip",
+   "sha1": "7c244f5a0ce2cce031f84a6102190a9918318b00",
+   "size": 4661083,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "datapacks/COBBLEVERSE-Loot-DP-v11.zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/datapacks--cobbleverse-loot-dp-v11.zip",
+   "sha1": "bd9fc07140300680750d0fd20fa84039e0a687a4",
+   "size": 147472,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "datapacks/COBBLEVERSE-RCT-DP-v20.zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/datapacks--cobbleverse-rct-dp-v20.zip",
+   "sha1": "40cbae47d4c1dcb83a5743798bf49c85e6f7b357",
+   "size": 370553,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/cobbleverse/Funk Zone RP.zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/config--cobbleverse--funk-zone-rp.zip",
+   "sha1": "b51c4f12db2652c9f3839a30d9ca58ec7c685efd",
+   "size": 15190144,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "resourcepacks/COBBLEVERSE RP [CF].zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/resourcepacks--cobbleverse-rp--cf-.zip",
+   "sha1": "98512743fe30d063d0d903ceae4eb59535e2d57e",
+   "size": 2025635,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/Carved Wood-neoforge-1.21.1-1.9.7.jar",
+   "url": "https://edge.forgecdn.net/files/8437/529/Carved%20Wood-neoforge-1.21.1-1.9.7.jar",
+   "sha1": "f496c8eec05e84161eeead52a3c7b715ec6fea4b",
+   "size": 2781079,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/CobbleDollars-neoforge-2.0.0+Beta-5.1+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/6604/564/CobbleDollars-neoforge-2.0.0%2bBeta-5.1%2b1.21.1.jar",
+   "sha1": "caf03c43fca60906d176e1446ba35f2988b0c3e1",
+   "size": 373240,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Cobblemon-Utility+-neoforge-1.7.4.jar",
+   "url": "https://edge.forgecdn.net/files/8396/707/Cobblemon-Utility%2b-neoforge-1.7.4.jar",
+   "sha1": "ee649206002d6e37f50c96cd52b87e1b34e34d2d",
+   "size": 188816,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Cobblemon-neoforge-1.7.3+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/7553/231/Cobblemon-neoforge-1.7.3%2b1.21.1.jar",
+   "sha1": "580ea363bbc391c98e548962a47c683155522f38",
+   "size": 128748941,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/CobblemonSizeVariationNeoforge-1.4.0+1.7.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/mods--cobblemonsizevariationneoforge-1.4.0-1.7.0.jar",
+   "sha1": "86fdc65484be277dc73513674bddcfdd837408bc",
+   "size": 674,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/8177/588/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+   "sha1": "a8e8a45390d30b82f722acc669d5cb2a5d9fff79",
+   "size": 4210708,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8348/515/ImmediatelyFast-NeoForge-1.6.11%2b1.21.1.jar",
+   "sha1": "6594ea2759455f4e135b9479f807bacf4b4b0b43",
+   "size": 361795,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/MoreCobblemonTweaks-neoforge-1.3.3.jar",
+   "url": "https://edge.forgecdn.net/files/7593/359/MoreCobblemonTweaks-neoforge-1.3.3.jar",
+   "sha1": "dcfce07ad4604a2a8a3a97f6c505ae6e015210d9",
+   "size": 138756,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar",
+   "url": "https://edge.forgecdn.net/files/7544/190/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar",
+   "sha1": "9e564afb3c2e69fecf401f54f51f4bce335aea28",
+   "size": 9116,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/Only Bottle Caps-1.4.0-neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/8738/783/Only%20Bottle%20Caps-1.4.0-neoforge.jar",
+   "sha1": "847c6f7fcf86f5b141c7ba071a09e3d25476fcc2",
+   "size": 51483,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Platform-neoforge-1.21.1-1.3.3.jar",
+   "url": "https://edge.forgecdn.net/files/8075/942/Platform-neoforge-1.21.1-1.3.3.jar",
+   "sha1": "4132ad6809008698b7f489a878e5a33a3879bbfd",
+   "size": 489341,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/SafePastures-1.1.1+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/7248/5/SafePastures-1.1.1%2b1.21.1.jar",
+   "sha1": "e2084f5e675cec071029492e13774f7ab71c9c1f",
+   "size": 8154,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+   "url": "https://edge.forgecdn.net/files/8229/724/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+   "sha1": "eb30efe569cbd5186abf9e5d1e64d4a84895b346",
+   "size": 54902084,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/balm-neoforge-1.21.1-21.0.63.jar",
+   "url": "https://edge.forgecdn.net/files/8424/824/balm-neoforge-1.21.1-21.0.63.jar",
+   "sha1": "d452e71d4ff81a047f6e22f9a3ddb3c72632751e",
+   "size": 782380,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/berrypouch-neoforge-1.21.1-0.5.4-beta.jar",
+   "url": "https://edge.forgecdn.net/files/7583/800/berrypouch-neoforge-1.21.1-0.5.4-beta.jar",
+   "sha1": "7e00885e79065c7c7a7f923e504c646d6ac020a7",
+   "size": 300604,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/capturexp-neoforge-1.7.3-1.3.0.jar",
+   "url": "https://edge.forgecdn.net/files/7568/508/capturexp-neoforge-1.7.3-1.3.0.jar",
+   "sha1": "49bd6e318afc2d9f99d1bbd753012738ecc3c7ed",
+   "size": 22895,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/catchindicator-neoforge-1.7.0.jar",
+   "url": "https://edge.forgecdn.net/files/8236/119/catchindicator-neoforge-1.7.0.jar",
+   "sha1": "8a44e230efd2d2d635d1d6830275a1ca68bd7a36",
+   "size": 316562,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/catchrate-display-neoforge-2.8.22.jar",
+   "url": "https://edge.forgecdn.net/files/8050/485/catchrate-display-neoforge-2.8.22.jar",
+   "sha1": "aad8deb2b48d982753753d5d9b9a360cd00c6907",
+   "size": 261220,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/cobblemon-battle-extras-neoforge-1.13.45.jar",
+   "url": "https://edge.forgecdn.net/files/7968/869/cobblemon-battle-extras-neoforge-1.13.45.jar",
+   "sha1": "eb446be193bdd4981d16c86bb40410be3f0cb693",
+   "size": 1651388,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/cobblemon-eld-1.1.1-neoforge-mc1.21.1-cob1.7.3.jar",
+   "url": "https://edge.forgecdn.net/files/8469/615/cobblemon-eld-1.1.1-neoforge-mc1.21.1-cob1.7.3.jar",
+   "sha1": "46c963e3a169f7c6b54c9b9e8be5bbf577babd7a",
+   "size": 2610263,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon-expeditions-neoforge-1.6.3.jar",
+   "url": "https://edge.forgecdn.net/files/8733/982/cobblemon-expeditions-neoforge-1.6.3.jar",
+   "sha1": "178b9153ba41ed6f45820b0f1bb7ed876b4e8b1c",
+   "size": 749996,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon-perfect-partners-neoforge-1.2.1.jar",
+   "url": "https://edge.forgecdn.net/files/8599/751/cobblemon-perfect-partners-neoforge-1.2.1.jar",
+   "sha1": "3b23277739e098abf948795974039b7f6ff6de81",
+   "size": 758491,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon-pinkanislands-1.0.jar",
+   "url": "https://edge.forgecdn.net/files/7933/960/cobblemon-pinkanislands-1.0.jar",
+   "sha1": "83cac0d89b75bdccd3c91cf0f81b77af6f53750a",
+   "size": 1322023,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon_battle_tower-neoforge-1.11.23.jar",
+   "url": "https://edge.forgecdn.net/files/8912/881/cobblemon_battle_tower-neoforge-1.11.23.jar",
+   "sha1": "121286528418be48b7e1952301145041eebbaebf",
+   "size": 52075300,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemonalphas-1.4.1.jar",
+   "url": "https://edge.forgecdn.net/files/7631/41/cobblemonalphas-1.4.1.jar",
+   "sha1": "d68af5b3b2a6384ffb5a577545917bd62e7bac5b",
+   "size": 510316,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemonopponents-neoforge-1.7.1.jar",
+   "url": "https://edge.forgecdn.net/files/8392/541/cobblemonopponents-neoforge-1.7.1.jar",
+   "sha1": "8076ef0825da5dfd2ea8eb1dcaf09099c43aaca0",
+   "size": 30735518,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemonraiddens-neoforge-0.11.3+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8358/840/cobblemonraiddens-neoforge-0.11.3%2b1.21.1.jar",
+   "sha1": "6807834cf0b9ecf237b40e1515386e53e69e527c",
+   "size": 2716154,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblenav-neoforge-2.3.3.jar",
+   "url": "https://edge.forgecdn.net/files/7940/651/cobblenav-neoforge-2.3.3.jar",
+   "sha1": "329349ecd8dd08130d967a4706374571cf193119",
+   "size": 1098652,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/configurable-3.5.2+1.21.1-neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/8438/541/configurable-3.5.2%2b1.21.1-neoforge.jar",
+   "sha1": "995cb737fb267f39b1936771de38f252de90e9a9",
+   "size": 159182,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/defaultoptions-neoforge-1.21.1-21.1.7.jar",
+   "url": "https://edge.forgecdn.net/files/8286/322/defaultoptions-neoforge-1.21.1-21.1.7.jar",
+   "sha1": "b50f70a32b824f05b5815811904caa2e15fd8f12",
+   "size": 102366,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/8063/559/entity_model_features-3.2.4-1.21-neoforge.jar",
+   "sha1": "fcc0d7cfee5ace4dba159225edd151d90dd924b9",
+   "size": 567827,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+   "url": "https://edge.forgecdn.net/files/7930/620/entity_texture_features_1.21-neoforge-7.1.jar",
+   "sha1": "56de40b237ff44dbf1bb68844e0f118607902684",
+   "size": 752334,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8287/97/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+   "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf",
+   "size": 1585287,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/fancymenu_neoforge_3.9.8_MC_1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8440/213/fancymenu_neoforge_3.9.8_MC_1.21.1.jar",
+   "sha1": "1192ddd19dc2f7f59a361d64aeb5682b273b6063",
+   "size": 25505615,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/fightorflight-neoforge-0.10.9.jar",
+   "url": "https://edge.forgecdn.net/files/8404/745/fightorflight-neoforge-0.10.9.jar",
+   "sha1": "96218ac07f938669bb6e5b57e6d5aca1cdbb30a6",
+   "size": 1427757,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/fireworkcapsules-neoforge-2.1.3+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/7774/441/fireworkcapsules-neoforge-2.1.3%2b1.21.1.jar",
+   "sha1": "2138ff1af5412c1fc32ce834f6f0d97b7bf14bde",
+   "size": 343470,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/fusion-1.3.3-neoforge-mc1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8315/230/fusion-1.3.3-neoforge-mc1.21.1.jar",
+   "sha1": "3166e3c93d5854ef5f1f1f1ce1ff4431f93837e3",
+   "size": 883798,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/7568/897/fzzy_config-0.7.6%2b1.21%2bneoforge.jar",
+   "sha1": "c0910f9b975aaab8545ce950539748fb33d704d1",
+   "size": 2369895,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+   "url": "https://edge.forgecdn.net/files/8350/73/geckolib-neoforge-1.21.1-4.9.2.jar",
+   "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86",
+   "size": 630584,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/highlight-neoforge-1.21-3.0.0.jar",
+   "url": "https://edge.forgecdn.net/files/5447/146/highlight-neoforge-1.21-3.0.0.jar",
+   "sha1": "b846195c118429ce3eb666e485d992e74dbc12ba",
+   "size": 460414,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/legendarymonuments-neoforge-1.21.1-8.0.3.jar",
+   "url": "https://edge.forgecdn.net/files/8352/294/legendarymonuments-neoforge-1.21.1-8.0.3.jar",
+   "sha1": "84983373bf415314d9197534eaf4a234f9e91137",
+   "size": 16584616,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/libjf-3.17.3+forge.jar",
+   "url": "https://edge.forgecdn.net/files/5794/382/libjf-3.17.3%2bforge.jar",
+   "sha1": "6e146a3bf43cce68878c227d4a710ecc1abc221b",
+   "size": 730013,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/lithostitched-1.7.13-neoforge-21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8378/498/lithostitched-1.7.13-neoforge-21.1.jar",
+   "sha1": "771a104dde071e16e67c7cd3149f7c3015375483",
+   "size": 852541,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/mega_showdown-neoforge-1.8.4+1.7.3+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8102/863/mega_showdown-neoforge-1.8.4%2b1.7.3%2b1.21.1.jar",
+   "sha1": "60efa7de89d832ba7a80c9320fe89376a5d47089",
+   "size": 17260759,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/midnightlib-1.7.5-neoforge+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/6772/65/midnightlib-1.7.5-neoforge%2b1.21.1.jar",
+   "sha1": "f91cfeb927feab9cc31a09f7d64184f431114371",
+   "size": 67078,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/7200/212/modernfix-neoforge-5.25.1%2bmc1.21.1.jar",
+   "sha1": "5407ee2d311f6f16773292fe22942a023a19677d",
+   "size": 569818,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/moreculling-neoforge-1.21.1-1.0.8.jar",
+   "url": "https://edge.forgecdn.net/files/8087/855/moreculling-neoforge-1.21.1-1.0.8.jar",
+   "sha1": "fdbfaa5d6d93a11d44020301199dac68de231649",
+   "size": 332875,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/musicnotification-neoforge-3.0.0+mc1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/7918/231/musicnotification-neoforge-3.0.0%2bmc1.21.1.jar",
+   "sha1": "f959e3b933f4cfa0aa64bc4943b2dd0a61b9342a",
+   "size": 134486,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/neruina-3.3.3+1.21.1-neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/8451/84/neruina-3.3.3%2b1.21.1-neoforge.jar",
+   "sha1": "fcb2f6b8121bed42dd8ffd08ccefb61aa3ae76c9",
+   "size": 852705,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8274/908/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+   "sha1": "b509863deaa27890f8db600f612966a07490a6cd",
+   "size": 1939625,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/particlerain-4.0.0-beta.10+1.21.1-neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/8055/433/particlerain-4.0.0-beta.10%2b1.21.1-neoforge.jar",
+   "sha1": "df2800c721e8a588dde48bc4b426707eccf712b6",
+   "size": 605458,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/particular-1.21.1-NeoForge-1.5.5.jar",
+   "url": "https://edge.forgecdn.net/files/8275/91/particular-1.21.1-NeoForge-1.5.5.jar",
+   "sha1": "ae12a64a5763c701325b8ca5bf6729f645a427e7",
+   "size": 314940,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/playerxp-neoforge-1.0.9+1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/7886/114/playerxp-neoforge-1.0.9%2b1.21.1.jar",
+   "sha1": "6812cb62b249eb2d011a79c0010f531d4339286d",
+   "size": 10974,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/pokerus-neoforge-1.7.3-1.1.0.jar",
+   "url": "https://edge.forgecdn.net/files/7568/848/pokerus-neoforge-1.7.3-1.1.0.jar",
+   "sha1": "69281de7c700caf5c467f3ec3735f6f70d53e7f3",
+   "size": 33409,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/rctapi-neoforge-1.21.1-0.15.2-beta.jar",
+   "url": "https://edge.forgecdn.net/files/7952/419/rctapi-neoforge-1.21.1-0.15.2-beta.jar",
+   "sha1": "06914d0d3dde9e92d14b5944db4e494527d89df0",
+   "size": 235207,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/rctmod-neoforge-1.21.1-0.18.1-beta.jar",
+   "url": "https://edge.forgecdn.net/files/7913/180/rctmod-neoforge-1.21.1-0.18.1-beta.jar",
+   "sha1": "98afe295a4ac17dc6fd1427df623b721fbf11b50",
+   "size": 7536984,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/rechiseled-1.2.4-neoforge-mc1.21.jar",
+   "url": "https://edge.forgecdn.net/files/7687/594/rechiseled-1.2.4-neoforge-mc1.21.jar",
+   "sha1": "bd8ac0c82a04179c649f40b3333ff0648f444086",
+   "size": 11488067,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8410/876/reeses-sodium-options-neoforge-2.2.3%2bmc1.21.1.jar",
+   "sha1": "904f815b1f5c48703c354d432fcbc3531022337f",
+   "size": 260876,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/repurposed_structures-7.5.21+1.21.1-neoforge.jar",
+   "url": "https://edge.forgecdn.net/files/8237/901/repurposed_structures-7.5.21%2b1.21.1-neoforge.jar",
+   "sha1": "243022a3c67726354df6ad63d98a76c2d5dbe973",
+   "size": 8245469,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/rustlingspots-neoforge-4.3.jar",
+   "url": "https://edge.forgecdn.net/files/8595/387/rustlingspots-neoforge-4.3.jar",
+   "sha1": "f1a4905a32a3e66fcfab9e5a7f0b9873dbe2fddf",
+   "size": 791578,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
+   "url": "https://edge.forgecdn.net/files/8382/328/sodium-neoforge-0.8.12%2bmc1.21.1.jar",
+   "sha1": "762251ab3d6825d5accfd89c3f02f1145376105e",
+   "size": 1291418,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
+   "url": "https://edge.forgecdn.net/files/9341/438/sophisticatedbackpacks-1.21.1-3.26.17.2232.jar",
+   "sha1": "dc86c4875b1da88524aca1f678d68906c7921a94",
+   "size": 1256227,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/sophisticatedcore-1.21.1-1.5.19.2434.jar",
+   "url": "https://edge.forgecdn.net/files/9341/397/sophisticatedcore-1.21.1-1.5.19.2434.jar",
+   "sha1": "65b02ed978ac9b748c4861b16bb5bac084fe85f5",
+   "size": 1820184,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/sophisticatedstorage-1.21.1-1.6.10.2206.jar",
+   "url": "https://edge.forgecdn.net/files/9341/485/sophisticatedstorage-1.21.1-1.6.10.2206.jar",
+   "sha1": "bc1dc82c0cbbf05ab9f4e92a8a5c244daf206062",
+   "size": 1933125,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/soundsbegone-neoforge-1.5.2+mc1.21.jar",
+   "url": "https://edge.forgecdn.net/files/8312/697/soundsbegone-neoforge-1.5.2%2bmc1.21.jar",
+   "sha1": "06db49ba78dbd669ed8ca426dfd6f2bebb31c0b2",
+   "size": 6154450,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+   "url": "https://edge.forgecdn.net/files/7783/425/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+   "sha1": "84802fbe1645de8caf61ccb07db6cf451e614f68",
+   "size": 558371,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/timcore-neoforge-1.7.3-1.32.0.jar",
+   "url": "https://edge.forgecdn.net/files/7938/283/timcore-neoforge-1.7.3-1.32.0.jar",
+   "sha1": "741eb2aeac006f87d0d413965b2d965118ddae22",
+   "size": 306328,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/toms_storage-1.21-2.3.0.jar",
+   "url": "https://edge.forgecdn.net/files/7659/872/toms_storage-1.21-2.3.0.jar",
+   "sha1": "f9b7c9f16e6606d5b0087ac1201baf0301c88b0d",
+   "size": 848220,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/waystones-neoforge-1.21.1-21.1.37.jar",
+   "url": "https://edge.forgecdn.net/files/8450/87/waystones-neoforge-1.21.1-21.1.37.jar",
+   "sha1": "ffada9b8b212102d7bdd006f773ac0b29c5b815c",
+   "size": 1201931,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/whosthatpokemon-neoforge-1.1.0.jar",
+   "url": "https://edge.forgecdn.net/files/8500/997/whosthatpokemon-neoforge-1.1.0.jar",
+   "sha1": "02507859c87bd738ce3475372bc83e16735db3d6",
+   "size": 276015,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+   "url": "https://edge.forgecdn.net/files/8449/819/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+   "sha1": "21b3232e62dabcbb5bf28866481e8de2c0ccb780",
+   "size": 2185409,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+   "url": "https://edge.forgecdn.net/files/8449/921/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+   "sha1": "beea95c1a2ca78e1a6ca0a0ddc7770672101fb60",
+   "size": 1418918,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/zamega-neoforge-1.7.3.jar",
+   "url": "https://edge.forgecdn.net/files/7961/237/zamega-neoforge-1.7.3.jar",
+   "sha1": "a867f4a1eaa62418aa68c87cf45fe1d4514f0e07",
+   "size": 2386377,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/tmcraft-1.4.18+1.7.3.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/rollback-1.2.52/mods--tmcraft-1.4.18-1.7.3.jar",
+   "sha1": "f423155efb2a99370fe838a6603c5f33c947946e",
+   "size": 3360417,
+   "mode": "replace",
+   "side": "both"
+  }
+ ],
+ "remove": [
+  "mods/ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
+  "mods/asymmetricbattles-neoforge-1.4.2-1.21.1.jar",
+  "mods/balm-neoforge-1.21.1-21.0.67.jar",
+  "mods/berrypouch-neoforge-1.21.1-0.6.2-beta.jar",
+  "mods/capturexp-neoforge-1.8.4-1.3.0.jar",
+  "mods/Carved Wood-neoforge-1.21.1-1.9.8-B.jar",
+  "mods/catchindicator-neoforge-3.1.1.jar",
+  "mods/catchrate-display-neoforge-2.12.3.jar",
+  "mods/CobbleDollars-neoforge-2.0.0+Beta-6.1+1.21.1.jar",
+  "mods/cobblemon-battle-extras-neoforge-1.13.47.jar",
+  "mods/Cobblemon-Cities-Structures-1.0.16.jar",
+  "mods/cobblemon-eld-1.1.3-neoforge-mc1.21.1-cob1.8.2.jar",
+  "mods/cobblemon-expeditions-neoforge-1.8.2.jar",
+  "mods/Cobblemon-neoforge-1.8.4+1.21.1.jar",
+  "mods/cobblemon-perfect-partners-neoforge-3.1.jar",
+  "mods/cobblemon-pinkanislands-1.4.0.jar",
+  "mods/Cobblemon-Utility+-neoforge-1.8.0.jar",
+  "mods/cobblemon_battle_tower-neoforge-1.11.24.jar",
+  "mods/cobblemonopponents-neoforge-1.8.0.jar",
+  "mods/cobblemonraiddens-neoforge-0.14.2-1.21.1.jar",
+  "mods/cobblenav-neoforge-2.4.2.jar",
+  "shaderpacks/ComplementaryUnbound_r5.9.3.zip",
+  "mods/configurable-3.5.3+1.21.1-neoforge.jar",
+  "mods/defaultoptions-neoforge-1.21.1-21.1.8.jar",
+  "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
+  "mods/entity_texture_features-7.2.7-1.21-neoforge.jar",
+  "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+  "mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
+  "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+  "mods/fightorflight-neoforge-0.11.1.jar",
+  "mods/fireworkcapsules-neoforge-2.2.0+1.21.1.jar",
+  "mods/fusion-1.3.16-neoforge-mc1.21.1.jar",
+  "mods/fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
+  "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+  "mods/highlight-neoforge-1.21.9-3.9.0.jar",
+  "mods/ImmediatelyFast-NeoForge-1.6.15+1.21.1.jar",
+  "mods/legendarymonuments-neoforge-1.21.1-8.2-Keep-Fighting.jar",
+  "mods/libjf-3.17.4+forge.jar",
+  "mods/lithostitched-1.8.1-neoforge-21.1.jar",
+  "mods/mega_showdown-neoforge-1.3.3+1.8.4+1.21.1-release.jar",
+  "mods/midnightlib-neoforge-1.10.0+1.21.1.jar",
+  "mods/modernfix-neoforge-5.27.27+mc1.21.1.jar",
+  "mods/MoreCobblemonTweaks-neoforge-1.3.6.jar",
+  "mods/moreculling-neoforge-1.21.1-1.0.11.jar",
+  "mods/musicnotification-neoforge-3.4.0+mc1.21.1.jar",
+  "mods/neruina-3.3.5+1.21.1-neoforge.jar",
+  "mods/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.3.jar",
+  "mods/notenoughanimations-neoforge-1.12.7-mc1.21.1.jar",
+  "mods/Only Bottle Caps-1.5.0-neoforge.jar",
+  "mods/os-cobblemon-library-neoforge-1.5.2.jar",
+  "mods/particlerain-4.0.3-1.21.1-neoforge.jar",
+  "mods/particular-1.21.1-NeoForge-1.5.7.jar",
+  "mods/Platform-neoforge-1.21.1-1.4.2.jar",
+  "mods/playerxp-neoforge-1.1.2+1.21.1.jar",
+  "mods/pokerus-neoforge-1.8.4-1.1.0.jar",
+  "mods/rctapi-neoforge-1.21.1-0.16.2-beta.jar",
+  "mods/rctmod-neoforge-1.21.1-0.19.2-beta.jar",
+  "mods/rechiseled-1.2.6-neoforge-mc1.21.jar",
+  "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
+  "mods/repurposed_structures-7.5.22+1.21.1-neoforge.jar",
+  "mods/rustlingspots-neoforge-6.0.jar",
+  "mods/SafePastures(Neoforge)-1.1.2+1.21.1.jar",
+  "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+  "mods/sophisticatedbackpacks-1.21.1-3.26.21.2249.jar",
+  "mods/sophisticatedcore-1.21.1-1.5.32.2464.jar",
+  "mods/sophisticatedstorage-1.21.1-1.6.16.2222.jar",
+  "mods/soundsbegone-neoforge-1.6.0+mc1.21.jar",
+  "mods/supermartijn642corelib-1.1.26a-neoforge-mc1.21.jar",
+  "mods/timcore-neoforge-1.8.4-1.37.0.jar",
+  "mods/toms_storage-1.21-2.4.2.jar",
+  "mods/VanillaBackport-neoforge-1.21.1-1.2.2.jar",
+  "mods/waystones-neoforge-1.21.1-21.1.46.jar",
+  "mods/whosthatpokemon-neoforge-1.1.1.jar",
+  "mods/xaerominimap-neoforge-1.21.1-26.6.0.jar",
+  "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
+  "mods/zamega-neoforge-1.8.2+1.8.2.jar"
+ ]
+}
