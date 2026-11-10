@@ -1246,6 +1246,14 @@
    "size": 544385,
    "mode": "replace",
    "side": "both"
+  },
+  {
+   "path": "config/vanillabackport-common.toml",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--vanillabackport-common.toml",
+   "sha1": "ff5dedd3d6b74e6c164c300b55a28989db5b94b7",
+   "size": 5456,
+   "mode": "replace",
+   "side": "both"
   }
  ],
  "remove": [
