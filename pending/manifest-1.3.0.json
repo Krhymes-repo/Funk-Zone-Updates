@@ -1254,6 +1254,14 @@
    "size": 5456,
    "mode": "replace",
    "side": "both"
+  },
+  {
+   "path": "mods/cobblecuisine-2.2.0-1.8.4-alpha1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblecuisine-2.2.0-1.8.4-alpha1.jar",
+   "sha1": "e380d1d9495f9ae30e3534eed3b7cd8f8e05689a",
+   "size": 1191031,
+   "mode": "replace",
+   "side": "both"
   }
  ],
  "remove": [
@@ -1334,6 +1342,7 @@
   "mods/tmcraft-1.4.18+1.7.3.jar",
   "mods/ShadowedHearts-neoforge-1.0.6-SNAPSHOT-funkzone.jar",
   "mods/cobblemonminigames-neoforge-4.2.1+cobblemon1.8.0-funkzone.jar",
-  "mods/cobblemon-environment-interactions-neoforge-3.1.0-neoforge.jar"
+  "mods/cobblemon-environment-interactions-neoforge-3.1.0-neoforge.jar",
+  "mods/cobblecuisine-2.0.1-1.7-rc1.jar"
  ]
 }
