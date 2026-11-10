@@ -489,9 +489,9 @@
   },
   {
    "path": "resourcepacks/COBBLEVERSE-CCC.zip",
-   "url": "https://edge.forgecdn.net/files/9503/778/CCC_1.8.4.zip",
-   "sha1": "e7b5b27eabc8b0286e5524d495a45a410df0eee6",
-   "size": 13509250,
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/resourcepacks--cobbleverse-ccc.zip",
+   "sha1": "494a6c47450bd56db319f84503e139385dc50bea",
+   "size": 13221326,
    "mode": "replace",
    "side": "client"
   },
@@ -761,9 +761,9 @@
   },
   {
    "path": "mods/libjf-3.17.4+forge.jar",
-   "url": "https://edge.forgecdn.net/files/5799/731/libjf-3.17.4%2bforge.jar",
-   "sha1": "fd6788f36321daa6bf247ccc405d0bddb6365270",
-   "size": 730989,
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--libjf-3.17.4-forge.jar",
+   "sha1": "21f8d560d1f1c1ebe074367f8f44ca8d252b6d2b",
+   "size": 735436,
    "mode": "replace",
    "side": "both"
   },
