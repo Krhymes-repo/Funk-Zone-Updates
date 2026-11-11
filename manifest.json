@@ -1262,6 +1262,14 @@
    "size": 1191031,
    "mode": "replace",
    "side": "both"
+  },
+  {
+   "path": "mods/funkfits-1.0.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfits-1.0.1.jar",
+   "sha1": "96b0c4019c181daaf54f59d8b1d48498fffb8300",
+   "size": 904192,
+   "mode": "replace",
+   "side": "both"
   }
  ],
  "remove": [
