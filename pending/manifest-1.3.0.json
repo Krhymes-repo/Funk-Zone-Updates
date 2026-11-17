@@ -10,8 +10,8 @@
   {
    "path": "mods/funkfrontier-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-   "sha1": "00572ccfb8648b105b7ff78d9c7b7c789d615942",
-   "size": 24934157,
+   "sha1": "93a5e841ed7a4b0c6fe1acedbcc8eeb5d625ca70",
+   "size": 24936446,
    "mode": "replace",
    "side": "both"
   },
@@ -1186,8 +1186,8 @@
   {
    "path": "config/cobbleverse/Funk Zone RP.zip",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--cobbleverse--funk-zone-rp.zip",
-   "sha1": "f6286cb4bf1df2b92b991ceb40d1966b97798abd",
-   "size": 15342695,
+   "sha1": "b33f4c82c09e61e7eef7d8298d5c3f32f564e936",
+   "size": 15327759,
    "mode": "replace",
    "side": "client"
   },
