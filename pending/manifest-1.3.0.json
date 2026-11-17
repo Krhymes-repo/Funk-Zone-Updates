@@ -10,16 +10,16 @@
   {
    "path": "mods/funkfrontier-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-   "sha1": "93a5e841ed7a4b0c6fe1acedbcc8eeb5d625ca70",
-   "size": 24936446,
+   "sha1": "3294c5680582d2d0825c86c7967eb9dfa0898446",
+   "size": 25024266,
    "mode": "replace",
    "side": "both"
   },
   {
    "path": "datapacks/Funk Zone DP.zip",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/datapacks--funk-zone-dp.zip",
-   "sha1": "acc816a969763b6b31dd8b62800ecbba1e3e4567",
-   "size": 9035007,
+   "sha1": "3f1b678a20ebf85b2644b9370169cba95d5d736d",
+   "size": 9487521,
    "mode": "replace",
    "side": "both"
   },
@@ -1270,6 +1270,14 @@
    "size": 946603,
    "mode": "replace",
    "side": "both"
+  },
+  {
+   "path": "config/catchrate-display.json",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--catchrate-display.json",
+   "sha1": "806e05a0e95f761a4da7d149876610642217b113",
+   "size": 182,
+   "mode": "replace",
+   "side": "client"
   }
  ],
  "remove": [
