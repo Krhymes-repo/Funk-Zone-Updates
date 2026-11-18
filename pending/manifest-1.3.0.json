@@ -10,16 +10,16 @@
   {
    "path": "mods/funkfrontier-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-   "sha1": "38f8132410d19967eff33d469234c2797df3c835",
-   "size": 25030008,
+   "sha1": "7bd3ceb5da78289e03576e1f33e9eec43a09c4ec",
+   "size": 25049437,
    "mode": "replace",
    "side": "both"
   },
   {
    "path": "datapacks/Funk Zone DP.zip",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/datapacks--funk-zone-dp.zip",
-   "sha1": "41f4ca09021cb118eddda0d6bf4bb12d80a33dda",
-   "size": 9491361,
+   "sha1": "1d277ee78bc346ff290e58f7a9dc480fdd311245",
+   "size": 9988018,
    "mode": "replace",
    "side": "both"
   },
@@ -1278,6 +1278,158 @@
    "size": 182,
    "mode": "replace",
    "side": "client"
+  },
+  {
+   "path": "mods/bettercombat-neoforge-2.4.0+1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--bettercombat-neoforge-2.4.0-1.21.1.jar",
+   "sha1": "bacbc8c86671663e9998b141c5732250c1f4d4fb",
+   "size": 1045389,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--player-animation-lib-forge-2.0.4-1.21.1.jar",
+   "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+   "size": 203149,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/irons_spellbooks-1.21.1-3.16.3.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--irons_spellbooks-1.21.1-3.16.3.jar",
+   "sha1": "017fd8140c477f9ae602cf95594f1c23bef1d6e3",
+   "size": 13890046,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/irons_lib-1.21.1-2.3.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--irons_lib-1.21.1-2.3.0.jar",
+   "sha1": "539b49b1a3988d4084a80470f0cfa404258bf0d0",
+   "size": 481888,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/puffish_skills-0.19.2-1.21-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--puffish_skills-0.19.2-1.21-neoforge.jar",
+   "sha1": "e7439fa56036bfacf228269b8b89f10cbbba13fd",
+   "size": 652840,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/puffish_attributes-0.8.3-1.21-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--puffish_attributes-0.8.3-1.21-neoforge.jar",
+   "sha1": "9e6a87f790fc9281ea2685f8d4f6435d0d7c6d1f",
+   "size": 235542,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/simplyswords-neoforge-1.70.2-1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--simplyswords-neoforge-1.70.2-1.21.1.jar",
+   "sha1": "05b074ff774467f1fe9fb5592151b7845c321cbc",
+   "size": 16282660,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+   "sha1": "928064b09748d6e963077c114d65f5ce79aff581",
+   "size": 3147675,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/silent-lib-1.21.1-neoforge-10.6.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--silent-lib-1.21.1-neoforge-10.6.0.jar",
+   "sha1": "991055113a165bef7d0b620c091165d55f7dbb24",
+   "size": 268791,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ars_nouveau-1.21.1-5.13.5.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ars_nouveau-1.21.1-5.13.5.jar",
+   "sha1": "cdc946c63e1eb676f0e29e4640335c0ce68d7de3",
+   "size": 19874860,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ars_creo-1.21.1-5.4.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ars_creo-1.21.1-5.4.0.jar",
+   "sha1": "22a6afd4fbe76354acc9c1ba076c89a94d120d94",
+   "size": 95973,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ars_technica-1.21.1-2.7.6.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ars_technica-1.21.1-2.7.6.jar",
+   "sha1": "adb2641d538375f6eff6a22f0196bb330ab0b171",
+   "size": 3691171,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/relics-1.21.1-0.10.7.8.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--relics-1.21.1-0.10.7.8.jar",
+   "sha1": "7f7fd59273ac5ef6511a811518bc9af01705a528",
+   "size": 2753166,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/rarcompat-1.21-0.9.7.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--rarcompat-1.21-0.9.7.jar",
+   "sha1": "55c301ea622fc5a613531715c99b7d1d66f2e1d6",
+   "size": 451470,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/SimplyTooltips-neoforge-0.1.5.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--simplytooltips-neoforge-0.1.5.jar",
+   "sha1": "6227453d5b628b1009d6ec516a0da5b588849744",
+   "size": 5512986,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/ars_nouveau-common.toml",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ars_nouveau-common.toml",
+   "sha1": "a68d075f66d2a340ac0a0c464ee48030d409b19b",
+   "size": 2912,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/silentgear-common.toml",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--silentgear-common.toml",
+   "sha1": "0b3ff83e2a4393bd15de507c2d804b1e15167ab0",
+   "size": 8958,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/irons_spellbooks-server.toml",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--irons_spellbooks-server.toml",
+   "sha1": "c21695bc0b77207049db7b786cdd637db376b490",
+   "size": 5336,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/simplyswords/loot.toml",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--simplyswords--loot.toml",
+   "sha1": "5d4a4277a7e68a8394a0d8258179e737aa5a6739",
+   "size": 1315,
+   "mode": "replace",
+   "side": "both"
   }
  ],
  "remove": [
