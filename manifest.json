@@ -10,16 +10,16 @@
   {
    "path": "mods/funkfrontier-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-   "sha1": "04ec1071ec8f3e771a2c8ab6c60177450b950fbf",
-   "size": 25096859,
+   "sha1": "a40420c801f4ec1f605da5b0962dc1048e3269df",
+   "size": 25097050,
    "mode": "replace",
    "side": "both"
   },
   {
    "path": "datapacks/Funk Zone DP.zip",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/datapacks--funk-zone-dp.zip",
-   "sha1": "1d277ee78bc346ff290e58f7a9dc480fdd311245",
-   "size": 9988018,
+   "sha1": "38f0b99a622c9e04534dfb0d946f7276de1fe4ab",
+   "size": 9986612,
    "mode": "replace",
    "side": "both"
   },
@@ -480,10 +480,10 @@
    "side": "client"
   },
   {
-   "path": "mods/catchrate-display-neoforge-2.12.3.jar",
-   "url": "https://edge.forgecdn.net/files/8931/931/catchrate-display-neoforge-2.12.3.jar",
-   "sha1": "b8d3b7447c02e2941e838d72ce4b46743eb9bde3",
-   "size": 294851,
+   "path": "mods/catchrate-display-neoforge-2.12.4.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--catchrate-display-neoforge-2.12.4.jar",
+   "sha1": "24fa8f205318b9b1ab948ba78313af36ce2b951a",
+   "size": 306531,
    "mode": "replace",
    "side": "client"
   },
@@ -512,10 +512,10 @@
    "side": "client"
   },
   {
-   "path": "mods/Cobblemon-Cities-Structures-1.0.16.jar",
-   "url": "https://edge.forgecdn.net/files/9470/866/Cobblemon-Cities-Structures-1.0.16.jar",
-   "sha1": "e64d538454c1720876d8d867b442c07513120bbd",
-   "size": 2759426,
+   "path": "mods/Cobblemon-Cities-Structures-1.0.17.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblemon-cities-structures-1.0.17.jar",
+   "sha1": "7557ee920290882a152236939fee9e5c68d7e99f",
+   "size": 3081450,
    "mode": "replace",
    "side": "both"
   },
@@ -584,10 +584,10 @@
    "side": "both"
   },
   {
-   "path": "mods/cobblemonraiddens-neoforge-0.14.2-1.21.1.jar",
-   "url": "https://edge.forgecdn.net/files/9523/22/cobblemonraiddens-neoforge-0.14.2-1.21.1.jar",
-   "sha1": "c292aabdda8e390380d00df280af17dde329f1e5",
-   "size": 2959087,
+   "path": "mods/cobblemonraiddens-neoforge-0.14.3-1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblemonraiddens-neoforge-0.14.3-1.21.1.jar",
+   "sha1": "50b2c3d5641e40684a971a79205417560ed785b8",
+   "size": 2968716,
    "mode": "replace",
    "side": "both"
   },
@@ -672,10 +672,10 @@
    "side": "client"
   },
   {
-   "path": "mods/fightorflight-neoforge-0.11.1.jar",
-   "url": "https://edge.forgecdn.net/files/9156/10/fightorflight-neoforge-0.11.1.jar",
-   "sha1": "73f72b4da7d2004c693e682a7eed30a8d587170c",
-   "size": 1464538,
+   "path": "mods/fightorflight-neoforge-0.11.3.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--fightorflight-neoforge-0.11.3.jar",
+   "sha1": "63099eda052e9256a7f746642da980b6a7387e57",
+   "size": 1485205,
    "mode": "replace",
    "side": "both"
   },
@@ -1008,10 +1008,10 @@
    "side": "both"
   },
   {
-   "path": "mods/timcore-neoforge-1.8.4-1.37.0.jar",
-   "url": "https://edge.forgecdn.net/files/9513/117/timcore-neoforge-1.8.4-1.37.0.jar",
-   "sha1": "c295944f8583076463da060a00b0550c3dec7f76",
-   "size": 338776,
+   "path": "mods/timcore-neoforge-1.8.4-1.38.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--timcore-neoforge-1.8.4-1.38.0.jar",
+   "sha1": "190eb4dc4796164a607d790894cd0896a2fb3f1e",
+   "size": 346211,
    "mode": "replace",
    "side": "both"
   },
@@ -1032,18 +1032,18 @@
    "side": "both"
   },
   {
-   "path": "mods/waystones-neoforge-1.21.1-21.1.46.jar",
-   "url": "https://edge.forgecdn.net/files/8969/751/waystones-neoforge-1.21.1-21.1.46.jar",
-   "sha1": "75718161662d9ec957ba22e10e497788ec1687ba",
-   "size": 1223229,
+   "path": "mods/waystones-neoforge-1.21.1-21.1.47.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--waystones-neoforge-1.21.1-21.1.47.jar",
+   "sha1": "51c3390c2555416979905f9d1b05ebc1a4de29c8",
+   "size": 1254420,
    "mode": "replace",
    "side": "both"
   },
   {
-   "path": "mods/whosthatpokemon-neoforge-1.1.1.jar",
-   "url": "https://edge.forgecdn.net/files/9432/969/whosthatpokemon-neoforge-1.1.1.jar",
-   "sha1": "e70d31acba62296fa324062c3b0181fde812e8f2",
-   "size": 293198,
+   "path": "mods/whosthatpokemon-neoforge-1.1.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--whosthatpokemon-neoforge-1.1.2.jar",
+   "sha1": "c666df04683061980abf368dd3ccbfbc007746a8",
+   "size": 297653,
    "mode": "replace",
    "side": "both"
   },
@@ -1072,10 +1072,10 @@
    "side": "both"
   },
   {
-   "path": "mods/ShadowedHearts-neoforge-1.0.6-SNAPSHOT.jar",
-   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--shadowedhearts-neoforge-1.0.6-snapshot.jar",
-   "sha1": "fe4df3ae35e1b40099d3099f5eaa82e72a06a811",
-   "size": 16627746,
+   "path": "mods/ShadowedHearts-neoforge-2.0.0-alpha.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--shadowedhearts-neoforge-2.0.0-alpha.jar",
+   "sha1": "01727639b37db186fe1aa966a508b6b552f894d3",
+   "size": 6188302,
    "mode": "replace",
    "side": "both"
   },
@@ -1128,10 +1128,10 @@
    "side": "both"
   },
   {
-   "path": "mods/cobblemonminigames-neoforge-4.2.1+cobblemon1.8.0.jar",
-   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblemonminigames-neoforge-4.2.1-cobblemon1.8.0.jar",
-   "sha1": "d2be35423a26cae30005a96140729a2ab837341b",
-   "size": 7972758,
+   "path": "mods/cobblemonminigames-neoforge-4.3.0-cobblemon1.8.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblemonminigames-neoforge-4.3.0-cobblemon1.8.0.jar",
+   "sha1": "ff0105cf7f1affeebd3a33e96a782ccc0beab71d",
+   "size": 8053132,
    "mode": "replace",
    "side": "both"
   },
@@ -1160,10 +1160,10 @@
    "side": "both"
   },
   {
-   "path": "datapacks/COBBLEVERSE-DP-v21-CF.zip",
-   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/datapacks--cobbleverse-dp-v21-cf.zip",
-   "sha1": "3bb6d2c3c45267af95f85f3befeba8366dd846af",
-   "size": 4659204,
+   "path": "datapacks/COBBLEVERSE-DP-v32-FZ.zip",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/datapacks--cobbleverse-dp-v32-fz.zip",
+   "sha1": "ebda5d89160341f9f52d5750e09b48fefae0ecec",
+   "size": 4621097,
    "mode": "replace",
    "side": "both"
   },
@@ -1216,10 +1216,10 @@
    "side": "both"
   },
   {
-   "path": "mods/cobbledex-rei-emi-jei-neoforge-2.32.14.jar",
-   "url": "https://edge.forgecdn.net/files/9396/631/cobbledex-rei-emi-jei-neoforge-2.32.14.jar",
-   "sha1": "cd02afbe8da2f92f788e7f050fac23e26b907d91",
-   "size": 8971279,
+   "path": "mods/cobbledex-rei-emi-jei-neoforge-2.32.16.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobbledex-rei-emi-jei-neoforge-2.32.16.jar",
+   "sha1": "eb6a71eebc0f05fdb85e721491c915d8da0cd82d",
+   "size": 8972771,
    "mode": "replace",
    "side": "both"
   },
@@ -1511,6 +1511,17 @@
   "mods/ShadowedHearts-neoforge-1.0.6-SNAPSHOT-funkzone.jar",
   "mods/cobblemonminigames-neoforge-4.2.1+cobblemon1.8.0-funkzone.jar",
   "mods/cobblemon-environment-interactions-neoforge-3.1.0-neoforge.jar",
-  "mods/cobblecuisine-2.0.1-1.7-rc1.jar"
+  "mods/cobblecuisine-2.0.1-1.7-rc1.jar",
+  "mods/catchrate-display-neoforge-2.12.3.jar",
+  "mods/Cobblemon-Cities-Structures-1.0.16.jar",
+  "mods/cobblemonraiddens-neoforge-0.14.2-1.21.1.jar",
+  "mods/fightorflight-neoforge-0.11.1.jar",
+  "mods/timcore-neoforge-1.8.4-1.37.0.jar",
+  "mods/waystones-neoforge-1.21.1-21.1.46.jar",
+  "mods/whosthatpokemon-neoforge-1.1.1.jar",
+  "mods/ShadowedHearts-neoforge-1.0.6-SNAPSHOT.jar",
+  "mods/cobblemonminigames-neoforge-4.2.1+cobblemon1.8.0.jar",
+  "datapacks/COBBLEVERSE-DP-v21-CF.zip",
+  "mods/cobbledex-rei-emi-jei-neoforge-2.32.14.jar"
  ]
 }
