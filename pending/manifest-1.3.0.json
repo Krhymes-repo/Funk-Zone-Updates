@@ -490,8 +490,8 @@
   {
    "path": "resourcepacks/COBBLEVERSE-CCC.zip",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/resourcepacks--cobbleverse-ccc.zip",
-   "sha1": "494a6c47450bd56db319f84503e139385dc50bea",
-   "size": 13221326,
+   "sha1": "bd1a54ac2f2939abe7b9cb36d6440c430e918ebb",
+   "size": 13190284,
    "mode": "replace",
    "side": "client"
   },
