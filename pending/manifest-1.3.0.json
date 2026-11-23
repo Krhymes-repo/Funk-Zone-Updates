@@ -10,16 +10,16 @@
   {
    "path": "mods/funkfrontier-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-   "sha1": "0a0587ff606938837850aa39acc281f97f996268",
-   "size": 25314307,
+   "sha1": "b096cb4d05253e6b3ee43fbe61dff9306c18e435",
+   "size": 25533398,
    "mode": "replace",
    "side": "both"
   },
   {
    "path": "datapacks/Funk Zone DP.zip",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/datapacks--funk-zone-dp.zip",
-   "sha1": "a4d617b859650271d160836fbc1da2f976865148",
-   "size": 10344836,
+   "sha1": "f181043bf243bb19653cd57182552bb7833a5d38",
+   "size": 10347184,
    "mode": "replace",
    "side": "both"
   },
