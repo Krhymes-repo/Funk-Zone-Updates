@@ -1574,6 +1574,798 @@
    "size": 2244,
    "mode": "replace",
    "side": "client"
+  },
+  {
+   "path": "mods/AdvancedPeripherals-1.21.1-0.8.2a.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--AdvancedPeripherals-1.21.1-0.8.2a.jar",
+   "sha1": "c5ec43be7209c5f74b27bab0df51979f18c4d02f",
+   "size": 1681254,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Apotheosis-1.21.1-8.9.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Apotheosis-1.21.1-8.9.0.jar",
+   "sha1": "2d8b59070a221bcc2e3ea08b3b48cbf034b77c71",
+   "size": 7184314,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ApothicAttributes-1.21.1-2.11.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ApothicAttributes-1.21.1-2.11.0.jar",
+   "sha1": "7ff0e452e10cb582c188626a413037e63db9ca04",
+   "size": 319609,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ApothicEnchanting-1.21.1-1.6.4.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ApothicEnchanting-1.21.1-1.6.4.jar",
+   "sha1": "d88e75b60e97dae8054ee10f3a92aa2bb812b8b9",
+   "size": 5422885,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ApothicSpawners-1.21.1-1.4.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ApothicSpawners-1.21.1-1.4.0.jar",
+   "sha1": "b3be29751daea738e691db8949cce079e5aae3be",
+   "size": 129784,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/AppliedFlux-1.21-2.1.7-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--AppliedFlux-1.21-2.1.7-neoforge.jar",
+   "sha1": "46080cef7d9cbf6d2bf6356d97838df03ff1e40c",
+   "size": 351056,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Clumps-neoforge-1.21.1-19.0.0.1.jar",
+   "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+   "size": 18382,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Custom Nether Portals - Neoforge - MC 1.21.1- 3.0.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Custom_Nether_Portals-Neoforge-MC_1.21.1-3.0.0.jar",
+   "sha1": "1ee28b7d579399db176f87a52e0e42243a8dfa06",
+   "size": 65809,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--DungeonCrawl-NeoForge-1.21-2.3.17.jar",
+   "sha1": "3abb84c4fcf1229fced0cc5e88fa6e9baa0aa4a7",
+   "size": 738480,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+   "sha1": "9f62af344988a6e2d855b113e61cf0e1611c7e0f",
+   "size": 174668,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Explorify-v1.6.6.mod.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Explorify-v1.6.6.mod.jar",
+   "sha1": "d7b21626ad33d898536634764cec6c9a8cd55063",
+   "size": 775401,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ExtendedAE-1.21-2.2.43-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ExtendedAE-1.21-2.2.43-neoforge.jar",
+   "sha1": "fa23f057d44cd66c49271f7f0e503e5c9dd5bf14",
+   "size": 5913764,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ExtendedTerminal-1.21.1-19.1.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ExtendedTerminal-1.21.1-19.1.0.jar",
+   "sha1": "6eb87640401bd269d92b68c54bc667384aaedb85",
+   "size": 553190,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--FarmersDelight-1.21.1-1.3.4.jar",
+   "sha1": "27675ddfcb8cc37e6ea1ab6c15051c7949d94657",
+   "size": 3160490,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/FluxNetworks-1.21.1-8.0.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--FluxNetworks-1.21.1-8.0.0.jar",
+   "sha1": "183342f454428084748f2784c8efd748664a9f9c",
+   "size": 535938,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Glodium-1.21-2.2-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Glodium-1.21-2.2-neoforge.jar",
+   "sha1": "9f61a3162665ad0b37f6f268339ac98097af1a87",
+   "size": 61377,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--L_Enders_Cataclysm_1.21.1-3.33.jar",
+   "sha1": "f0310277167c82fd16a5c2bab220b5c5c262f133",
+   "size": 73375667,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/MoogsEndStructures-universal-1.21-2.1.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--MoogsEndStructures-universal-1.21-2.1.1.jar",
+   "sha1": "ef5f57f0e5d06a2f8bec5c073e01ddb061ad477a",
+   "size": 2285901,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+   "sha1": "1284c673b46a50b0557c2c018f677323484665f6",
+   "size": 5022443,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--MoogsStructureLib-neoforge-1.21.1-3.4.2.jar",
+   "sha1": "c379b8d5dc1a4b1e8987da1052d6b4de81354d72",
+   "size": 1094979,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+   "sha1": "6759fa57891f731e54f865c13ffa0601a829b76a",
+   "size": 2234287,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Myotus-1.21.1-19.1.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Myotus-1.21.1-19.1.2.jar",
+   "sha1": "c849965a018a2dea0d8dc3e17e989244ad02c78e",
+   "size": 445801,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+   "sha1": "e19721873bebc4dbc1674bb101af39d0ea406b95",
+   "size": 224657,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/NightLib-Neoforge-1.21.1-1.3.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--NightLib-Neoforge-1.21.1-1.3.0.jar",
+   "sha1": "e991d4c9301f23c7e26305fbcafa7199bd646629",
+   "size": 18122,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Patchouli-1.21.1-93-NEOFORGE.jar",
+   "sha1": "5413bb9b8fc35ebe46b06b48bf9afafbd8471140",
+   "size": 646777,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Placebo-1.21.1-9.9.4.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Placebo-1.21.1-9.9.4.jar",
+   "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
+   "size": 326063,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Powah-6.2.10.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Powah-6.2.10.jar",
+   "sha1": "f134ab3e0ace3793abf93129e318eb817898a4e1",
+   "size": 2737991,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/Structory_26.2_v1.3.7.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Structory_26.2_v1.3.7.jar",
+   "sha1": "8a9a1a1b3f74398310420b6fbe2c26ef142bed42",
+   "size": 1261346,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/UndergroundBunkers-1.0.4-1.21.x-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--UndergroundBunkers-1.0.4-1.21.x-neoforge.jar",
+   "sha1": "b5cd6262266042c5b05521bdf75b8fd3cb69ca3f",
+   "size": 591113,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+   "sha1": "dd5b71bff42ce3f845afc9c3640d4f4f63ccdb1b",
+   "size": 76670,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/adorabuild-structures-2.11.0-neoforge-1.21.3.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--adorabuild-structures-2.11.0-neoforge-1.21.3.jar",
+   "sha1": "21d572284bb67014b1df5cdeb66acd04c2c17ef3",
+   "size": 657734,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ae2jeiintegration-1.2.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ae2jeiintegration-1.2.1.jar",
+   "sha1": "e99898b3e9c32bf6ac757e7ad50247746622cdfc",
+   "size": 91710,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ae2wtlib-19.5.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ae2wtlib-19.5.1.jar",
+   "sha1": "b1bee01393b15f1eb0f46d58862ef99234e1d337",
+   "size": 252091,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/aether-1.21.1-1.5.10-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--aether-1.21.1-1.5.10-neoforge.jar",
+   "sha1": "5b5592989c6d2aabf80a9f100e18c258813db497",
+   "size": 40223909,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/allthemodium-3.2.1_mc_1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--allthemodium-3.2.1_mc_1.21.1.jar",
+   "sha1": "9e21df08231fe3c2075b5c5f4151f662dd9e22d2",
+   "size": 1914549,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/alltheores-3.2.0_neoforge_1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--alltheores-3.2.0_neoforge_1.21.1.jar",
+   "sha1": "e13ba7f0ba43043cbe8723de7533e39accc87ad1",
+   "size": 1645297,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/appliedenergistics2-19.2.20.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--appliedenergistics2-19.2.20.jar",
+   "sha1": "6ea9ea3e1c036a1f036173f3f38d4f7badaf1d28",
+   "size": 8242323,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ars_elemental-1.21.1-0.7.10.4.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ars_elemental-1.21.1-0.7.10.4.jar",
+   "sha1": "562f640916aa6f5c83b3b3ee2384ca828b870e01",
+   "size": 2273778,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/backpack_allthemodium_upgrade-2.4.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--backpack_allthemodium_upgrade-2.4.jar",
+   "sha1": "8c383e1d8a7f21cfae83a04bdc693bb72bbd7430",
+   "size": 31461,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/betterfishtanks-1.4.2-1.21.1-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--betterfishtanks-1.4.2-1.21.1-neoforge.jar",
+   "sha1": "62de4898a27f4fbf7723e9b39946e985be853ffb",
+   "size": 1270144,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--bookshelf-neoforge-1.21.1-21.1.81.jar",
+   "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+   "size": 328813,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/buildinggadgets2-21.1.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--buildinggadgets2-21.1.1.jar",
+   "sha1": "85512ea14d1b7cfd9709649568cda158f5bcdac8",
+   "size": 3861286,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/buildprint-neoforge-0.1.45-1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--buildprint-neoforge-0.1.45-1.21.1.jar",
+   "sha1": "f262761eb266fc156f4a9ce3328e9191afab263e",
+   "size": 4863594,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/capacitoradditions-2.0.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--capacitoradditions-2.0.0.jar",
+   "sha1": "a84b49e3dd3b4940665d03662b1b74d7f672b218",
+   "size": 21884,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cc-tweaked-1.21.1-forge-1.119.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cc-tweaked-1.21.1-forge-1.119.0.jar",
+   "sha1": "ba7fd171500afb1a20106cd5c9d62917a2cc11b1",
+   "size": 3125991,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cccbridge-mc1.21.1-v1.7.3-neoforge.jar",
+   "sha1": "2f0df007d6ed849266a505f0854ab07f55a58b41",
+   "size": 490733,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon-cards-neoforge-1.0.4.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblemon-cards-neoforge-1.0.4.jar",
+   "sha1": "25b8748bcefeaf8bd3b3f000d5dda21d7ad31d39",
+   "size": 23334976,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemon_quests-reloaded-[1.21.1]-neoforge-2.0.2+1.8.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblemon_quests-reloaded-1.21.1-neoforge-2.0.2-1.8.jar",
+   "sha1": "9a759fdd55a08dd86c2bde29a2e62e4f656ed95f",
+   "size": 2968831,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemonpcplus-neoforge-1.3.0+1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblemonpcplus-neoforge-1.3.0-1.21.1.jar",
+   "sha1": "e4559ea4b755351382c825d7aabc8ab53a3275cc",
+   "size": 605024,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/compactmachines-neoforge-7.0.81.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--compactmachines-neoforge-7.0.81.jar",
+   "sha1": "dcffc21e62a82c5d870ab13dc5c92687430d65b5",
+   "size": 684420,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cookingforblockheads-neoforge-1.21.1-21.1.25.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cookingforblockheads-neoforge-1.21.1-21.1.25.jar",
+   "sha1": "8e952262d756b67d2fa2060de4a9921bb475658e",
+   "size": 1266873,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+   "sha1": "b6252039445978a742f439fc398f2a198b86bd4e",
+   "size": 256086,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/create_waterparked-0.2.8-beta-hotfix1-coaster0.1.5.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--create_waterparked-0.2.8-beta-hotfix1-coaster0.1.5.jar",
+   "sha1": "30693df94e25557346d04409eb458fd88d28a582",
+   "size": 3091403,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cristellib-neoforge-1.21.1-3.1.7.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cristellib-neoforge-1.21.1-3.1.7.jar",
+   "sha1": "d250804b7ecea365bc736ec36ec6fc3f933917f1",
+   "size": 583525,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cupboard-1.21.1-4.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cupboard-1.21.1-4.2.jar",
+   "sha1": "6c2d786a161f49470dad92b2edaefdac38a1e79b",
+   "size": 30517,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/deeperdarker-neoforge-1.21.1-1.4.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--deeperdarker-neoforge-1.21.1-1.4.1.jar",
+   "sha1": "b6094adde68bd4b909bc75c64901e1f3fb99ad8f",
+   "size": 3906057,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/disenchanting_table-merged-1.21.1-5.0.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--disenchanting_table-merged-1.21.1-5.0.2.jar",
+   "sha1": "c054a8bef63addff4d4a9520ec4c7a915c3fc1d1",
+   "size": 306197,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/enderio-8.2.14-beta.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--enderio-8.2.14-beta.jar",
+   "sha1": "bb72031e962402ba65dee7bf9e3083280c310b0a",
+   "size": 6675311,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/farmingforblockheads-neoforge-1.21.1-21.1.14.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--farmingforblockheads-neoforge-1.21.1-21.1.14.jar",
+   "sha1": "82f5f635cc73610d34a493ec067e28cd4659cbbb",
+   "size": 895570,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/fncct-1.21.1-1.1.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--fncct-1.21.1-1.1.0.jar",
+   "sha1": "6f6ae8621bc6ea94517ec89eeb05bf27e8877a60",
+   "size": 9179,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/formations-1.0.4-neoforge-mc1.21.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--formations-1.0.4-neoforge-mc1.21.jar",
+   "sha1": "3845f96c9304f6956688f7a35205e9354bf411b0",
+   "size": 287525,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/formationsnether-1.0.5b-mc1.21+.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--formationsnether-1.0.5b-mc1.21-.jar",
+   "sha1": "6b0e0f58399fc0ba3a69fd1ddda860a534e469c6",
+   "size": 330916,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ftb-library-neoforge-2101.1.40.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ftb-library-neoforge-2101.1.40.jar",
+   "sha1": "e5f24391a447754dbc6d37d866981f47d67bb664",
+   "size": 1643436,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ftb-quests-neoforge-2101.1.39.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ftb-quests-neoforge-2101.1.39.jar",
+   "sha1": "d5a0de6ad0517fd843ea830b49b06287c0686906",
+   "size": 1670999,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ftb-teams-neoforge-2101.1.12.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ftb-teams-neoforge-2101.1.12.jar",
+   "sha1": "9c831fbbbccf2178827c3ccf278b2f2a0ce57306",
+   "size": 308430,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/guideme-21.1.22.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--guideme-21.1.22.jar",
+   "sha1": "eb2f531c91566a0f119b4b3a3acd927b48b6b27e",
+   "size": 9332340,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/immersive_melodies-neoforge-0.8.4-1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--immersive_melodies-neoforge-0.8.4-1.21.1.jar",
+   "sha1": "b704fc46214d6a7c82faea9fbf2663a6f56dfc24",
+   "size": 5572065,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/integrated_api-neoforge-1.21.1-1.9.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--integrated_api-neoforge-1.21.1-1.9.2.jar",
+   "sha1": "deb0bbaabc520dece9047f5527d1d6d85082bfae",
+   "size": 486108,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/integrated_villages-1.3.3+1.21.1-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--integrated_villages-1.3.3-1.21.1-neoforge.jar",
+   "sha1": "4ba7360abf671b1f0f40c43c590977da2048490e",
+   "size": 4592084,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ironfurnaces-neoforge-1.21.1-4.3.2.jar",
+   "sha1": "9a40f949ec9794cdef79bdabb61a12a918613194",
+   "size": 576866,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/jei-1.21.1-neoforge-19.76.1.481.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--jei-1.21.1-neoforge-19.76.1.481.jar",
+   "sha1": "5049346ee5d60346dab7546638601a884faa167b",
+   "size": 7103608,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/let_it_walk-0.1.5.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--let_it_walk-0.1.5.jar",
+   "sha1": "2c780a37abc3252e7f03440244aad0ddb3ac90f2",
+   "size": 730661,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/lionfishapi-3.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--lionfishapi-3.1.jar",
+   "sha1": "353ca00ed118eb67cf11085abbbd699884722326",
+   "size": 91596,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/lootintegrations-1.21.1-4.9.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--lootintegrations-1.21.1-4.9.jar",
+   "sha1": "6adc473d1b762c6e2ce65b7d246519ceadbf1eb6",
+   "size": 38186,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/medieval_buildings-1.21.1-1.1.1-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--medieval_buildings-1.21.1-1.1.1-neoforge.jar",
+   "sha1": "0a2214e95eb318ad64b3b3faf2cad036459ffc17",
+   "size": 214623,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar",
+   "sha1": "b5986544126a7600f70ea20709d28b11f28cd6ab",
+   "size": 438618,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
+   "sha1": "2382e29c9a0f44d4f4b9baa4cb3f6a356e048e60",
+   "size": 347249,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/mint_lib-0.5.2-1.21.1-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mint_lib-0.5.2-1.21.1-neoforge.jar",
+   "sha1": "35d4158b8221ae388ba1b44417aeeb92d9518ebd",
+   "size": 1145003,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/monolib-neoforge-1.21.1-4.1.2.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--monolib-neoforge-1.21.1-4.1.2.jar",
+   "sha1": "0bb1eb02b787cbf4a7caab91a8999cedc6ea4085",
+   "size": 190083,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/moonlight-1.21.1-3.8.5-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--moonlight-1.21.1-3.8.5-neoforge.jar",
+   "sha1": "81ba27c2eb618870937ecb6b344e16931617914b",
+   "size": 2332727,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/pipez-neoforge-1.21.1-1.2.31.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--pipez-neoforge-1.21.1-1.2.31.jar",
+   "sha1": "a5671f7e8d38dfc092ace4091250e8f9e1245e1e",
+   "size": 456599,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/pokeblocks-1.5.0-1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--pokeblocks-1.5.0-1.21.1.jar",
+   "sha1": "a767426171b3085775b57bfd53b66fe7fa6edd88",
+   "size": 1775159,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--prickle-neoforge-1.21.1-21.1.11.jar",
+   "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+   "size": 84812,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/puzzleslib-v21.1.66-mc1.21.1+neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--puzzleslib-v21.1.66-mc1.21.1-neoforge.jar",
+   "sha1": "fd584167f1277aef5411a98a22390c65cabe6e07",
+   "size": 1451120,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/roamers_neoforge_v2.1_1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--roamers_neoforge_v2.1_1.21.1.jar",
+   "sha1": "d18936c087867dedb01316683aff0bdeea2bf55f",
+   "size": 1273972,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/simulatedcoasters-0.1.6.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--simulatedcoasters-0.1.6.jar",
+   "sha1": "6e92311ebe385c8be822e8a9946fb70b9bffef1a",
+   "size": 1907773,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/storage_allthemodium_upgrade-2.0.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--storage_allthemodium_upgrade-2.0.1.jar",
+   "sha1": "1be6c4ac7741ac4e7cc402b08a50d92c4ba47da8",
+   "size": 23865,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/supplementaries-1.21.1-4.1.4-neoforge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--supplementaries-1.21.1-4.1.4-neoforge.jar",
+   "sha1": "61932662ec2d95634a7685543a58b2cc99125e11",
+   "size": 13944698,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--t_and_t-fabric-neoforge-1.13.11.jar",
+   "sha1": "8f00e36a11568c0b66bbdf5c0e9ee492e511b303",
+   "size": 3553006,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/tidal-towns-2.0.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--tidal-towns-2.0.jar",
+   "sha1": "f48816fb1b0759350b60e96cd595512fe2b24baf",
+   "size": 586133,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/torchmaster-neoforge-1.21.1-21.1.13.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--torchmaster-neoforge-1.21.1-21.1.13.jar",
+   "sha1": "b139713195dc65bbe66dcdbde87a0d84aa407b5a",
+   "size": 161205,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/villagesbeyond-1.0.0-for-neoforge-1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--villagesbeyond-1.0.0-for-neoforge-1.21.1.jar",
+   "sha1": "cdc88b08f8ca92627aa859b0905328be760743a2",
+   "size": 928114,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/ItemBorders-1.21-neoforge-1.2.5.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ItemBorders-1.21-neoforge-1.2.5.jar",
+   "sha1": "b5ae56007c0bbb86b9a05f9f12b522ed485d7884",
+   "size": 23511,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--OverflowingBars-v21.1.1-1.21.1-NeoForge.jar",
+   "sha1": "a9dea4b9ef893fc955512ff2dee75c9c82e09a52",
+   "size": 78482,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/Prism-1.21.1-neoforge-1.0.11.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Prism-1.21.1-neoforge-1.0.11.jar",
+   "sha1": "1ae6f7be2ba8f963344dbf27e552920a7bc7a35f",
+   "size": 62031,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/cleanswing-1.10-1.21.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cleanswing-1.10-1.21.jar",
+   "sha1": "1df3892b57ad00a75c5bb4a6f6b2749aa126e548",
+   "size": 9477,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--enchdesc-neoforge-1.21.1-21.1.11.jar",
+   "sha1": "4d453df785ac21e0e7389cba949f4fa460c3e267",
+   "size": 82648,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "mods/jeioptimizer-1.21.1-1.2.2-19.70.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--jeioptimizer-1.21.1-1.2.2-19.70.jar",
+   "sha1": "cd779d06996add3a5f715f7fbc4d12bbf76093d4",
+   "size": 26843,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/jei/client/default/jei-client.ini",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--jei--client--default--jei-client.ini",
+   "sha1": "62a484cf06c916c79565840865cdc215f6487f4f",
+   "size": 17006,
+   "mode": "once",
+   "side": "client"
   }
  ],
  "remove": [
@@ -1666,6 +2458,9 @@
   "mods/ShadowedHearts-neoforge-1.0.6-SNAPSHOT.jar",
   "mods/cobblemonminigames-neoforge-4.2.1+cobblemon1.8.0.jar",
   "datapacks/COBBLEVERSE-DP-v21-CF.zip",
-  "mods/cobbledex-rei-emi-jei-neoforge-2.32.14.jar"
+  "mods/cobbledex-rei-emi-jei-neoforge-2.32.14.jar",
+  "mods/RoughlyEnoughItems-16.0.799-neoforge.jar",
+  "mods/LumyREI-1.1.3.jar",
+  "mods/pokeblocks-1.4.0-1.21.1.jar"
  ]
 }
