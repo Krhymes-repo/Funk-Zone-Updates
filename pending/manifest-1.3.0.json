@@ -1430,6 +1430,22 @@
    "size": 1315,
    "mode": "replace",
    "side": "both"
+  },
+  {
+   "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--jade-1.21.1-neoforge-15.10.6.jar",
+   "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+   "size": 726853,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/cobblemonintegrations-neoforge-1.21.1-1.1.8.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--cobblemonintegrations-neoforge-1.21.1-1.1.8.jar",
+   "sha1": "954398887c3f87a0028593a6be8ebe60aca04c05",
+   "size": 378608,
+   "mode": "replace",
+   "side": "both"
   }
  ],
  "remove": [
