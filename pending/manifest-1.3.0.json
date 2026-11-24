@@ -10,8 +10,8 @@
   {
    "path": "mods/funkfrontier-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-   "sha1": "da166c969c4af342d3754f200eee39b5cef9d4eb",
-   "size": 25581759,
+   "sha1": "fb703474a00798f4742cb6751c9e618e1fecb0cc",
+   "size": 25581793,
    "mode": "replace",
    "side": "both"
   },
@@ -41,17 +41,17 @@
   },
   {
    "path": "config/fancymenu/assets/funk_city_title.png",
-   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--assets--funk_city_title.png",
-   "sha1": "7fc5016872590b6cc57971504a646a30b1b34140",
-   "size": 240069,
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--funk_city_title.png",
+   "sha1": "2546fff165d4716d55666f5fc0b5a4de7064604c",
+   "size": 72898,
    "mode": "replace",
    "side": "client"
   },
   {
    "path": "config/fancymenu/customization/cobbleverse_main_curseforge.txt",
-   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.2/config--fancymenu--customization--cobbleverse_main_curseforge.txt",
-   "sha1": "dd883d2ae34dfc467ac7b736bdd22de0de831a86",
-   "size": 68973,
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--customization--cobbleverse_main_curseforge.txt",
+   "sha1": "ec78c2d3e7f43e49be3b947625b727aca17204c4",
+   "size": 91056,
    "mode": "replace",
    "side": "client"
   },
@@ -1446,6 +1446,134 @@
    "size": 378608,
    "mode": "replace",
    "side": "both"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_mods.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_mods.png",
+   "sha1": "ce5d70c34d2d0cdd58c3148859cf16deb6f74451",
+   "size": 2322,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_mods_hover.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_mods_hover.png",
+   "sha1": "9c6c1309c01ec40fad877fc1295a4bf2229f521b",
+   "size": 3643,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_multiplayer.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_multiplayer.png",
+   "sha1": "02e6b58c48e1b693d012aa5f306dd20acfde0f37",
+   "size": 3612,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_multiplayer_hover.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_multiplayer_hover.png",
+   "sha1": "6a643d9b21c001a3a253f8c5fb7dfb96c1f6a111",
+   "size": 4581,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_options.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_options.png",
+   "sha1": "4d757b816874878f6532af65a3c8161727775930",
+   "size": 3486,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_options_hover.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_options_hover.png",
+   "sha1": "161d0fc6b2447a0b3f853c18e049df84cb0a7a96",
+   "size": 4406,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_play.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_play.png",
+   "sha1": "cdd7021822f9934c5c5236c8e5b2acc853daab2a",
+   "size": 4587,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_play_hover.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_play_hover.png",
+   "sha1": "9bc947b7090f94e6b980dce16b82398916ee5473",
+   "size": 32175,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_quit.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_quit.png",
+   "sha1": "aeb47dd7fb8d0b7804cd021c4cc5bca275440315",
+   "size": 2050,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_quit_hover.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_quit_hover.png",
+   "sha1": "ca6425470b4408c64b6fc956c112d727b1e5989b",
+   "size": 3325,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_singleplayer.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_singleplayer.png",
+   "sha1": "7b8cd9e493cea3cf582b3ef740a642eb5b72d512",
+   "size": 4611,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_btn_singleplayer_hover.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_btn_singleplayer_hover.png",
+   "sha1": "12ee5577d952de8d37fdfc34492be93eb8d5f1ef",
+   "size": 5290,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_panel.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_panel.png",
+   "sha1": "5bb23dad90cf9d275bf76a1321f11741fa111e0e",
+   "size": 225171,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_scene_back.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_scene_back.png",
+   "sha1": "772f198b38fe743028dd71fb34237e2fe8d9d249",
+   "size": 8421,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_scene_beams.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_scene_beams.png",
+   "sha1": "de5cdebfe1ff1fbf68ed02ec63b2665dafeb509a",
+   "size": 279925,
+   "mode": "replace",
+   "side": "client"
+  },
+  {
+   "path": "config/fancymenu/assets/fz_scene_front.png",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--fancymenu--assets--fz_scene_front.png",
+   "sha1": "7edf7862604b90f829e38349b64aaf6e960b8ded",
+   "size": 2244,
+   "mode": "replace",
+   "side": "client"
   }
  ],
  "remove": [
