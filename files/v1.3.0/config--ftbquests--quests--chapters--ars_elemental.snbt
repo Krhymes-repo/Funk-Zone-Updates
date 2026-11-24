@@ -1,0 +1,1175 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ars_elemental"
+	group: "517E2EE5EE2E76FF"
+	icon: {
+		id: "ars_elemental:mark_of_mastery"
+	}
+	id: "5061CB62D2C6877E"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "ars_elemental:mark_of_mastery"
+			}
+			id: "1FFB8202C9199A37"
+			min_width: 300
+			rewards: [
+				{
+					id: "4CDC817EFB161620"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "371311CF61FF76AC"
+					item: {
+						count: 1
+						id: "ars_elemental:mark_of_mastery"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2FD4EF666D719472"
+					item: {
+						count: 1
+						id: "sauce:anima_essence"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "176FFABAE1F08385"
+				item: { count: 1, id: "ars_elemental:mark_of_mastery" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:lesser_fire_focus"
+			}
+			id: "265D939DC4017E97"
+			rewards: [
+				{
+					id: "2BE199AEF608ED84"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 8
+					id: "24D49ABF18CEF4C5"
+					item: {
+						count: 1
+						id: "minecraft:blaze_powder"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0C4C179A982520C7"
+				item: { count: 1, id: "ars_elemental:lesser_fire_focus" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:lesser_water_focus"
+			}
+			id: "659250416FB74A76"
+			rewards: [
+				{
+					id: "2EBDEE0FFAEE9B60"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 8
+					id: "1228D030CAA49D12"
+					item: {
+						count: 1
+						id: "minecraft:prismarine_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "76CB4182DE9C1FCB"
+				item: { count: 1, id: "ars_elemental:lesser_water_focus" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:lesser_earth_focus"
+			}
+			id: "10F0BEE1FF32CAAE"
+			rewards: [
+				{
+					id: "24A9E4E543D665E5"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "1225BBB4D8491851"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "002D06463AE6C183"
+				item: { count: 1, id: "ars_elemental:lesser_earth_focus" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:lesser_air_focus"
+			}
+			id: "34C817B72294A113"
+			rewards: [
+				{
+					id: "768F8A90A3D81839"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 8
+					id: "59AC0E8AB190FF21"
+					item: {
+						count: 1
+						id: "minecraft:feather"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "263CAD369019A581"
+				item: { count: 1, id: "ars_elemental:lesser_air_focus" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["265D939DC4017E97"]
+			icon: {
+				id: "ars_elemental:fire_focus"
+			}
+			id: "7E838756D524D71D"
+			rewards: [{
+				id: "6AD8B55CDC8A8934"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "0AB8AB145E68C733"
+				item: { count: 1, id: "ars_elemental:fire_focus" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				id: "ars_elemental:water_focus"
+			}
+			id: "6CA1554387B33960"
+			rewards: [{
+				id: "4E0F5A7EF10827F8"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6FC381B2ECCAAA9E"
+				item: { count: 1, id: "ars_elemental:water_focus" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["10F0BEE1FF32CAAE"]
+			icon: {
+				id: "ars_elemental:earth_focus"
+			}
+			id: "06DF6D7A0B3C99F9"
+			rewards: [{
+				id: "0D42663B39DB7C3E"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "4C1EC887C41D41A1"
+				item: { count: 1, id: "ars_elemental:earth_focus" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["34C817B72294A113"]
+			icon: {
+				id: "ars_elemental:air_focus"
+			}
+			id: "1D590C9473679721"
+			rewards: [{
+				id: "621FD79825215EF7"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "3D9F90F822A8FCBD"
+				item: { count: 1, id: "ars_elemental:air_focus" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"7E838756D524D71D"
+				"06DF6D7A0B3C99F9"
+			]
+			icon: {
+				id: "ars_elemental:necrotic_focus"
+			}
+			id: "1A428B1EE46ED28D"
+			rewards: [
+				{
+					id: "063568296FCE3D72"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 4
+					id: "137D60FB8D393439"
+					item: {
+						count: 1
+						id: "sauce:anima_essence"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2BD799764CFEB3FB"
+				item: { count: 1, id: "ars_elemental:necrotic_focus" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:glyph_watery_grave"
+			}
+			id: "471EB50C438110BC"
+			rewards: [
+				{
+					id: "6E8A2431F8FE1812"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "22ED5C73D024AD13"
+					item: {
+						count: 1
+						id: "minecraft:prismarine_crystals"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "12A0AC7C1519DC96"
+				item: { count: 1, id: "ars_elemental:glyph_watery_grave" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				id: "ars_elemental:glyph_spike"
+			}
+			id: "54811D1301510905"
+			rewards: [
+				{
+					id: "23923835AE9B8AC2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "4104FC5C143B5151"
+					item: {
+						count: 1
+						id: "minecraft:pointed_dripstone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "42DB2DEC0ACBCE23"
+				item: { count: 1, id: "ars_elemental:glyph_spike" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:glyph_discharge"
+			}
+			id: "426538F9FFFB82AC"
+			rewards: [
+				{
+					id: "2E821EE262130C85"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 8
+					id: "3120F1ECE56DB548"
+					item: {
+						count: 1
+						id: "minecraft:copper_ingot"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "76205E20FBF9204E"
+				item: { count: 1, id: "ars_elemental:glyph_discharge" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["426538F9FFFB82AC"]
+			icon: {
+				id: "ars_elemental:glyph_homing_projectile"
+			}
+			id: "26E557D909DBD41C"
+			rewards: [
+				{
+					id: "18E73CE4EDFF63C0"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 2
+					id: "06EBD7767C19B05A"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4DA0D7E9CD9ABB00"
+				item: { count: 1, id: "ars_elemental:glyph_homing_projectile" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["26E557D909DBD41C"]
+			icon: {
+				id: "ars_elemental:glyph_arc_projectile"
+			}
+			id: "3DC2C3BC8B4412E7"
+			rewards: [{
+				id: "523D3F3FEB549EFA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6302708ED74A3BB1"
+				item: { count: 1, id: "ars_elemental:glyph_arc_projectile" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["26E557D909DBD41C"]
+			icon: {
+				id: "ars_elemental:glyph_charm"
+			}
+			id: "38A1680B4992E167"
+			rewards: [
+				{
+					id: "25AA5E6EA5469499"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "431CF3FBDE92C072"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2B2D482A31993A09"
+				item: { count: 1, id: "ars_elemental:glyph_charm" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["26E557D909DBD41C"]
+			icon: {
+				id: "ars_elemental:glyph_undead_filter"
+			}
+			id: "1BBF30A769324B0D"
+			rewards: [
+				{
+					id: "5A2F2C92A149016F"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 2
+					id: "470BE89324C8F891"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem_block"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [
+				{
+					id: "31C92DD6A4C9C7FB"
+					item: { count: 1, id: "ars_elemental:glyph_aerial_filter" }
+					type: "item"
+				}
+				{
+					id: "639B293467F9198D"
+					item: { count: 1, id: "ars_elemental:glyph_aquatic_filter" }
+					type: "item"
+				}
+				{
+					id: "240FEFE206E361BB"
+					item: { count: 1, id: "ars_elemental:glyph_fiery_filter" }
+					type: "item"
+				}
+				{
+					id: "0C9B465DF32C991E"
+					item: { count: 1, id: "ars_elemental:glyph_insect_filter" }
+					type: "item"
+				}
+				{
+					id: "0DD42C90AF9E45C2"
+					item: { count: 1, id: "ars_elemental:glyph_undead_filter" }
+					type: "item"
+				}
+				{
+					id: "4DC8EDA516BB7017"
+					item: { count: 1, id: "ars_elemental:glyph_summon_filter" }
+					type: "item"
+				}
+			]
+			x: -11.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				id: "ars_elemental:fire_robes"
+			}
+			id: "4DBCC69DE25F81E4"
+			rewards: [{
+				id: "20FFB673289C2FC7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "20F3FBCC2E41FC91"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:fire_hat"
+			}
+			id: "56004A1EB32622CB"
+			rewards: [{
+				id: "63B23D8A7050D3BC"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.1d
+			tasks: [
+				{
+					id: "6626D4AB3DF18087"
+					item: { count: 1, id: "ars_elemental:fire_hat" }
+					type: "item"
+				}
+				{
+					id: "10802AB0F88DA740"
+					item: { count: 1, id: "ars_elemental:fire_robes" }
+					type: "item"
+				}
+				{
+					id: "3713B36340341B0D"
+					item: { count: 1, id: "ars_elemental:fire_leggings" }
+					type: "item"
+				}
+				{
+					id: "0BE6CF29AEC7629C"
+					item: { count: 1, id: "ars_elemental:fire_boots" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			icon: {
+				id: "ars_elemental:aqua_hat"
+			}
+			id: "03A9C03A610B3A7D"
+			rewards: [{
+				id: "36BCA9893A6DB10E"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.1d
+			tasks: [
+				{
+					id: "313224AA7AF12BB1"
+					item: { count: 1, id: "ars_elemental:aqua_hat" }
+					type: "item"
+				}
+				{
+					id: "19B325F5ED8B37B7"
+					item: { count: 1, id: "ars_elemental:aqua_robes" }
+					type: "item"
+				}
+				{
+					id: "39B57C0663E35BDA"
+					item: { count: 1, id: "ars_elemental:aqua_leggings" }
+					type: "item"
+				}
+				{
+					id: "7D7CDDB9C45515C1"
+					item: { count: 1, id: "ars_elemental:aqua_boots" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 1.6500000000000001d
+		}
+		{
+			icon: {
+				id: "ars_elemental:earth_hat"
+			}
+			id: "14378701DA5E9F95"
+			rewards: [{
+				id: "3D890C366799C8E3"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.1d
+			tasks: [
+				{
+					id: "68E5A28EB2C8F2AB"
+					item: { count: 1, id: "ars_elemental:earth_hat" }
+					type: "item"
+				}
+				{
+					id: "32B5B92E6BA05300"
+					item: { count: 1, id: "ars_elemental:earth_robes" }
+					type: "item"
+				}
+				{
+					id: "3264A4E39621E660"
+					item: { count: 1, id: "ars_elemental:earth_leggings" }
+					type: "item"
+				}
+				{
+					id: "571427FB36CC3067"
+					item: { count: 1, id: "ars_elemental:earth_boots" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "ars_elemental:air_hat"
+			}
+			id: "339D5B4D3858A4E4"
+			rewards: [{
+				id: "10F82341EDFA7589"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.1d
+			tasks: [
+				{
+					id: "47094724C83202A4"
+					item: { count: 1, id: "ars_elemental:air_hat" }
+					type: "item"
+				}
+				{
+					id: "406815DFF923AA07"
+					item: { count: 1, id: "ars_elemental:air_robes" }
+					type: "item"
+				}
+				{
+					id: "1D56B5A3E748F77B"
+					item: { count: 1, id: "ars_elemental:air_leggings" }
+					type: "item"
+				}
+				{
+					id: "553CA8F6DDEFC27E"
+					item: { count: 1, id: "ars_elemental:air_boots" }
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 2.75d
+		}
+		{
+			dependencies: [
+				"56004A1EB32622CB"
+				"03A9C03A610B3A7D"
+				"339D5B4D3858A4E4"
+			]
+			icon: {
+				id: "ars_elemental:anima_bangle"
+			}
+			id: "652C1A142AEB4E14"
+			rewards: [
+				{
+					id: "0FBE6B1619EA2251"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 2
+					id: "1CA276F87C361432"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem_block"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [
+				{
+					id: "4554AD0BA68C3203"
+					item: { count: 1, id: "ars_elemental:fire_bangle" }
+					type: "item"
+				}
+				{
+					id: "1346525B83A7850A"
+					item: { count: 1, id: "ars_elemental:water_bangle" }
+					type: "item"
+				}
+				{
+					id: "18A7BDC9223047B9"
+					item: { count: 1, id: "ars_elemental:earth_bangle" }
+					type: "item"
+				}
+				{
+					id: "370D4E76139CD9A1"
+					item: { count: 1, id: "ars_elemental:air_bangle" }
+					type: "item"
+				}
+				{
+					id: "138594DCB4746D0C"
+					item: { count: 1, id: "ars_elemental:anima_bangle" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				id: "ars_elemental:siren_charm"
+			}
+			id: "2882671FEFB5FB07"
+			rewards: [{
+				id: "7B0AFF535DBC8398"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "6B8ABE3B86CC3E18"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:siren_charm"
+			}
+			id: "40F6B24E20DD85DB"
+			rewards: [{
+				id: "1E75D11599D6F7A4"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "4E709310585F1845"
+				item: { count: 1, id: "ars_elemental:siren_charm" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:firenando_charm"
+			}
+			id: "40E27434C6C91677"
+			rewards: [{
+				id: "0EF3E5E38581E641"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "197562BDAC709F2E"
+				item: { count: 1, id: "ars_elemental:firenando_charm" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "ars_elemental:flashpine_pod"
+			}
+			id: "096FD7230ED87F3C"
+			rewards: [
+				{
+					id: "1EFCEC69FAAD2C8C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 8
+					id: "546226BC4A4708A3"
+					item: {
+						count: 1
+						id: "ars_elemental:flashpine_pod"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "115DF8B4884A2230"
+				item: { count: 1, id: "ars_elemental:flashpine_pod" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["40F6B24E20DD85DB"]
+			icon: {
+				id: "ars_elemental:firenando_charm"
+			}
+			id: "2A4DC06C45B61B6A"
+			rewards: [
+				{
+					id: "431E9280E44913C0"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 2
+					id: "1A733458EFEFE9F7"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem_block"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [
+				{
+					id: "70FA086AAF75369A"
+					item: { count: 1, id: "ars_elemental:siren_charm" }
+					type: "item"
+				}
+				{
+					id: "2AA30993A54C1107"
+					item: { count: 1, id: "ars_elemental:firenando_charm" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "ars_elemental:advanced_prism"
+			}
+			id: "3D61E0447324CA40"
+			rewards: [{
+				id: "0A9367503A24642E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				id: "16475B37C2796F41"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3D61E0447324CA40"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ars_elemental:advanced_prism"
+			}
+			id: "094C2734E01D53A4"
+			rewards: [
+				{
+					id: "05C570AFE09C02F6"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "463595027A0F8B37"
+					item: {
+						count: 1
+						id: "ars_nouveau:spell_prism"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "19708AA26A27A7FE"
+				item: { count: 1, id: "ars_elemental:advanced_prism" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["094C2734E01D53A4"]
+			icon: {
+				id: "ars_elemental:acceleration_prism_lens"
+			}
+			id: "6A6943FC5CEAA2EB"
+			rewards: [{
+				id: "09C7AC3382A33B59"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.2d
+			tasks: [
+				{
+					id: "1F3979AB4976224F"
+					item: { count: 1, id: "ars_elemental:acceleration_prism_lens" }
+					type: "item"
+				}
+				{
+					id: "46E31F02A43F06FE"
+					item: { count: 1, id: "ars_elemental:deceleration_prism_lens" }
+					type: "item"
+				}
+				{
+					id: "1E63528AC1B4D8BE"
+					item: { count: 1, id: "ars_elemental:arc_prism_lens" }
+					type: "item"
+				}
+			]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3D61E0447324CA40"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ars_elemental:everfull_urn"
+			}
+			id: "4419C1C4573C6EBE"
+			rewards: [
+				{
+					id: "4525DF6C6234D1AC"
+					type: "xp"
+					xp: 150
+				}
+				{
+					id: "76F7C92730945B08"
+					item: {
+						count: 1
+						id: "minecraft:water_bucket"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "16BDAB772110EDD4"
+				item: { count: 1, id: "ars_elemental:everfull_urn" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3D61E0447324CA40"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ars_elemental:water_upstream"
+			}
+			id: "40E55A1EA50E134E"
+			rewards: [
+				{
+					id: "22F9B05E7154CD89"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "3EAEB42D5022DA14"
+					item: {
+						count: 1
+						id: "minecraft:soul_sand"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0360A3DB14C08E53"
+				item: { count: 1, id: "ars_elemental:water_upstream" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"3D61E0447324CA40"
+				"7E838756D524D71D"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "ars_elemental:fire_turret"
+			}
+			id: "13E1EE0DDFBB054D"
+			rewards: [{
+				id: "180588913173E91A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "3D1AD38E0BF12469"
+				item: { count: 1, id: "ars_elemental:fire_turret" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3D61E0447324CA40"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ars_elemental:water_turret"
+			}
+			id: "351A533E03528004"
+			rewards: [{
+				id: "7A26048D93211C6C"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "5377536F23995273"
+				item: { count: 1, id: "ars_elemental:water_turret" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"3D61E0447324CA40"
+				"06DF6D7A0B3C99F9"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "ars_elemental:earth_turret"
+			}
+			id: "23145E964BF88E17"
+			rewards: [{
+				id: "17A56A6BBE8BD100"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "3609D9621CB80EEF"
+				item: { count: 1, id: "ars_elemental:earth_turret" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["3D61E0447324CA40"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ars_elemental:air_turret"
+			}
+			id: "5593FE71219C09C4"
+			rewards: [{
+				id: "7A50EDF1D6E05FDD"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "4B154F7EB7868B86"
+				item: { count: 1, id: "ars_elemental:air_turret" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "ars_elemental:fire_caster_tome"
+			}
+			id: "1DDF56563F78A4BD"
+			rewards: [
+				{
+					id: "32D4054BCE37B5E8"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 2
+					id: "57982B5015F91964"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem_block"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [
+				{
+					id: "2F0FF203C97077C1"
+					item: { count: 1, id: "ars_elemental:fire_caster_tome" }
+					type: "item"
+				}
+				{
+					id: "12E5048646480467"
+					item: { count: 1, id: "ars_elemental:water_caster_tome" }
+					type: "item"
+				}
+				{
+					id: "50AC4506360EB7AA"
+					item: { count: 1, id: "ars_elemental:earth_caster_tome" }
+					type: "item"
+				}
+				{
+					id: "26F4CAF927088D7F"
+					item: { count: 1, id: "ars_elemental:air_caster_tome" }
+					type: "item"
+				}
+				{
+					id: "313CCFDD6AADD9B4"
+					item: { count: 1, id: "ars_elemental:manipulation_caster_tome" }
+					type: "item"
+				}
+				{
+					id: "5636230E4000C92E"
+					item: { count: 1, id: "ars_elemental:anima_caster_tome" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"1BBF30A769324B0D"
+				"652C1A142AEB4E14"
+				"2A4DC06C45B61B6A"
+				"13E1EE0DDFBB054D"
+				"5593FE71219C09C4"
+			]
+			icon: {
+				id: "ars_elemental:mark_of_mastery"
+			}
+			id: "005293C9F423648C"
+			rewards: [
+				{
+					id: "2400A8126078DA0E"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "3219A5CD7CC1B0B0"
+					item: {
+						count: 1
+						id: "ars_elemental:mark_of_mastery"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "3C83536A56E4447B"
+					item: {
+						count: 1
+						id: "ars_nouveau:source_gem_block"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "1D56E49A4527EE43"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+	]
+}

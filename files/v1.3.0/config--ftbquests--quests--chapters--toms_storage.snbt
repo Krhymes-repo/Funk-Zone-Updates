@@ -1,0 +1,243 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "toms_storage"
+	group: "1D472E4B7694487A"
+	icon: {
+		id: "toms_storage:storage_terminal"
+	}
+	id: "614CDD513CA3C468"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "25F6C46C55AB40AD"
+			tasks: [{
+				id: "0167605C06C1D04E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17A800D7CE85D816"]
+			id: "3D5F0E829EE089BC"
+			tasks: [{
+				id: "5D7781538AE50C76"
+				item: { count: 1, id: "toms_storage:inventory_connector" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			id: "17A800D7CE85D816"
+			tasks: [{
+				id: "0C1ADDE7D3E8F7B1"
+				item: { count: 1, id: "toms_storage:storage_terminal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["17A800D7CE85D816"]
+			id: "1CEE67A8488AC614"
+			tasks: [{
+				id: "12BAAF739F17276D"
+				item: { count: 1, id: "toms_storage:crafting_terminal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["17A800D7CE85D816"]
+			id: "32FAA578ECC7EA71"
+			tasks: [{
+				id: "1C5DEC526348AC9B"
+				item: { count: 1, id: "toms_storage:open_crate" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3D5F0E829EE089BC"]
+			id: "1DE13961E741EE6F"
+			tasks: [{
+				id: "5073DC7B11BBE182"
+				item: { count: 1, id: "toms_storage:trim" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["68F63CE0E38F2BA9"]
+			id: "1AD2615918168B43"
+			tasks: [{
+				id: "039C7ADB29A3B9AA"
+				item: { count: 1, id: "toms_storage:level_emitter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["17A800D7CE85D816"]
+			id: "68F63CE0E38F2BA9"
+			tasks: [{
+				id: "293DACF1E7BCDD63"
+				item: { count: 1, id: "toms_storage:inventory_cable" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["68F63CE0E38F2BA9"]
+			id: "58A1BB590FF9DE00"
+			tasks: [{
+				id: "606BDC4ACD2D41A6"
+				item: { count: 1, id: "toms_storage:inventory_cable_framed" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["68F63CE0E38F2BA9"]
+			id: "788626E1D32A571D"
+			tasks: [{
+				id: "044D561A858E6EC4"
+				item: { count: 1, id: "toms_storage:basic_inventory_hopper" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["3D5F0E829EE089BC"]
+			id: "6FF505095C13E173"
+			tasks: [{
+				id: "4210B543C4F84875"
+				item: { count: 1, id: "toms_storage:inventory_interface" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["68F63CE0E38F2BA9"]
+			id: "34129BD48206A3B1"
+			tasks: [{
+				id: "636746D59C819034"
+				item: { count: 1, id: "toms_storage:inventory_cable_connector" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["34129BD48206A3B1"]
+			id: "0950F37C09F1D199"
+			tasks: [{
+				id: "33B1167DB72D204D"
+				item: { count: 1, id: "toms_storage:inventory_cable_connector_framed" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["17A800D7CE85D816"]
+			id: "7285900C387EC03A"
+			tasks: [{
+				id: "28074E5C40BD10EA"
+				item: { count: 1, id: "toms_storage:inventory_proxy" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["17A800D7CE85D816"]
+			id: "4A19F1079E5990E6"
+			tasks: [{
+				id: "3DB3BE35A5B36F54"
+				item: { count: 1, id: "toms_storage:paint_kit" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1CEE67A8488AC614"]
+			id: "3848DFB51F77997B"
+			tasks: [{
+				id: "1CD74814D3A314AB"
+				item: { count: 1, id: "toms_storage:wireless_terminal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3848DFB51F77997B"]
+			id: "6AFB79B3C4DA88BF"
+			tasks: [{
+				id: "145421A8669E6238"
+				item: { count: 1, id: "toms_storage:adv_wireless_terminal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["04865E464D19075B"]
+			id: "3D7AA7C9D0EA4738"
+			tasks: [{
+				id: "7C093D536E1F5DEE"
+				item: { count: 1, id: "toms_storage:item_filter" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["3D7AA7C9D0EA4738"]
+			id: "520969FABFECD0D0"
+			tasks: [{
+				id: "297A238FC9748563"
+				item: { count: 1, id: "toms_storage:polymorphic_item_filter" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3D7AA7C9D0EA4738"]
+			id: "4053CEAF021EF383"
+			tasks: [{
+				id: "30EF12CEFB22767D"
+				item: { count: 1, id: "toms_storage:tag_item_filter" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["3D5F0E829EE089BC"]
+			id: "04865E464D19075B"
+			tasks: [{
+				id: "16D11AACFF59EDDA"
+				item: { count: 1, id: "toms_storage:inventory_configurator" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.0d
+		}
+	]
+}

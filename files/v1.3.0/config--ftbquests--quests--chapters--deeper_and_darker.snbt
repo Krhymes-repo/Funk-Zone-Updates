@@ -1,0 +1,862 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "deeper_and_darker"
+	group: "088F8D8693CE4097"
+	icon: {
+		id: "deeperdarker:heart_of_the_deep"
+	}
+	id: "3F43780FBFE21442"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "deeperdarker:heart_of_the_deep"
+			}
+			id: "5284257AC1E1CB35"
+			min_width: 300
+			rewards: [
+				{
+					id: "1E4EC130FDEFD9DF"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "66B57521197E9692"
+					item: {
+						count: 1
+						id: "minecraft:echo_shard"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "26F6E4A57A862B59"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:resonarium"
+			}
+			id: "671DE3D77EC6860D"
+			rewards: [
+				{
+					id: "44116C3290106DD4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "47C30654A98A6375"
+					item: {
+						count: 1
+						id: "deeperdarker:resonarium"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7061FDAF70A62B8D"
+				item: { count: 1, id: "deeperdarker:resonarium" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["671DE3D77EC6860D"]
+			icon: {
+				id: "deeperdarker:resonarium_sword"
+			}
+			id: "6292C7DB06FD076F"
+			rewards: [{
+				id: "1F7337DFE0DAC6F0"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "659BEC7502EF7897"
+				item: { count: 1, id: "deeperdarker:resonarium_sword" }
+				type: "item"
+			}]
+			x: 3.9285714285714235d
+			y: 2.6880952380952365d
+		}
+		{
+			dependencies: ["671DE3D77EC6860D"]
+			icon: {
+				id: "deeperdarker:resonarium_pickaxe"
+			}
+			id: "52DC200CB91AFBCF"
+			rewards: [{
+				id: "45E79FBD9AE3A76D"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "2BE8299B583F0290"
+				item: { count: 1, id: "deeperdarker:resonarium_pickaxe" }
+				type: "item"
+			}]
+			x: 4.738095238095234d
+			y: 2.069047619047616d
+		}
+		{
+			dependencies: ["671DE3D77EC6860D"]
+			icon: {
+				id: "deeperdarker:resonarium_axe"
+			}
+			id: "15BD86A2D8847110"
+			rewards: [{
+				id: "55C71BDE09435BFE"
+				type: "xp"
+				xp: 200
+			}]
+			size: 1.1d
+			tasks: [
+				{
+					id: "1C9D6F9C9319E402"
+					item: { count: 1, id: "deeperdarker:resonarium_axe" }
+					type: "item"
+				}
+				{
+					id: "045CA46A532CEF3D"
+					item: { count: 1, id: "deeperdarker:resonarium_shovel" }
+					type: "item"
+				}
+				{
+					id: "68315B5AD638FCA6"
+					item: { count: 1, id: "deeperdarker:resonarium_hoe" }
+					type: "item"
+				}
+			]
+			x: 4.595238095238102d
+			y: 0.8309523809523753d
+		}
+		{
+			dependencies: ["671DE3D77EC6860D"]
+			icon: {
+				id: "deeperdarker:resonarium_chestplate"
+			}
+			id: "01FEE2B457900E8B"
+			rewards: [
+				{
+					id: "1722B8D96D576897"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 4
+					id: "1F10CF25E47819A7"
+					item: {
+						count: 1
+						id: "deeperdarker:resonarium"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "158036C65EABE667"
+					item: { count: 1, id: "deeperdarker:resonarium_helmet" }
+					type: "item"
+				}
+				{
+					id: "11E2B14369157F59"
+					item: { count: 1, id: "deeperdarker:resonarium_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3DED96B0AC95259D"
+					item: { count: 1, id: "deeperdarker:resonarium_leggings" }
+					type: "item"
+				}
+				{
+					id: "24A0E2A455B17CE1"
+					item: { count: 1, id: "deeperdarker:resonarium_boots" }
+					type: "item"
+				}
+			]
+			x: 3.8809523809523796d
+			y: 0.02142857142857224d
+		}
+		{
+			dependencies: ["5284257AC1E1CB35"]
+			icon: {
+				id: "minecraft:sculk"
+			}
+			id: "018721438D131C18"
+			rewards: [
+				{
+					id: "36E71BD007B05C95"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "46CB1D981722D96E"
+					item: {
+						count: 1
+						id: "minecraft:sculk"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 1.3d
+			tasks: [{
+				advancement: "deeperdarker:main/root"
+				criterion: ""
+				id: "706FE82D30955608"
+				type: "advancement"
+			}]
+			x: -2.6d
+			y: -0.65d
+		}
+		{
+			dependencies: ["018721438D131C18"]
+			icon: {
+				id: "minecraft:echo_shard"
+			}
+			id: "06BF1394D43CB698"
+			rewards: [
+				{
+					id: "34A7B6082EE11B18"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 2
+					id: "5376D2C5FB6B8ACB"
+					item: {
+						count: 1
+						id: "minecraft:echo_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 4L
+				id: "1E16FA8F19A149C1"
+				item: { count: 1, id: "minecraft:echo_shard" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5284257AC1E1CB35"]
+			icon: {
+				id: "deeperdarker:warden_upgrade_smithing_template"
+			}
+			id: "49E65D060CC4D62C"
+			rewards: [{
+				id: "268B66DC140516DB"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "393622C89AB9F90F"
+				item: { count: 1, id: "deeperdarker:warden_upgrade_smithing_template" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:sculk"
+			}
+			id: "1CE4C5F3EF8053DA"
+			rewards: [
+				{
+					id: "0DB26AB02EA127B9"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 2
+					id: "32650DD199EABD71"
+					item: {
+						count: 1
+						id: "deeperdarker:soul_dust"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "deeperdarker:sculk_snapper"
+				id: "47904B5956F2E34B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.785714285714292d
+			y: 0.8785714285714263d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:sculk_vein"
+			}
+			id: "2943F53890992E10"
+			rewards: [
+				{
+					id: "171C488A8DBF2A6F"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 4
+					id: "59F15E68015DD70F"
+					item: {
+						count: 1
+						id: "minecraft:experience_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "deeperdarker:sculk_centipede"
+				id: "6885CD591E2D4F68"
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:sculk_bone"
+			}
+			id: "679F126D4B387D17"
+			rewards: [
+				{
+					id: "40F361C73D81B367"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 2
+					id: "707DF22FDB7FFDBD"
+					item: {
+						count: 1
+						id: "deeperdarker:sculk_bone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "deeperdarker:shattered"
+				id: "796FB6DA1C291714"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.833333333333336d
+			y: 3.5452380952380977d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:soul_dust"
+			}
+			id: "7BF2E7C3165ED71C"
+			rewards: [
+				{
+					id: "736A3B8445745D8E"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 4
+					id: "79C57FB250FC8C5A"
+					item: {
+						count: 1
+						id: "deeperdarker:soul_dust"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "4D1EBB17B84F0F76"
+				item: { count: 1, id: "deeperdarker:soul_dust" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:soul_crystal"
+			}
+			id: "191AE7CD016B4181"
+			rewards: [
+				{
+					id: "4249ACDEFE36195A"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "39C70DFB14CC053A"
+					item: {
+						count: 1
+						id: "deeperdarker:soul_crystal"
+					}
+					type: "item"
+				}
+			]
+			size: 1.3d
+			tasks: [{
+				entity: "deeperdarker:stalker"
+				id: "00EE9101A8947FD7"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.833333333333336d
+			y: 2.307142857142857d
+		}
+		{
+			dependencies: ["5284257AC1E1CB35"]
+			icon: {
+				id: "deeperdarker:warden_carapace"
+			}
+			id: "48AEDD8F814D49F5"
+			rewards: [
+				{
+					id: "16A461A67914C2A0"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "71BD22EF8A5E56A4"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_carapace"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "60FDEF4E94013F5A"
+				item: { count: 1, id: "deeperdarker:warden_carapace" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48AEDD8F814D49F5"]
+			icon: {
+				id: "deeperdarker:heart_of_the_deep"
+			}
+			id: "1C59034A4EEFE3B4"
+			rewards: [{
+				id: "669785607752DE0F"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "044CD9C91C2DA914"
+				item: { count: 1, id: "deeperdarker:heart_of_the_deep" }
+				type: "item"
+			}]
+			x: 1.2d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1C59034A4EEFE3B4"
+				"06BF1394D43CB698"
+			]
+			icon: {
+				id: "deeperdarker:reinforced_echo_shard"
+			}
+			id: "62F1A938CAC19C36"
+			rewards: [
+				{
+					id: "136210416F1E20D0"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 4
+					id: "6406AD7CB30FCA99"
+					item: {
+						count: 1
+						id: "minecraft:phantom_membrane"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "79C7FF2EBF7E36B6"
+				item: { count: 1, id: "deeperdarker:reinforced_echo_shard" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1C59034A4EEFE3B4"]
+			icon: {
+				id: "minecraft:reinforced_deepslate"
+			}
+			id: "1750DFE20BCDDC47"
+			rewards: [{
+				id: "03C24B23726B2194"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.3d
+			tasks: [{
+				id: "635BCEED904FC0D4"
+				item: { count: 1, id: "minecraft:reinforced_deepslate" }
+				type: "item"
+			}]
+			x: 1.3d
+			y: 1.3d
+		}
+		{
+			dependencies: ["1750DFE20BCDDC47"]
+			id: "19AA22EA06314C86"
+			rewards: [
+				{
+					id: "779AA2BC5A9E8589"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 16
+					id: "70B1843E8C181138"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "67F46B5C438CB19C"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.3d
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				id: "0D243EED38DE755C"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 2.6d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			id: "64428A93E689FFB1"
+			rewards: [
+				{
+					id: "0CB81304322CA673"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "49F45D1766AEBA3F"
+					item: {
+						count: 1
+						id: "minecraft:compass"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				advancement: "deeperdarker:main/explore_otherside"
+				criterion: ""
+				id: "01795C85B7184614"
+				type: "advancement"
+			}]
+			x: 1.7999999999999998d
+			y: 4.8d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			id: "27AF71A7505EF456"
+			rewards: [
+				{
+					id: "5B87B6619E1F9FB9"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "1F1A6B6DCCB44797"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_carapace"
+					}
+					type: "item"
+				}
+			]
+			size: 1.2d
+			tasks: [{
+				advancement: "deeperdarker:main/find_ancient_temple"
+				criterion: ""
+				id: "72ABBC7261FB5AC7"
+				type: "advancement"
+			}]
+			x: 2.4d
+			y: 3.5999999999999996d
+		}
+		{
+			dependencies: ["27AF71A7505EF456"]
+			icon: {
+				id: "deeperdarker:sculk_transmitter"
+			}
+			id: "045F64DA7514DF9D"
+			rewards: [{
+				id: "05848E9DA5649352"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "511624AF9E31CBDC"
+				item: { count: 1, id: "deeperdarker:sculk_transmitter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:warden_sword"
+			}
+			id: "0BB694C8626CC985"
+			rewards: [{
+				id: "277872B7EDC49060"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.1d
+			tasks: [{
+				id: "242AE626081F2BAA"
+				item: { count: 1, id: "deeperdarker:warden_sword" }
+				type: "item"
+			}]
+			x: -3.8809523809523867d
+			y: 6.259523809523806d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:warden_pickaxe"
+			}
+			id: "54C9BE39681C4591"
+			rewards: [{
+				id: "3210B8EDA69C6EB9"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "103C26DD011ECE65"
+				item: { count: 1, id: "deeperdarker:warden_pickaxe" }
+				type: "item"
+			}]
+			x: -2.357142857142861d
+			y: 5.92619047619047d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:warden_axe"
+			}
+			id: "5A2B38E53A0A9805"
+			rewards: [{
+				id: "20A68CA889E6A22A"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.1d
+			tasks: [
+				{
+					id: "5D3CA1CA2A771361"
+					item: { count: 1, id: "deeperdarker:warden_axe" }
+					type: "item"
+				}
+				{
+					id: "50514369C752B65D"
+					item: { count: 1, id: "deeperdarker:warden_shovel" }
+					type: "item"
+				}
+				{
+					id: "600936AC49F76021"
+					item: { count: 1, id: "deeperdarker:warden_hoe" }
+					type: "item"
+				}
+			]
+			x: -4.976190476190482d
+			y: 5.069047619047616d
+		}
+		{
+			dependencies: ["5284257AC1E1CB35"]
+			icon: {
+				id: "deeperdarker:warden_chestplate"
+			}
+			id: "60923C3815969721"
+			rewards: [
+				{
+					id: "148DF176068C5FDA"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "10C2AFE4BF58FCEC"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_carapace"
+					}
+					type: "item"
+				}
+			]
+			size: 1.3d
+			tasks: [{
+				advancement: "deeperdarker:main/warden_armor"
+				criterion: ""
+				id: "2582961C6EB91A15"
+				type: "advancement"
+			}]
+			x: -3.547619047619058d
+			y: 5.164285714285711d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:soul_elytra"
+			}
+			id: "5C3D7976097DD2B2"
+			rewards: [
+				{
+					id: "59F86A72705CECBB"
+					type: "xp"
+					xp: 250
+				}
+				{
+					id: "34F26E606CC070DF"
+					item: {
+						count: 1
+						id: "deeperdarker:soul_crystal"
+					}
+					type: "item"
+				}
+			]
+			size: 1.4d
+			tasks: [{
+				id: "2F2AA2A12FD21CEE"
+				item: { count: 1, id: "deeperdarker:soul_elytra" }
+				type: "item"
+			}]
+			x: -0.9285714285714306d
+			y: 3.7833333333333243d
+		}
+		{
+			dependencies: ["19AA22EA06314C86"]
+			hide_dependency_lines: true
+			icon: {
+				id: "deeperdarker:sonorous_staff"
+			}
+			id: "2580900FFF1F2D03"
+			rewards: [{
+				id: "59985DF97DC800F4"
+				type: "xp"
+				xp: 250
+			}]
+			size: 1.2d
+			tasks: [{
+				id: "4C51DC88B43A923D"
+				item: { count: 1, id: "deeperdarker:sonorous_staff" }
+				type: "item"
+			}]
+			x: 0.1666666666666714d
+			y: 4.5928571428571345d
+		}
+		{
+			dependencies: [
+				"60923C3815969721"
+				"5A2B38E53A0A9805"
+				"2580900FFF1F2D03"
+				"045F64DA7514DF9D"
+				"64428A93E689FFB1"
+				"0BB694C8626CC985"
+				"5C3D7976097DD2B2"
+			]
+			icon: {
+				id: "deeperdarker:heart_of_the_deep"
+			}
+			id: "367AE77048A7B239"
+			rewards: [
+				{
+					id: "027CA005597D94D3"
+					type: "xp"
+					xp: 250
+				}
+				{
+					count: 4
+					id: "4403AF709D3B46B3"
+					item: {
+						count: 1
+						id: "deeperdarker:reinforced_echo_shard"
+					}
+					type: "item"
+				}
+				{
+					id: "45D329C95BA5D1F3"
+					item: {
+						count: 1
+						id: "deeperdarker:warden_carapace"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				advancement: "deeperdarker:main/kill_all_sculk_mobs"
+				criterion: ""
+				id: "4339EAA35A6D8886"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+	]
+}

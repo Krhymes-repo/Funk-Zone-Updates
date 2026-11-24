@@ -1,0 +1,311 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cooking_for_blockheads"
+	group: "4A1E05CBDEBD4D2B"
+	icon: {
+		id: "cookingforblockheads:cooking_table"
+	}
+	id: "22910AA98EA00F25"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2BA0562F80A113A3"
+			min_width: 300
+			rewards: [{
+				id: "5C028870633F3300"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "75F7DEFEA6183999"
+				item: { count: 1, id: "minecraft:book" }
+				type: "item"
+			}]
+			x: -8.25d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2BA0562F80A113A3"]
+			id: "540C1C6BACA28EB3"
+			rewards: [{
+				id: "77061E8A147C69DA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7BADFDBFDE4AE594"
+				item: { count: 1, id: "cookingforblockheads:recipe_book" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["540C1C6BACA28EB3"]
+			id: "0F1D00D1672D0392"
+			rewards: [
+				{
+					id: "4A21EB16233C622D"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "1DA674DFF13AABA3"
+					item: {
+						count: 1
+						id: "cookingforblockheads:recipe_book"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "20FCD9E90FADA1AB"
+				item: { count: 1, id: "cookingforblockheads:crafting_book" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0F1D00D1672D0392"]
+			id: "5302552C6D536230"
+			rewards: [
+				{
+					id: "2A37E69097947E45"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 2
+					id: "4DD996F5880EE29E"
+					item: {
+						count: 1
+						id: "minecraft:beef"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.2d
+			tasks: [{
+				id: "30E16BDEF1740170"
+				item: { count: 1, id: "cookingforblockheads:cooking_table" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5302552C6D536230"]
+			id: "674A9EA700A2B0BE"
+			rewards: [
+				{
+					id: "0672FB9C8E68F850"
+					type: "xp"
+					xp: 20
+				}
+				{
+					count: 8
+					id: "40F318A9AB6B644F"
+					item: {
+						count: 1
+						id: "minecraft:honeycomb"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.2d
+			tasks: [{
+				id: "18AB75E0E426B483"
+				item: { count: 1, id: "cookingforblockheads:sink" }
+				type: "item"
+			}]
+			x: 4.8d
+			y: -6.5d
+		}
+		{
+			dependencies: ["5302552C6D536230"]
+			id: "4AFBC338D674391C"
+			rewards: [
+				{
+					id: "16BA4FC68F142572"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "0A2DA4E1518F54AF"
+					item: {
+						count: 1
+						id: "minecraft:apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "582728E43198C163"
+				item: { count: 1, id: "cookingforblockheads:counter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4AFBC338D674391C"]
+			id: "6EE430F57BEB6743"
+			rewards: [
+				{
+					id: "0BCEDCC200B855C3"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "0CF6BD3A36519ED2"
+					item: {
+						count: 1
+						id: "minecraft:potato"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "34D76202546CBFDE"
+				item: { count: 1, id: "cookingforblockheads:cabinet" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5302552C6D536230"]
+			id: "4A4C726741C5621B"
+			rewards: [
+				{
+					id: "2892B27ABAEB2C68"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "203E3767AE610922"
+					item: {
+						count: 1
+						id: "minecraft:packed_ice"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "3A59FA42A1D37A10"
+				item: { count: 1, id: "cookingforblockheads:ice_unit" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["5302552C6D536230"]
+			id: "15511FCF83906DD0"
+			rewards: [{
+				id: "312B69CF34D34AA4"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2F5BEBA1FC39CEE8"
+				item: { count: 1, id: "cookingforblockheads:preservation_chamber" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -8.5d
+		}
+		{
+			dependencies: ["5302552C6D536230"]
+			id: "71BC477363A89EF2"
+			rewards: [
+				{
+					id: "738DECE0D44B12AC"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 8
+					id: "2CC68571C1B2907B"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "75915AA0A3C73695"
+				item: { count: 1, id: "cookingforblockheads:heating_unit" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["4AFBC338D674391C"]
+			id: "12E4253294652D58"
+			rewards: [{
+				id: "61B4FEBF44BD6990"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A761460C5146F1C"
+					item: { count: 1, id: "cookingforblockheads:fruit_basket" }
+					type: "item"
+				}
+				{
+					id: "04E2127B1E096E93"
+					item: { count: 1, id: "cookingforblockheads:tool_rack" }
+					type: "item"
+				}
+				{
+					id: "5B72BEF9EACD8BD5"
+					item: { count: 1, id: "cookingforblockheads:spice_rack" }
+					type: "item"
+				}
+				{
+					id: "33A6999B3FB6A98A"
+					item: { count: 1, id: "cookingforblockheads:toaster" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["12E4253294652D58"]
+			id: "0C701F3D66D091F6"
+			rewards: [{
+				id: "4BFCF6C7797EA6A5"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "39C4D385C43CE5DF"
+				item: { count: 1, id: "cookingforblockheads:cow_jar" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+	]
+}

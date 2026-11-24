@@ -1,0 +1,242 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exploration"
+	group: "088F8D8693CE4097"
+	icon: {
+		id: "explorerscompass:explorerscompass"
+	}
+	id: "7023B9BC0410CC38"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "waystones:waystone"
+			}
+			id: "3C0550893B1037AA"
+			rewards: [{
+				id: "0553593A27EB5586"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "63FA9F82CC524CBB"
+				item: { count: 1, id: "waystones:warp_dust" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C0550893B1037AA"]
+			id: "18932EA034EBC096"
+			rewards: [{
+				id: "2C2D27E4C264BEB2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "375F9B759723AB10"
+				item: { count: 1, id: "waystones:return_scroll" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3C0550893B1037AA"]
+			id: "5FFA0CB21BF36C0B"
+			rewards: [{
+				id: "7C83878DD37CA66F"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "73B4B450C866FE49"
+				item: { count: 1, id: "waystones:warp_stone" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3C0550893B1037AA"]
+			id: "7ABEA0233AD20939"
+			rewards: [{
+				id: "3062E846EA1A0FB3"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "252454CD2D883691"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3C0550893B1037AA"]
+			id: "7FA718277BA80D96"
+			rewards: [{
+				id: "02DEAA09179DBF80"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "7EA0A06BE1C7871B"
+				item: { count: 1, id: "explorerscompass:explorerscompass" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7FA718277BA80D96"]
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "0B64F9FA4ADD9D31"
+			rewards: [{
+				id: "64AA536C492B578C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "6AF0AE645602354E"
+				type: "dimension"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0B64F9FA4ADD9D31"]
+			icon: {
+				id: "minecraft:end_portal_frame"
+			}
+			id: "7EE66F9233129D82"
+			rewards: [{
+				id: "43F5A57AD5A06140"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "62E0917DF6B758BB"
+				type: "dimension"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7EE66F9233129D82"]
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "76FA6C8842045820"
+			rewards: [{
+				id: "4AE983F43DAE28FF"
+				type: "xp"
+				xp: 250
+			}]
+			shape: "gear"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "6F99F8C87300CD85"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3C0550893B1037AA"]
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "31F387F962F721DD"
+			rewards: [{
+				id: "03800D17C9AF3644"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7392662C2B7B9110"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["31F387F962F721DD"]
+			icon: {
+				id: "minecraft:sculk_shrieker"
+			}
+			id: "2C381AF2D60147EE"
+			optional: true
+			rewards: [{
+				id: "137CBA5F4C368E24"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "6012C1529F571188"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["31F387F962F721DD"]
+			icon: {
+				id: "cobblemonraiddens:raid_pouch"
+			}
+			id: "05D9DFF86E6975BB"
+			optional: true
+			rewards: [{
+				id: "3BAE681E5851F675"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				abilities: ""
+				action: "win_raid"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "170E0280E50FD7F1"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+}

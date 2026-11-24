@@ -1,0 +1,1641 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_aether"
+	group: "088F8D8693CE4097"
+	icon: {
+		id: "aether:aether_portal_frame"
+	}
+	id: "3C393945D0B470C4"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "aether:aether_portal_frame"
+			}
+			id: "7FEA7959D45D014D"
+			min_width: 300
+			rewards: [{
+				id: "023970050AEE14EB"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "3D7A6824A0C5DDB2"
+				item: { count: 1, id: "minecraft:water_bucket" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["7FEA7959D45D014D"]
+			hide_dependency_lines: true
+			id: "410FECFDE276A634"
+			min_width: 350
+			rewards: [{
+				id: "1EEDB736D2DDBB8B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "aether:locked_carved_stone"
+				}
+				id: "6FB58202C316C71E"
+				structure: "aether:bronze_dungeon"
+				type: "structure"
+			}]
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ftbquests:custom_icon"
+			}
+			id: "0720A99E79EE351A"
+			min_width: 300
+			rewards: [{
+				id: "5EF56CBD06C31A31"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "rsquare"
+			tasks: [{
+				entity: "aether:slider"
+				icon: {
+					id: "aether:slider_spawn_egg"
+				}
+				id: "68B37244F0AA8E51"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "3D4966BD7A313777"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "6B850987A3F167AE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "791D57FB05660072"
+				item: { count: 1, id: "aether:valkyrie_lance" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "4F40E958F3DC83AD"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "5CDE6980F7EE9D36"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5110D57AF12EEFB0"
+				item: { count: 1, id: "aether:lightning_knife" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "6FAB27D5EFA81C51"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "3ED12ACBD8E69018"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5078DDC4F0B8A90C"
+				item: { count: 1, id: "aether:flaming_sword" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "5287B1EED771D221"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "7862108D736E6800"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7EB460BBEE67AA3C"
+				item: { count: 1, id: "aether:phoenix_bow" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "0B569A6E905B82F3"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "5DA1A1F9BEF076BC"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "22851DF48E6E23D0"
+				item: { count: 1, id: "aether:hammer_of_kingbdogz" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "42425683C96B4BEC"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "7FEB64C1A584ADCD"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5166FBA549CC7B81"
+				item: { count: 1, id: "aether:cloud_staff" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "4B3098398CA837EF"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "188637CC86A8206E"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2F5BF58D3C4203F1"
+				item: { count: 1, id: "aether:sentry_boots" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7FEA7959D45D014D"]
+			hide_dependency_lines: true
+			id: "5A75593DB466B199"
+			min_width: 350
+			rewards: [{
+				id: "7E8672F3295C4A2B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "aether:locked_angelic_stone"
+				}
+				id: "55F26A8B917C02D0"
+				structure: "aether:silver_dungeon"
+				type: "structure"
+			}]
+			x: 13.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7FEA7959D45D014D"]
+			hide_dependency_lines: true
+			id: "6A574C894F369B01"
+			min_width: 350
+			rewards: [{
+				id: "65D061EC47E24124"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "aether:locked_hellfire_stone"
+				}
+				id: "1BCE687B96AFFE8E"
+				structure: "aether:gold_dungeon"
+				type: "structure"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "3F00A3C224EFD02F"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "70C8C6AD411649CD"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "218240DE9083ACC4"
+				item: { count: 1, id: "aether:swet_cape" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "4BE733F869DD369A"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "51DB64EAB17BD307"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "4E5AF926A6AB50DA"
+				item: { count: 1, id: "aether:agility_cape" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5A75593DB466B199"]
+			icon: {
+				id: "ftbquests:custom_icon"
+			}
+			id: "51F22964CEABD393"
+			min_width: 250
+			rewards: [{
+				id: "2036254401EB699D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				entity: "aether:valkyrie"
+				icon: {
+					id: "aether:valkyrie_spawn_egg"
+				}
+				id: "294018C3106395AA"
+				type: "kill"
+				value: 10L
+			}]
+			x: 12.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5A75593DB466B199"]
+			icon: {
+				id: "ftbquests:custom_icon"
+			}
+			id: "52FDA1FDDAFDB8CE"
+			min_width: 300
+			rewards: [{
+				id: "40D6FB1EF1DC4543"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "rsquare"
+			tasks: [{
+				entity: "aether:valkyrie_queen"
+				icon: {
+					id: "aether:valkyrie_queen_spawn_egg"
+				}
+				id: "548074DE1F3888F9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 13.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5A75593DB466B199"]
+			hide_dependency_lines: true
+			id: "275774CED46210EA"
+			min_width: 300
+			optional: true
+			rewards: [{
+				id: "57B5223A58DEB9AA"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "500140D02D8AEB4B"
+					item: { count: 1, id: "aether:valkyrie_pickaxe" }
+					type: "item"
+				}
+				{
+					id: "20B708FC1E210ED3"
+					item: { count: 1, id: "aether:valkyrie_axe" }
+					type: "item"
+				}
+				{
+					id: "5D0292435AF401C9"
+					item: { count: 1, id: "aether:valkyrie_shovel" }
+					type: "item"
+				}
+				{
+					id: "5319249DD4A9EEF4"
+					item: { count: 1, id: "aether:valkyrie_hoe" }
+					type: "item"
+				}
+			]
+			x: 14.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5A75593DB466B199"]
+			id: "4AA693AA766152A7"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "7479A4482E40A422"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "0B51EC09606E8B09"
+				item: { count: 1, id: "aether:holy_sword" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5A75593DB466B199"]
+			hide_dependency_lines: true
+			id: "212C506A24BEACB4"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "0FC112A599229095"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "635868523496F126"
+				item: { count: 1, id: "aether:lightning_sword" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["52FDA1FDDAFDB8CE"]
+			hide_dependency_lines: true
+			id: "22C4F4AF6255DA53"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "5A27CD47BF01859C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "15220A998C22CBE1"
+					item: { count: 1, id: "aether:valkyrie_helmet" }
+					type: "item"
+				}
+				{
+					id: "46ADFA9D86AA8BA1"
+					item: { count: 1, id: "aether:valkyrie_chestplate" }
+					type: "item"
+				}
+				{
+					id: "727333AEBA9D135C"
+					item: { count: 1, id: "aether:valkyrie_leggings" }
+					type: "item"
+				}
+				{
+					id: "43A7477EE23C44D1"
+					item: { count: 1, id: "aether:valkyrie_boots" }
+					type: "item"
+				}
+				{
+					id: "1F5F0D50613DBFA0"
+					item: { count: 1, id: "aether:valkyrie_gloves" }
+					type: "item"
+				}
+			]
+			x: 14.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["52FDA1FDDAFDB8CE"]
+			hide_dependency_lines: true
+			id: "7196E614315B25C1"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "1AFCB3E4CE61F9EB"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "04E86CD868A922BD"
+					item: { count: 1, id: "aether:neptune_helmet" }
+					type: "item"
+				}
+				{
+					id: "37A70D42DCD48BE0"
+					item: { count: 1, id: "aether:neptune_chestplate" }
+					type: "item"
+				}
+				{
+					id: "1CEF3CBC2C67E4D9"
+					item: { count: 1, id: "aether:neptune_leggings" }
+					type: "item"
+				}
+				{
+					id: "7B7036BA66953A13"
+					item: { count: 1, id: "aether:neptune_boots" }
+					type: "item"
+				}
+				{
+					id: "4776B6622CC70C54"
+					item: { count: 1, id: "aether:neptune_gloves" }
+					type: "item"
+				}
+			]
+			x: 14.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52FDA1FDDAFDB8CE"]
+			hide_dependency_lines: true
+			id: "575AAF0CC58C06D6"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "2F7E018950928ECA"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "4394AA25EC4DED03"
+				item: { count: 1, id: "aether:regeneration_stone" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52FDA1FDDAFDB8CE"]
+			hide_dependency_lines: true
+			id: "2B8CCCB834402F5E"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "34606CB253C503A9"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "3B55DDBED37D41B3"
+				item: { count: 1, id: "aether:invisibility_cloak" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["52FDA1FDDAFDB8CE"]
+			hide_dependency_lines: true
+			id: "44244B68AD3526BD"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "54A33AD59EE812F9"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "70BF3044FFE5E383"
+				item: { count: 1, id: "aether:valkyrie_cape" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["52FDA1FDDAFDB8CE"]
+			hide_dependency_lines: true
+			id: "7FA44D41CE6EB4D7"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "144E964F737B5773"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "1855514719963280"
+				item: { count: 1, id: "aether:golden_feather" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ftbquests:custom_icon"
+			}
+			id: "52056972CC56C85C"
+			min_width: 250
+			rewards: [{
+				id: "1E6734A9B24D0924"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				entity: "aether:sentry"
+				icon: {
+					id: "aether:sentry_spawn_egg"
+				}
+				id: "3234BA3DFE8523F9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ftbquests:custom_icon"
+			}
+			id: "20427E6B30CE7275"
+			min_width: 250
+			rewards: [{
+				id: "2E72F9E842D12716"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				entity: "aether:mimic"
+				icon: {
+					id: "aether:mimic_spawn_egg"
+				}
+				id: "602E673C0E60AF25"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A574C894F369B01"]
+			hide_dependency_lines: true
+			icon: {
+				id: "ftbquests:custom_icon"
+			}
+			id: "3BB31C10EB93A4D1"
+			min_width: 300
+			rewards: [{
+				id: "7FD77A2F4D06A52C"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "rsquare"
+			tasks: [{
+				entity: "aether:sun_spirit"
+				icon: {
+					id: "aether:sun_spirit_spawn_egg"
+				}
+				id: "5611BB80C9DF268C"
+				type: "kill"
+				value: 1L
+			}]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["6A574C894F369B01"]
+			hide_dependency_lines: true
+			id: "69CF209D4496E6C5"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "4237B1287DAC89FD"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "5B81927349B10DD9"
+				item: { count: 1, id: "aether:sun_altar" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6A574C894F369B01"]
+			hide_dependency_lines: true
+			id: "45684560AC1DE231"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "3F56A64F573C4D6D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2CD68E98ECBEA64D"
+				item: { count: 1, id: "aether:vampire_blade" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A574C894F369B01"]
+			hide_dependency_lines: true
+			id: "43EA8CB36FC2A68A"
+			min_width: 270
+			optional: true
+			rewards: [{
+				id: "4B57B0A285F924B4"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "541C4BA1AEBD43F8"
+				item: { count: 1, id: "aether:pig_slayer" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A574C894F369B01"]
+			hide_dependency_lines: true
+			id: "329788C33842D79E"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "0CB0B92072FD521E"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "573BB21C0F4C856E"
+					item: { count: 1, id: "aether:phoenix_helmet" }
+					type: "item"
+				}
+				{
+					id: "21C0BA710C3C9350"
+					item: { count: 1, id: "aether:phoenix_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3500BDDB0587416F"
+					item: { count: 1, id: "aether:phoenix_leggings" }
+					type: "item"
+				}
+				{
+					id: "458ED2A314E20AB4"
+					item: { count: 1, id: "aether:phoenix_boots" }
+					type: "item"
+				}
+				{
+					id: "33E0D23ECCE52AEE"
+					item: { count: 1, id: "aether:phoenix_gloves" }
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6A574C894F369B01"]
+			hide_dependency_lines: true
+			id: "59DFC225B554748C"
+			min_width: 260
+			optional: true
+			rewards: [{
+				id: "2A65D6D13E0FA204"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [
+				{
+					id: "72EC811BD227751A"
+					item: { count: 1, id: "aether:obsidian_helmet" }
+					type: "item"
+				}
+				{
+					id: "28B96EEC74EFBC06"
+					item: { count: 1, id: "aether:obsidian_chestplate" }
+					type: "item"
+				}
+				{
+					id: "3EB6F789CEB2173F"
+					item: { count: 1, id: "aether:obsidian_leggings" }
+					type: "item"
+				}
+				{
+					id: "41F8C1833BB7FCDE"
+					item: { count: 1, id: "aether:obsidian_boots" }
+					type: "item"
+				}
+				{
+					id: "1DCA0B0E59C903C1"
+					item: { count: 1, id: "aether:obsidian_gloves" }
+					type: "item"
+				}
+			]
+			x: 10.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6A574C894F369B01"]
+			hide_dependency_lines: true
+			id: "29B5649C793C7C33"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "1FBC050ACE2B8DB0"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "7623F6BA6552F5CE"
+				item: { count: 1, id: "aether:iron_bubble" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6A574C894F369B01"]
+			hide_dependency_lines: true
+			id: "7346059F02710195"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "7E13B633EB07A823"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "604137DA38687849"
+				item: { count: 1, id: "aether:life_shard" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7FEA7959D45D014D"]
+			id: "348F1C089267D9A2"
+			min_width: 250
+			rewards: [{
+				id: "0F980726A055646F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:read_lore"
+				criterion: ""
+				id: "3900EE7F6961621B"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["5645ED6BE48F2B05"]
+			id: "19BE08585240BD65"
+			rewards: [{
+				id: "22B665D8BC523250"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5623AD4E69DFA0E9"
+				item: { count: 1, id: "aether:freezer" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["5645ED6BE48F2B05"]
+			id: "639CABC1472C054E"
+			min_width: 300
+			rewards: [{
+				id: "32B2A1116AFC4ED0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3F709FCD47789558"
+				item: { count: 1, id: "aether:altar" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "69B5A6C7D74DC64E"
+			rewards: [{
+				id: "2AFC6ABA2AB16FC3"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "35A825CB301FDD47"
+				item: { count: 1, id: "aether:healing_stone" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "0232A0FA2CF4FE43"
+			rewards: [{
+				id: "67F8611E5118B89C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "4E938A1D59170430"
+				item: { count: 1, id: "aether:quicksoil_glass" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "4336829C4EC0B11E"
+			rewards: [
+				{
+					id: "27BC29542A764A7A"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "3E3CCEB16B024705"
+					item: {
+						count: 1
+						id: "aether:gravitite_ore"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7341198F8FB786A5"
+				item: { count: 1, id: "aether:enchanted_gravitite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4336829C4EC0B11E"]
+			id: "4DE7555B458A3DED"
+			rewards: [{
+				id: "25DB58B006F6A1E0"
+				type: "xp"
+				xp: 70
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "5A83D14CB0022CC8"
+					item: { count: 1, id: "aether:gravitite_helmet" }
+					type: "item"
+				}
+				{
+					id: "51BA7181668DCA37"
+					item: { count: 1, id: "aether:gravitite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "025F637A0F221E69"
+					item: { count: 1, id: "aether:gravitite_leggings" }
+					type: "item"
+				}
+				{
+					id: "0C6DB8CFCB98804C"
+					item: { count: 1, id: "aether:gravitite_boots" }
+					type: "item"
+				}
+				{
+					id: "32C4C20C0C598051"
+					item: { count: 1, id: "aether:gravitite_gloves" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5645ED6BE48F2B05"]
+			id: "7B8AA49FF42D6085"
+			rewards: [{
+				id: "01394E8C73259F1A"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "49F9FCFA8EEF1C66"
+				item: { count: 1, id: "aether:zanite_gemstone" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7B8AA49FF42D6085"]
+			id: "2C1AFE2E926FC067"
+			rewards: [{
+				id: "2BA60F0BB3F3B1E5"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "0A795AD1EC35E898"
+					item: { count: 1, id: "aether:zanite_helmet" }
+					type: "item"
+				}
+				{
+					id: "01183EEC1CBBAD52"
+					item: { count: 1, id: "aether:zanite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "6FF5DE49D490A1F5"
+					item: { count: 1, id: "aether:zanite_leggings" }
+					type: "item"
+				}
+				{
+					id: "7E966613DDF10373"
+					item: { count: 1, id: "aether:zanite_boots" }
+					type: "item"
+				}
+				{
+					id: "7CEB57D3EC6C9EB5"
+					item: { count: 1, id: "aether:zanite_gloves" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4565FA7756EE3743"]
+			id: "77725A76BCEB67D9"
+			rewards: [
+				{
+					id: "156B6C5995A4A1CB"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "7209578DA0EB3F14"
+					item: {
+						count: 1
+						id: "aether:ambrosium_ore"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "59663E0C336E1F9A"
+				item: { count: 1, id: "aether:ambrosium_shard" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["77725A76BCEB67D9"]
+			id: "70677FAF1DB7C717"
+			rewards: [
+				{
+					id: "1DBDC644624B29B2"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5AF7889BCCA2B0E4"
+					item: {
+						count: 1
+						id: "aether:gingerbread_man"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7EB451A4A114550D"
+				item: { count: 1, id: "aether:ambrosium_torch" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7FEA7959D45D014D"]
+			id: "5645ED6BE48F2B05"
+			rewards: [
+				{
+					id: "73FE7EE75FA999D6"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 2
+					id: "2A8EB0FF183CB1EF"
+					item: {
+						count: 1
+						id: "aether:holystone_bricks"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "161BF3C30C6DD17A"
+				item: { count: 1, id: "aether:holystone" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7FEA7959D45D014D"]
+			id: "20983609737C5ACA"
+			rewards: [
+				{
+					id: "774117C750BD8211"
+					type: "xp"
+					xp: 10
+				}
+				{
+					count: 2
+					id: "2C6ED324BDA685F2"
+					item: {
+						count: 1
+						id: "aether:skyroot_planks"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 16L
+				id: "7C8927160B0E867F"
+				item: { count: 1, id: "aether:skyroot_planks" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["20983609737C5ACA"]
+			id: "052ADD460456B4B8"
+			rewards: [{
+				id: "78722D3529D75A69"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "24DC9147AADFFC96"
+				item: { count: 1, id: "aether:skyroot_bucket" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"70677FAF1DB7C717"
+				"5645ED6BE48F2B05"
+			]
+			id: "666A7C3C673E713E"
+			min_width: 300
+			rewards: [{
+				id: "2DAA066C304E9A42"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "18B286A2B74E6C50"
+				item: { count: 1, id: "aether:incubator" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["666A7C3C673E713E"]
+			id: "3F33C2D1A301F588"
+			rewards: [
+				{
+					id: "2300BC03C6AA0102"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "78CB4C4CD0E750BE"
+					item: {
+						count: 1
+						id: "aether:quicksoil_glass_pane"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "aether:obtain_egg"
+				criterion: ""
+				id: "0767D4E078CEBFB0"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["666A7C3C673E713E"]
+			id: "312E72706EFE136C"
+			rewards: [
+				{
+					id: "2F505C2DABA088A6"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "693D90DCAB8BFCCC"
+					item: {
+						count: 1
+						id: "aether:black_moa_egg"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "aether:incubate_moa"
+				criterion: ""
+				id: "342C2B501FEBCA4D"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["666A7C3C673E713E"]
+			id: "2DE4496AF59A0B8D"
+			rewards: [
+				{
+					id: "4363852319911556"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "7DC736AFBE375744"
+					item: {
+						count: 1
+						id: "aether:candy_cane"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "aether:black_moa"
+				criterion: ""
+				id: "1C0487F4682B1F3A"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["666A7C3C673E713E"]
+			id: "320FF2FA96A244E2"
+			rewards: [
+				{
+					id: "02BB2FB13FD8E944"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "26D8B92780B5133C"
+					item: {
+						count: 1
+						id: "aether:aechor_petal"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				advancement: "aether:obtain_petal"
+				criterion: ""
+				id: "34DE9A5ACE3AE844"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["348F1C089267D9A2"]
+			id: "4565FA7756EE3743"
+			rewards: [{
+				id: "5BEF09E10C8D61DB"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:loreception"
+				criterion: ""
+				id: "7B584319910133E7"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"2B25579B9A18E44E"
+				"3612A8FD9B031DA8"
+				"714E1568C6B615A1"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "64C6512760B3546A"
+			min_width: 260
+			rewards: [{
+				id: "1D0AC58162C9C88D"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2C14B908EB12CDA0"
+				item: { count: 1, id: "aether:golden_gummy_swet" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"2B25579B9A18E44E"
+				"3612A8FD9B031DA8"
+				"714E1568C6B615A1"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			hide_until_deps_complete: true
+			id: "341B0706250BA6E0"
+			min_width: 260
+			rewards: [{
+				id: "6DA2F2815934036C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2B92F04AF08DA463"
+				item: { count: 1, id: "aether:blue_gummy_swet" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0720A99E79EE351A"]
+			hide_dependency_lines: true
+			id: "2B25579B9A18E44E"
+			min_width: 250
+			rewards: [{
+				id: "6F3EB9F9F56FD7B2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "3997E8F6E3141AE0"
+				item: { count: 1, id: "aether:bronze_dungeon_key" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["52FDA1FDDAFDB8CE"]
+			hide_dependency_lines: true
+			id: "714E1568C6B615A1"
+			min_width: 250
+			rewards: [{
+				id: "795F6CCF0309C498"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "5DF848E7EACF9041"
+				item: { count: 1, id: "aether:silver_dungeon_key" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3BB31C10EB93A4D1"]
+			hide_dependency_lines: true
+			id: "3612A8FD9B031DA8"
+			min_width: 250
+			rewards: [{
+				id: "3243573625D4B928"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "4B6C71DE6CD10BD7"
+				item: { count: 1, id: "aether:gold_dungeon_key" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "250C1684F493C6BC"
+			min_width: 250
+			optional: true
+			rewards: [{
+				id: "22E3C286ECC46395"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "4468E3FD84CE753F"
+				item: { count: 1, id: "aether:shield_of_repulsion" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["410FECFDE276A634"]
+			hide_dependency_lines: true
+			id: "33EE3BC290736E40"
+			optional: true
+			rewards: [{
+				id: "759F9E9FEE3967D6"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "570A02D26691C4D8"
+				item: { count: 1, id: "aether:music_disc_aether_tune" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5A75593DB466B199"]
+			hide_dependency_lines: true
+			id: "435F42EE90391710"
+			optional: true
+			rewards: [{
+				id: "619305517A6DBD00"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2C9ABB05CC32E0D1"
+				item: { count: 1, id: "aether:music_disc_ascending_dawn" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["51F22964CEABD393"]
+			hide_until_deps_complete: true
+			id: "699289560B109978"
+			min_width: 250
+			rewards: [{
+				id: "5CBFFA8D4B1A130F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "779FD71D3BEB7BD2"
+				item: { count: 1, id: "aether:victory_medal" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "70910B1FF607ED46"
+			min_width: 250
+			rewards: [{
+				id: "11FBB18CBE51BADE"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "7FE238DC62071DAD"
+				item: { count: 1, id: "aether:leather_gloves" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "67B8D860D428CDB1"
+			min_width: 250
+			rewards: [{
+				id: "20EDD141CCE85289"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "6989CFF3ABE8E4F0"
+				item: { count: 1, id: "aether:chainmail_gloves" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "387C6F8DF13269AF"
+			min_width: 250
+			rewards: [{
+				id: "0866031CA6FD76BF"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1571D80778078398"
+				item: { count: 1, id: "aether:iron_gloves" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "76A8DAC8F80862BC"
+			min_width: 250
+			rewards: [{
+				id: "765C154BD514939C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "08CA0D42FA6FA2AF"
+				item: { count: 1, id: "aether:golden_gloves" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "2E53B78AB46888AF"
+			min_width: 250
+			rewards: [{
+				id: "5D8FDEFFA1281CE9"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "29B07EA211604EC6"
+				item: { count: 1, id: "aether:diamond_gloves" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["639CABC1472C054E"]
+			hide_dependency_lines: true
+			id: "75C6FAFF5D39E365"
+			min_width: 250
+			rewards: [{
+				id: "460519F66D7748F3"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "2F56F5949539D5EA"
+				item: { count: 1, id: "aether:netherite_gloves" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+	]
+}

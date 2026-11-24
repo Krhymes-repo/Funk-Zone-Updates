@@ -1,0 +1,531 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cobblemon_adventure"
+	group: "78D9B7EDB444A105"
+	id: "5544F87BB024A569"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5F527ACA01D4E015"
+			rewards: [{
+				count: 3
+				id: "58FBEA7807F539A6"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_plains"
+				id: "4AAF9B9D1A2DD481"
+				type: "biome"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "0B765F7E1399B800"
+			rewards: [{
+				count: 2
+				id: "3244ED2B12E41767"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_forest"
+				id: "1216A6E741D86ED5"
+				type: "biome"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			id: "0AF28CC0EDE9E0A4"
+			rewards: [{
+				count: 3
+				id: "0178AABB564CD6EE"
+				item: {
+					count: 1
+					id: "cobblemon:dive_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_ocean"
+				id: "604A7DE7F6FBF4F0"
+				type: "biome"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5F527ACA01D4E015"]
+			id: "497BC2F38BDC1DF2"
+			rewards: [{
+				count: 2
+				id: "08A347A029F8AC40"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_mountain"
+				id: "7EFB8C2375583C01"
+				type: "biome"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			id: "7D3BAC6A5F4C5600"
+			rewards: [{
+				count: 3
+				id: "3E3B08C7161D1135"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_desert"
+				id: "491E65EB77684150"
+				type: "biome"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			id: "564E808F2440B3DF"
+			rewards: [{
+				count: 2
+				id: "5B6CAA52F29DE42F"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_taiga"
+				id: "02319BBF99E377D9"
+				type: "biome"
+			}]
+			x: 13.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0B765F7E1399B800"]
+			id: "51B91F00D607874E"
+			rewards: [{
+				count: 3
+				id: "4F164919264EC063"
+				item: {
+					count: 1
+					id: "cobblemon:nest_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_jungle"
+				id: "280E276249CFD28A"
+				type: "biome"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0AF28CC0EDE9E0A4"]
+			id: "7BB93EF6B20BE8DA"
+			rewards: [{
+				count: 2
+				id: "601BD053423729A3"
+				item: {
+					count: 1
+					id: "cobblemon:lure_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_river"
+				id: "2C54EA5297576E29"
+				type: "biome"
+			}]
+			x: 7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"5F527ACA01D4E015"
+				"0B765F7E1399B800"
+				"0AF28CC0EDE9E0A4"
+				"7D3BAC6A5F4C5600"
+				"564E808F2440B3DF"
+			]
+			id: "7B9515F47BE91107"
+			rewards: [
+				{
+					count: 3
+					id: "56347AD707F933D8"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6DF2A0CB82AE9B06"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "1131254A453A7B68"
+				type: "checkmark"
+			}]
+			x: 16.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7B9515F47BE91107"]
+			id: "12CA0ED6EF625213"
+			rewards: [{
+				count: 3
+				id: "419DA252E44F2ABF"
+				item: {
+					count: 1
+					id: "cobblemon:timer_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "0E4A3B34A21ACC4F"
+				type: "dimension"
+			}]
+			x: 19.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5F527ACA01D4E015"]
+			id: "028DB0D72E4FAF8D"
+			rewards: [{
+				count: 3
+				id: "2F6683B2AF7B8D34"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_savanna"
+				id: "0F6BCE5E26862B32"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5F527ACA01D4E015"]
+			id: "7A462138D7C05BA2"
+			rewards: [{
+				count: 2
+				id: "3A81093CD0270360"
+				item: {
+					count: 1
+					id: "cobblemon:nest_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_swamp"
+				id: "078B08CFC2162AD2"
+				type: "biome"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0AF28CC0EDE9E0A4"]
+			id: "1E6C279603DD1F92"
+			rewards: [{
+				count: 5
+				id: "7B67C2F2A77B52EF"
+				item: {
+					count: 1
+					id: "cobblemon:dive_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_deep_ocean"
+				id: "54F53B9D15EC531E"
+				type: "biome"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["564E808F2440B3DF"]
+			id: "1F7E60B216AEB7B2"
+			rewards: [{
+				count: 5
+				id: "418E3C8BCC6AACA6"
+				item: {
+					count: 1
+					id: "cobblemon:ice_heal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_snowy"
+				id: "4ACFDB3D121B85EF"
+				type: "biome"
+			}]
+			x: 13.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7D3BAC6A5F4C5600"]
+			id: "49D0D32D628B69EB"
+			rewards: [{
+				count: 3
+				id: "631D5B444D8C435B"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#c:is_badlands"
+				id: "5FF10C5924958205"
+				type: "biome"
+			}]
+			x: 10.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["497BC2F38BDC1DF2"]
+			id: "6E3D25128AA0C598"
+			rewards: [{
+				count: 3
+				id: "02B66D35BE77939B"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "45ED1D36BDA8F6B8"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B9515F47BE91107"]
+			id: "7B92277DC01806D3"
+			rewards: [{
+				count: 2
+				id: "118531C8C4C30551"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "7BF8AEB5EE9528FA"
+				type: "checkmark"
+			}]
+			x: 16.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["12CA0ED6EF625213"]
+			id: "4D93A8906B0EDA44"
+			rewards: [{
+				count: 5
+				id: "7E4E9D371C463027"
+				item: {
+					count: 1
+					id: "cobblemon:quick_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "#minecraft:is_nether"
+				id: "3F929BD84BA01E93"
+				type: "biome"
+			}]
+			x: 22.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12CA0ED6EF625213"]
+			id: "1154070A53E66741"
+			rewards: [{
+				id: "294720BD41F51FF0"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2A1DAE5E0289096D"
+				type: "checkmark"
+			}]
+			x: 22.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["12CA0ED6EF625213"]
+			id: "648B91ACE31E302E"
+			rewards: [{
+				count: 3
+				id: "3E54EB03A372B17E"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "44BBF07784529427"
+				type: "checkmark"
+			}]
+			x: 22.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B9515F47BE91107"]
+			id: "2B2544730EE89EAE"
+			rewards: [{
+				id: "6A0D1F736E9508FE"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "38B882E3FA102426"
+				type: "checkmark"
+			}]
+			x: 22.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0B765F7E1399B800"]
+			id: "6B3CEFAED87B571F"
+			rewards: [
+				{
+					count: 3
+					id: "32055F6155444605"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5C0267EC15842148"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				biome: "#c:is_mushroom"
+				id: "6F5203C947069C34"
+				type: "biome"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["51B91F00D607874E"]
+			id: "79A55031B7E589BE"
+			rewards: [{
+				count: 3
+				id: "2AE3ADCD3FAA20CC"
+				item: {
+					count: 1
+					id: "cobblemon:friend_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "minecraft:bamboo_jungle"
+				id: "20A575AE453DA755"
+				type: "biome"
+			}]
+			x: 4.5d
+			y: 9.0d
+		}
+		{
+			id: "6883BDBEE9514486"
+			rewards: [{
+				count: 5
+				id: "573770905210152F"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "have_registered"
+				amount: 25L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "3C57678ED9F266E3"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+	]
+}

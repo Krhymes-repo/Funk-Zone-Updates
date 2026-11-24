@@ -1,0 +1,271 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: "7FF6A45E917C57D5"
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "26530E285F18BF45"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "2E5A79A6455D4D91"
+			rewards: [{
+				id: "340F2F4485592140"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "6B746D7179406908"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E5A79A6455D4D91"]
+			id: "7B5C85B3345AEFA1"
+			rewards: [{
+				count: 5
+				id: "53AEC0A79DFCE3C8"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "select_starter"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "026AC68CEE46D4A7"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E5A79A6455D4D91"]
+			icon: {
+				id: "minecraft:end_portal_frame"
+			}
+			id: "694C3BBE8F3A59FE"
+			rewards: [{
+				id: "322D812463688E16"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				dimension: "funkcity:nexus"
+				id: "7947DDD166B78AC9"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["694C3BBE8F3A59FE"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "7FDC3D164A882421"
+			rewards: [{
+				id: "6D71AF513018F9D6"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				dimension: "funkcity:city"
+				id: "29A13B2872246483"
+				type: "dimension"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["694C3BBE8F3A59FE"]
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "1D8D6CB19171ADBE"
+			rewards: [{
+				count: 16
+				id: "1273E624933E80D3"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "66C29413012CE15C"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7FDC3D164A882421"]
+			icon: {
+				id: "cobblemon:safari_ball"
+			}
+			id: "4919D5AF64D0B300"
+			rewards: [{
+				id: "55AA2632883776BC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "funkcity:safari"
+				id: "2897FAEB2EF6F001"
+				type: "dimension"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["694C3BBE8F3A59FE"]
+			icon: {
+				id: "minecraft:book"
+			}
+			id: "00F6F3FFE3E6F893"
+			rewards: [{
+				id: "6907B0D6A1C42AC1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "funkcity:duel_world"
+				id: "343133E1D5063CD2"
+				type: "dimension"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["694C3BBE8F3A59FE"]
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "5601ED844635FB54"
+			rewards: [{
+				id: "32C7E6EE68C0B153"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "funkcity:proving_grounds"
+				id: "54CB0BB017AC64B3"
+				type: "dimension"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5601ED844635FB54"]
+			icon: {
+				id: "minecraft:blaze_powder"
+			}
+			id: "2CEA6F3B35904531"
+			rewards: [{
+				id: "0EB1B41C48D79578"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				dimension: "funkcity:ashen_reach"
+				id: "55738AEAB5497954"
+				type: "dimension"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2E5A79A6455D4D91"]
+			icon: {
+				id: "minecraft:player_head"
+			}
+			id: "41CE39B4C7B284CB"
+			rewards: [{
+				id: "165BF4EED9C91FFA"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "105FAF509E731FD1"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7FDC3D164A882421"]
+			icon: {
+				id: "funkfrontier:hover_stick"
+			}
+			id: "3F79AE197F2061D5"
+			optional: true
+			rewards: [{
+				id: "06FF8A45D460D3A5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "68732D4865AF2F9B"
+				item: { count: 1, id: "funkfrontier:pogo_stick" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2E5A79A6455D4D91"]
+			icon: {
+				id: "minecraft:cake"
+			}
+			id: "589DD2ABAA2D84E2"
+			rewards: [{
+				id: "68F90D43B540713C"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "31759A1CB01043C4"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+	]
+}

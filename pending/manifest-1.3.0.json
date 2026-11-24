@@ -10,8 +10,8 @@
   {
    "path": "mods/funkfrontier-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-   "sha1": "a30e56df22585685ab12e8687c7e7efbb0e33638",
-   "size": 25587386,
+   "sha1": "48b2b23f75f1372fd54d144dc9a37237b5e00ccd",
+   "size": 25587667,
    "mode": "replace",
    "side": "both"
   },
@@ -2366,6 +2366,270 @@
    "size": 17006,
    "mode": "once",
    "side": "client"
+  },
+  {
+   "path": "config/ftbquests/CREDITS-quests.txt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--CREDITS-quests.txt",
+   "sha1": "92968d5e472af89af6e389439495816048ad40bb",
+   "size": 16484,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapter_groups.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapter_groups.snbt",
+   "sha1": "0e2119b1eb6f64d2b75c8c8d06ea9a06416a08b1",
+   "size": 200,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/data.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--data.snbt",
+   "sha1": "16ccc34c2fc8c10036fdd2aac6e3c999dc7ea60a",
+   "size": 706,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/lang/en_us.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--lang--en_us.snbt",
+   "sha1": "163f66ff3755a9edf0089f1dd6a66e0eb357d4d2",
+   "size": 203952,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/allthemodium.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--allthemodium.snbt",
+   "sha1": "90f057dc4a8570b7e60384bc7b972285f44214fc",
+   "size": 7211,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/apotheosis.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--apotheosis.snbt",
+   "sha1": "e3890beae473e53210361930ac87f37cac892124",
+   "size": 8326,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/applied_energistics.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--applied_energistics.snbt",
+   "sha1": "025ceb4304df0c534863c5ef0dd2260428d79c68",
+   "size": 38521,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/ars_elemental.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--ars_elemental.snbt",
+   "sha1": "1748e192ad0e05057e5eebdcca1569648795e143",
+   "size": 20485,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/ars_nouveau.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--ars_nouveau.snbt",
+   "sha1": "1ee2643e4e93ee91ef05bedf72de45e9600e2ee6",
+   "size": 37097,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/artifacts.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--artifacts.snbt",
+   "sha1": "95584280de501ca8c12596a168c4672a3b5f4bcb",
+   "size": 29218,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/cataclysm.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--cataclysm.snbt",
+   "sha1": "dc53d929a14a0833d4b345f7faf643914bec8746",
+   "size": 13506,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/cobblemon_adventure.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--cobblemon_adventure.snbt",
+   "sha1": "5b2fc102baf0be3b8c160cef10e94e940c9b4695",
+   "size": 8565,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/cobblemon_battling.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--cobblemon_battling.snbt",
+   "sha1": "a3c784a4442ffa6d01c534611bf58fcc1be12f01",
+   "size": 56409,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/cobblemon_berries.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--cobblemon_berries.snbt",
+   "sha1": "4ed67486077fa8dcefbefa3db163fcf3a8f03c18",
+   "size": 31629,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/cobblemon_catching.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--cobblemon_catching.snbt",
+   "sha1": "a8108eafd0b3f86e15970e285fab9c8f13002bfb",
+   "size": 82890,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/cobblemon_progression.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--cobblemon_progression.snbt",
+   "sha1": "3c0db1811ee9f4e5d3782b627bb8af34a2125bdf",
+   "size": 32043,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/cobblemon_utility.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--cobblemon_utility.snbt",
+   "sha1": "f4a0a027e7bb532e104892f3edf07b52cda5204d",
+   "size": 34147,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/cooking_for_blockheads.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--cooking_for_blockheads.snbt",
+   "sha1": "7a003b9838b41756ce35625606d72ffd06c5a7a2",
+   "size": 5388,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/create.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--create.snbt",
+   "sha1": "f83910d0d76503984a45daaafa6f1b204608f487",
+   "size": 15057,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/deeper_and_darker.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--deeper_and_darker.snbt",
+   "sha1": "b4636468988f743cb5205f68c1f6449aaff9c1fa",
+   "size": 15314,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/ender_io.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--ender_io.snbt",
+   "sha1": "654979dc3841040805cb98e27bbc840f133cfd3e",
+   "size": 18869,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/exploration.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--exploration.snbt",
+   "sha1": "a1d3e5bb74c1bfb38adfa8c5458c6425f79e8459",
+   "size": 4149,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/farmers_delight.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--farmers_delight.snbt",
+   "sha1": "9cec9e489b2269f40089fa349671523eab60f6df",
+   "size": 12745,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/flux_networks.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--flux_networks.snbt",
+   "sha1": "ae03afc01d9ea82b635dde0ead243177b829e083",
+   "size": 4506,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/iron_furnaces.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--iron_furnaces.snbt",
+   "sha1": "801abb0815f2ef28447431031c1c18346dcbd3a4",
+   "size": 14134,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/irons_spellbooks.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--irons_spellbooks.snbt",
+   "sha1": "92b46ca5f37d234b5d5ecd02c9c3b305c11520aa",
+   "size": 4401,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/mega_evolution.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--mega_evolution.snbt",
+   "sha1": "b0951ff6bee3f95a0cdf4d0922d9dc848de31d68",
+   "size": 15780,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/powah.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--powah.snbt",
+   "sha1": "6c69c9343577d86933b2e522d085b926ed4f7a49",
+   "size": 5240,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/sophisticated_backpacks.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--sophisticated_backpacks.snbt",
+   "sha1": "cbe246ee8db1d1d6032ed7e15dae7c96cda7bdee",
+   "size": 14721,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/sophisticated_storage.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--sophisticated_storage.snbt",
+   "sha1": "8a33adcedf4aabfef030659d1dce90567a429a20",
+   "size": 2378,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/the_aether.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--the_aether.snbt",
+   "sha1": "28c6a719eddaaa8747afbb2b92f1c12f7549ea06",
+   "size": 29859,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/toms_storage.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--toms_storage.snbt",
+   "sha1": "f7489b4f051652b9c86ff5be1d7c982473aa91bb",
+   "size": 4736,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "config/ftbquests/quests/chapters/welcome.snbt",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--welcome.snbt",
+   "sha1": "d0f8b040f221743b0ef21994a0021e5d00592db6",
+   "size": 4512,
+   "mode": "replace",
+   "side": "both"
   }
  ],
  "remove": [

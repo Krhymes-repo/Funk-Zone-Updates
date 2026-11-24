@@ -1,0 +1,134 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sophisticated_storage"
+	group: "1D472E4B7694487A"
+	icon: {
+		id: "sophisticatedstorage:iron_chest"
+	}
+	id: "59CCE3059B3BB19E"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "sophisticatedstorage:iron_chest"
+			}
+			id: "3683F667755D6E86"
+			min_width: 375
+			rewards: [{
+				id: "1910620F000DDD32"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4B678C5A3077F989"
+				item: { count: 1, id: "sophisticatedstorage:iron_chest" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3683F667755D6E86"]
+			icon: {
+				id: "sophisticatedstorage:controller"
+			}
+			id: "1C9A745CDBBCF02D"
+			min_width: 375
+			rewards: [{
+				id: "23B9260ED747A5EA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6ADBAEAAE9848BE0"
+					item: { count: 1, id: "sophisticatedstorage:controller" }
+					type: "item"
+				}
+				{
+					id: "22F758A196909399"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3683F667755D6E86"]
+			icon: {
+				id: "sophisticatedstorage:packing_tape"
+			}
+			id: "7C532D581C3C42D7"
+			min_width: 375
+			rewards: [{
+				id: "6F2A6652EAB5A028"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3A70A17FF34CC066"
+				item: { count: 1, id: "sophisticatedstorage:packing_tape" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3683F667755D6E86"]
+			id: "6AC8BE0A10139EFB"
+			min_width: 400
+			rewards: [{
+				id: "4EA836E38B1E4AFE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "71A2FD238EF47BBC"
+					item: { count: 1, id: "sophisticatedstorage:hopper_upgrade" }
+					type: "item"
+				}
+				{
+					id: "36F3AF50D721778A"
+					item: { count: 1, id: "sophisticatedstorage:pickup_upgrade" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1C9A745CDBBCF02D"
+				"7C532D581C3C42D7"
+				"6AC8BE0A10139EFB"
+			]
+			icon: {
+				id: "sophisticatedstorage:diamond_chest"
+			}
+			id: "017ECD73490B0EBE"
+			min_width: 350
+			rewards: [{
+				id: "6CA1EF2E21BA06C2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "346940AB6D555FEC"
+					item: { count: 1, id: "sophisticatedstorage:diamond_chest" }
+					type: "item"
+				}
+				{
+					id: "2C2385FEE395B08F"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+	]
+}

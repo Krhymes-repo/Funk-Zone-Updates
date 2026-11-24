@@ -1,0 +1,233 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "irons_spellbooks"
+	group: "517E2EE5EE2E76FF"
+	icon: {
+		components: {
+			"irons_spellbooks:spell_container": {
+				data: [ ]
+				maxSpells: 6
+				mustEquip: 1b
+				spellWheel: 1b
+			}
+		}
+		id: "irons_spellbooks:iron_spell_book"
+	}
+	id: "240BB6A598024BA1"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "irons_spellbooks:scroll"
+			}
+			id: "278A4E3A12EA9C4D"
+			rewards: [{
+				id: "68212C8C674ACD43"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "5BE03226D220E041"
+				item: { count: 1, id: "irons_spellbooks:scroll" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["278A4E3A12EA9C4D"]
+			id: "6A22B86443F23189"
+			rewards: [{
+				id: "4A48F4521407BA03"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "50EA7E574BFE7BAC"
+				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 0, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:wimpy_spell_book" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A22B86443F23189"]
+			id: "77A066B93B937E64"
+			rewards: [{
+				id: "76FA79FBB7BE97F2"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "69EC498B620386E0"
+				item: { count: 1, id: "irons_spellbooks:inscription_table" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["278A4E3A12EA9C4D"]
+			id: "0AE03DEA7D889C97"
+			rewards: [{
+				id: "50706F0DF8256FE3"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				count: 8L
+				id: "1A31A3D31FBB01E9"
+				item: { count: 1, id: "irons_spellbooks:arcane_essence" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0AE03DEA7D889C97"]
+			id: "399D24EF28A356AD"
+			rewards: [{
+				id: "24E3A2F189BFE39D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "08A0571B695D7A4C"
+					item: { count: 1, id: "irons_spellbooks:common_ink" }
+					type: "item"
+				}
+				{
+					id: "30C7E060066C2E74"
+					item: { count: 1, id: "irons_spellbooks:scroll_forge" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["77A066B93B937E64"]
+			id: "201564FEA30839C9"
+			rewards: [{
+				id: "6FAA69A49482A1E9"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "11D6E0EE659F92C2"
+				item: { components: { "irons_spellbooks:spell_container": { data: [ ], maxSpells: 6, mustEquip: 1b, spellWheel: 1b } }, count: 1, id: "irons_spellbooks:iron_spell_book" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["399D24EF28A356AD"]
+			id: "4C37B8B6E7BCFA87"
+			rewards: [{
+				id: "325E0400296947F6"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "616E2EAE087B2C2E"
+				item: { count: 1, id: "irons_spellbooks:arcane_anvil" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4C37B8B6E7BCFA87"]
+			id: "7113597C41C16030"
+			rewards: [{
+				id: "243B84F5FF0E3EEB"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "4AD98C04F6016FE1"
+				item: { count: 1, id: "irons_spellbooks:upgrade_orb" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4C37B8B6E7BCFA87"]
+			id: "17F1BB4FE39DA8C5"
+			rewards: [{
+				id: "6CF96DC2B37E85AE"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				count: 4L
+				id: "14CAA8D16B43DF65"
+				item: { count: 1, id: "irons_spellbooks:raw_mithril" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0AE03DEA7D889C97"]
+			id: "273EADA01611C12A"
+			optional: true
+			rewards: [{
+				id: "4F4609CFC7616A6B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "513E6ED34DB851FA"
+				item: { count: 1, id: "irons_spellbooks:alchemist_cauldron" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6A22B86443F23189"]
+			id: "64B99D4E98054FC7"
+			optional: true
+			rewards: [{
+				id: "65F127507C9F1475"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				entity: "irons_spellbooks:pyromancer"
+				id: "326A69295DC5CD69"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["201564FEA30839C9"]
+			id: "0D58162A02A9BB91"
+			optional: true
+			rewards: [{
+				id: "0D002D42CF9215D5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "501A0CE78A11EE04"
+				item: { count: 1, id: "irons_spellbooks:silver_ring" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+	]
+}

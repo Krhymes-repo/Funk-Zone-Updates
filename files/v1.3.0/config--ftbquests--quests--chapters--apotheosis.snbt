@@ -1,0 +1,467 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis"
+	group: "517E2EE5EE2E76FF"
+	icon: {
+		id: "ftbquests:custom_icon"
+	}
+	id: "13AF043797C144E2"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54892DFE14088E55"
+			min_width: 300
+			rewards: [{
+				id: "42AFE62BB94DF1AC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				count: 3L
+				id: "220BBA863934EF44"
+				item: { count: 1, id: "apotheosis:gem_dust" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["54892DFE14088E55"]
+			id: "60A374837C562281"
+			min_width: 250
+			rewards: [{
+				id: "7BF117F40EF26FA2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "48899BA6E7D5D6E2"
+				item: { count: 1, id: "apotheosis:salvaging_table" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["60A374837C562281"]
+			id: "03BBF817305B9166"
+			rewards: [{
+				id: "21321CAC6D05B5C0"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				count: 3L
+				id: "59DC980DB4A2A7E6"
+				item: { count: 1, id: "apotheosis:mysterious_scrap_metal" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["60A374837C562281"]
+			id: "735D057D2DA3C137"
+			rewards: [{
+				id: "0F6D73AF5DD5A069"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				count: 3L
+				id: "5D39FDD85E8DAA4B"
+				item: { count: 1, id: "apotheosis:timeworn_fabric" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["60A374837C562281"]
+			id: "0CA907436293EA3C"
+			rewards: [{
+				id: "5877460B0D510B17"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 3L
+				id: "493664A3AB99CB86"
+				item: { count: 1, id: "apotheosis:luminous_crystal_shard" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["60A374837C562281"]
+			id: "78886C3E37D14872"
+			rewards: [{
+				id: "28ADF4C5CBA7A61B"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 3L
+				id: "1A8A9F1EF92805A4"
+				item: { count: 1, id: "apotheosis:arcane_sands" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["60A374837C562281"]
+			id: "0099513EDF2FCD56"
+			rewards: [{
+				id: "6AA40910B239640C"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				count: 3L
+				id: "6ACE3EC75212AEE6"
+				item: { count: 1, id: "apotheosis:godforged_pearl" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["735D057D2DA3C137"]
+			id: "3B5CD7672BDF6D82"
+			min_width: 250
+			rewards: [{
+				id: "1AAE87F03B983398"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "69BC6F85AE688983"
+				item: { count: 1, id: "apotheosis:simple_reforging_table" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"3B5CD7672BDF6D82"
+				"78886C3E37D14872"
+			]
+			id: "170AB6ECC68ACC49"
+			min_width: 250
+			rewards: [{
+				id: "4D6D93A3BC4BF1C6"
+				type: "xp"
+				xp: 200
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "3B5CF35E9ECD93DF"
+				item: { count: 1, id: "apotheosis:reforging_table" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["1889483CE1BDC148"]
+			id: "5E72960645FCCDB6"
+			min_width: 250
+			rewards: [{
+				id: "1BEEDBF7C2D10410"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "4A3620AF5E6081CD"
+				item: { count: 1, id: "apotheosis:gem_cutting_table" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["54892DFE14088E55"]
+			id: "1889483CE1BDC148"
+			min_width: 250
+			rewards: [{
+				id: "15D4D84A4E90A27C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "637F22512981C55D"
+				item: { count: 1, id: "minecraft:smithing_table" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			hide_dependency_lines: true
+			id: "6A3BBAE950F2CF8F"
+			min_width: 250
+			rewards: [{
+				id: "7F933B13B65207D2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "0CE6ED75250571FD"
+				item: { count: 1, id: "minecraft:golden_apple" }
+				type: "item"
+			}]
+			x: 1.3357142857142845d
+			y: 6.278571428571437d
+		}
+		{
+			hide_dependency_lines: true
+			id: "52CF0B91209D95FE"
+			min_width: 250
+			rewards: [{
+				id: "4810B354729446B2"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "6096E8A95BC1C505"
+				item: { count: 1, id: "minecraft:turtle_egg" }
+				type: "item"
+			}]
+			x: 0.9857142857142848d
+			y: 6.978571428571437d
+		}
+		{
+			hide_dependency_lines: true
+			id: "16927C1E60B17762"
+			min_width: 250
+			rewards: [{
+				id: "647F0DD60599D4BE"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "008F382C13F11209"
+				item: { count: 1, id: "minecraft:blaze_rod" }
+				type: "item"
+			}]
+			x: 3.0857142857142845d
+			y: 6.978571428571437d
+		}
+		{
+			hide_dependency_lines: true
+			id: "640E61BC027D9BB5"
+			min_width: 250
+			rewards: [{
+				id: "686131BE206531C7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "6B6717B6848FC361"
+				item: { count: 1, id: "minecraft:soul_lantern" }
+				type: "item"
+			}]
+			x: 2.0357142857142847d
+			y: 8.02857142857144d
+		}
+		{
+			hide_dependency_lines: true
+			id: "60341087ECBFCBC6"
+			min_width: 250
+			rewards: [{
+				id: "53B65F0EF12081D7"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "433F1F4A6EF7E0D0"
+				item: { count: 1, id: "minecraft:comparator" }
+				type: "item"
+			}]
+			x: 2.7357142857142844d
+			y: 7.678571428571438d
+		}
+		{
+			hide_dependency_lines: true
+			id: "73FA1F3F0380A35A"
+			min_width: 250
+			rewards: [{
+				id: "112983805701606D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "2A068251BA236C41"
+				item: { count: 1, id: "minecraft:conduit" }
+				type: "item"
+			}]
+			x: 2.0357142857142847d
+			y: 5.928571428571438d
+		}
+		{
+			id: "770AB674E42B3378"
+			min_width: 250
+			rewards: [{
+				id: "747FB521E62CB82A"
+				type: "xp"
+				xp: 250
+			}]
+			shape: "hexagon"
+			size: 1.3d
+			tasks: [{
+				id: "212DF34DD6AF819F"
+				item: { count: 1, id: "minecraft:dragon_egg" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.95d
+		}
+		{
+			hide_dependency_lines: true
+			id: "538B4B0F8056A0AD"
+			min_width: 250
+			rewards: [{
+				id: "05446A7920627FDB"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "6CD6CB440D307E0C"
+				item: { count: 1, id: "minecraft:quartz" }
+				type: "item"
+			}]
+			x: 1.3357142857142845d
+			y: 7.678571428571438d
+		}
+		{
+			hide_dependency_lines: true
+			id: "4AE1E580CA77BB37"
+			min_width: 250
+			rewards: [{
+				id: "58168E8666CBF0A1"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "1AA7302F57488A0D"
+				item: { count: 1, id: "minecraft:prismarine_crystals" }
+				type: "item"
+			}]
+			x: 0.2857142857142847d
+			y: 6.978571428571437d
+		}
+		{
+			hide_dependency_lines: true
+			id: "32C4E734D11C5910"
+			min_width: 250
+			rewards: [{
+				id: "572570C88D8133C3"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 0.7d
+			tasks: [{
+				id: "05C184EE47659073"
+				item: { count: 1, id: "minecraft:ghast_tear" }
+				type: "item"
+			}]
+			x: 3.7857142857142847d
+			y: 6.978571428571437d
+		}
+		{
+			icon: {
+				id: "minecraft:enchanting_table"
+			}
+			id: "5D58888717DDD8BF"
+			rewards: [{
+				id: "6247EA86C89FF943"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "0D9E2A2BE472A7F9"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["28BA3715F66A1DC0"]
+			id: "25362693D2A9D244"
+			rewards: [
+				{
+					id: "2D7D4AC52E8481A4"
+					type: "xp"
+					xp: 10
+				}
+				{
+					id: "5803B0388DA6EBC0"
+					item: {
+						count: 1
+						id: "minecraft:lapis_lazuli"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 3L
+				id: "7D0DB9C9B6855A4F"
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5D58888717DDD8BF"]
+			icon: {
+				id: "ftbquests:custom_icon"
+			}
+			id: "28BA3715F66A1DC0"
+			min_width: 300
+			rewards: [{
+				id: "7F146EDFE0D4755C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "52B577FF70D108CB"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 2.5d
+		}
+	]
+}

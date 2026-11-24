@@ -1,0 +1,2027 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cobblemon_berries"
+	group: "78D9B7EDB444A105"
+	icon: {
+		id: "cobblemon:pecha_berry"
+	}
+	id: "769A86C13572BACD"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6D73CEFDEC251E08"
+			rewards: [
+				{
+					id: "639C033EEB1ED84C"
+					item: {
+						count: 1
+						id: "cobblemon:oran_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "6A947811FC9E7206"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "02668A532D9ECD64"
+				item: { count: 1, id: "cobblemon:oran_berry" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -18.0d
+		}
+		{
+			id: "5A6DB42E9F865768"
+			rewards: [
+				{
+					id: "76AE4088F16D68AC"
+					item: {
+						count: 1
+						id: "cobblemon:cheri_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "36C82832D33478F5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "7B96084B5BF2FBD5"
+				item: { count: 1, id: "cobblemon:cheri_berry" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -17.0d
+		}
+		{
+			id: "4583F583842247D5"
+			rewards: [
+				{
+					id: "7FA951082B01EEBD"
+					item: {
+						count: 1
+						id: "cobblemon:pecha_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "4CD553B876987936"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "3F36B0AE8B366229"
+				item: { count: 1, id: "cobblemon:pecha_berry" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -15.0d
+		}
+		{
+			id: "3253DF7D1229AC73"
+			rewards: [
+				{
+					id: "0AC8CA73ABADCAAF"
+					item: {
+						count: 1
+						id: "cobblemon:chesto_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "77CF87AEAED21EE6"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "5740CA9FBD764EB9"
+				item: { count: 1, id: "cobblemon:chesto_berry" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -15.0d
+		}
+		{
+			id: "5DEBAA5677082A80"
+			rewards: [
+				{
+					id: "28784BBB25E27F3B"
+					item: {
+						count: 1
+						id: "cobblemon:aspear_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "1A52C8CEAEB5F53A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "53FBFD3816B58EF5"
+				item: { count: 1, id: "cobblemon:aspear_berry" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -18.0d
+		}
+		{
+			id: "71AF6119D7CA9100"
+			rewards: [
+				{
+					id: "40D16919F8323250"
+					item: {
+						count: 1
+						id: "cobblemon:rawst_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "6067FD557276CC5E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "2FC55741FF93446C"
+				item: { count: 1, id: "cobblemon:rawst_berry" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -16.0d
+		}
+		{
+			id: "5BABAA778FA6ED2F"
+			rewards: [
+				{
+					id: "700E55B6D31DE176"
+					item: {
+						count: 1
+						id: "cobblemon:persim_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "27285B687FC03BD1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "48B1805814A271D6"
+				item: { count: 1, id: "cobblemon:persim_berry" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -17.0d
+		}
+		{
+			id: "270A284F9CE1E3E0"
+			rewards: [
+				{
+					id: "5BABD5F91D9D1226"
+					item: {
+						count: 1
+						id: "cobblemon:razz_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "31C7CF58BFDD85B3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "2D267EAB2ED70FB2"
+				item: { count: 1, id: "cobblemon:razz_berry" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -18.0d
+		}
+		{
+			id: "7F07711EA67B17D8"
+			rewards: [
+				{
+					id: "35BB23E8A654F0B9"
+					item: {
+						count: 1
+						id: "cobblemon:wepear_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "703D405284A81C2A"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "6C23725DEC14ED5E"
+				item: { count: 1, id: "cobblemon:wepear_berry" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -16.0d
+		}
+		{
+			id: "0477F9E809E0CB1B"
+			rewards: [
+				{
+					id: "658F00E1AED53E2A"
+					item: {
+						count: 1
+						id: "cobblemon:pinap_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "38C404EFB63409DF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "0AD3DD8A26BB17B2"
+				item: { count: 1, id: "cobblemon:pinap_berry" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -15.0d
+		}
+		{
+			id: "3FC80DAA7BB006C4"
+			rewards: [
+				{
+					id: "38D7CBE108BC07DC"
+					item: {
+						count: 1
+						id: "cobblemon:rindo_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "7E357318AF71B781"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "5B954F41E148B688"
+				item: { count: 1, id: "cobblemon:rindo_berry" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -16.5d
+		}
+		{
+			id: "53EA6142A0E845E9"
+			rewards: [
+				{
+					id: "66CA2D63BB40B62F"
+					item: {
+						count: 1
+						id: "cobblemon:wacan_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "1822C9E0BE8ADE21"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "6AC96BAAA0AC6C8B"
+				item: { count: 1, id: "cobblemon:wacan_berry" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -16.5d
+		}
+		{
+			id: "001A054CAE8DEBE1"
+			rewards: [
+				{
+					id: "2EB1AC976051184C"
+					item: {
+						count: 1
+						id: "cobblemon:passho_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "4ED19A70EDBE8E08"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "5E5E4231344A0A9F"
+				item: { count: 1, id: "cobblemon:passho_berry" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -18.5d
+		}
+		{
+			id: "646F10C301E0946B"
+			rewards: [
+				{
+					id: "2036D7EFDBF803B2"
+					item: {
+						count: 1
+						id: "cobblemon:nanab_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "7C2DF0A11EFF06A4"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "5993EC280234374A"
+				item: { count: 1, id: "cobblemon:nanab_berry" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -16.0d
+		}
+		{
+			id: "675B9C3A97FD3138"
+			rewards: [
+				{
+					id: "11F1C03697BCB943"
+					item: {
+						count: 1
+						id: "cobblemon:bluk_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "523C78F85A0AEED1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "1A23D01302BE04A2"
+				item: { count: 1, id: "cobblemon:bluk_berry" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -15.0d
+		}
+		{
+			id: "7221F29437F93F8D"
+			rewards: [
+				{
+					id: "283E885E518D0CD1"
+					item: {
+						count: 1
+						id: "cobblemon:occa_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "62913DC6073817A5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "19E47B165BFD748C"
+				item: { count: 1, id: "cobblemon:occa_berry" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -16.5d
+		}
+		{
+			id: "67022FDA2460EB70"
+			rewards: [
+				{
+					id: "702A03D918BF8A7B"
+					item: {
+						count: 1
+						id: "cobblemon:chilan_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "5B01C2E93CCED67C"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "25507807DEE35EA6"
+				item: { count: 1, id: "cobblemon:chilan_berry" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -16.5d
+		}
+		{
+			id: "49E2AB7F57D8EA61"
+			rewards: [
+				{
+					id: "3252D2210B8876CF"
+					item: {
+						count: 1
+						id: "cobblemon:yache_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "3806EE6465621DC1"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "3C06B1F8F18A1715"
+				item: { count: 1, id: "cobblemon:yache_berry" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -15.5d
+		}
+		{
+			id: "3FD5AB886EABB5CD"
+			rewards: [
+				{
+					id: "7F0951A30142DD2A"
+					item: {
+						count: 1
+						id: "cobblemon:chople_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "20BCB5E46C8F1FB3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "0233F1B1EFCB6058"
+				item: { count: 1, id: "cobblemon:chople_berry" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -18.0d
+		}
+		{
+			id: "4F6965DB99878F45"
+			rewards: [
+				{
+					id: "6FAE79BA5BB5DF1E"
+					item: {
+						count: 1
+						id: "cobblemon:shuca_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "709FF80BFF05AD5D"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "258FD0171A48DFF6"
+				item: { count: 1, id: "cobblemon:shuca_berry" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -17.0d
+		}
+		{
+			id: "433ADDC81E7F78DA"
+			rewards: [
+				{
+					id: "56D5142719A548E3"
+					item: {
+						count: 1
+						id: "cobblemon:kebia_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "45BB44532C963CAD"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "68398CD96F0443BF"
+				item: { count: 1, id: "cobblemon:kebia_berry" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -17.0d
+		}
+		{
+			id: "1C229AEFAC1B4773"
+			rewards: [
+				{
+					id: "728E59B8FBA6DAD2"
+					item: {
+						count: 1
+						id: "cobblemon:charti_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "5C43A202B9BB5DA0"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "18D2B0986E3B62DD"
+				item: { count: 1, id: "cobblemon:charti_berry" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -17.5d
+		}
+		{
+			id: "6E358B1373EC1146"
+			rewards: [
+				{
+					id: "373917B457D23FE2"
+					item: {
+						count: 1
+						id: "cobblemon:payapa_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "47030E871B49D418"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "0B6FDEF0DF907895"
+				item: { count: 1, id: "cobblemon:payapa_berry" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -15.5d
+		}
+		{
+			id: "4169F2C381BFFE8A"
+			rewards: [
+				{
+					id: "1E3C53368ED788E8"
+					item: {
+						count: 1
+						id: "cobblemon:tanga_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "2BD7DFEF23EA9246"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "28EB8186C44A1A07"
+				item: { count: 1, id: "cobblemon:tanga_berry" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -15.5d
+		}
+		{
+			id: "40F2EC49289FCFED"
+			rewards: [
+				{
+					id: "0442C33613604965"
+					item: {
+						count: 1
+						id: "cobblemon:babiri_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "1E43C2A7894B9B14"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "46089A63685E1034"
+				item: { count: 1, id: "cobblemon:babiri_berry" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -14.5d
+		}
+		{
+			id: "0BDF1A96684B515E"
+			rewards: [
+				{
+					id: "72A165476BE6EEC9"
+					item: {
+						count: 1
+						id: "cobblemon:colbur_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "5812B511759AB4EF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "393FBD6DB2E2D07C"
+				item: { count: 1, id: "cobblemon:colbur_berry" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -18.5d
+		}
+		{
+			id: "2725C79AE349CA96"
+			rewards: [
+				{
+					id: "141C016DCC40F18C"
+					item: {
+						count: 1
+						id: "cobblemon:kasib_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "043125EB62FEDFAF"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "6A2D9FF84EDCEAE4"
+				item: { count: 1, id: "cobblemon:kasib_berry" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -17.5d
+		}
+		{
+			id: "272209425F18CB4F"
+			rewards: [
+				{
+					id: "54980D6FB46479D5"
+					item: {
+						count: 1
+						id: "cobblemon:haban_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "38784A394141FCD3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "295FDD3001BFE391"
+				item: { count: 1, id: "cobblemon:haban_berry" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -17.5d
+		}
+		{
+			id: "06B56B5436FC5ED5"
+			rewards: [
+				{
+					id: "17AD1E2E4D431C2B"
+					item: {
+						count: 1
+						id: "cobblemon:coba_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "3B3CBAFBA53BC2B5"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "6C0B522CA22B6425"
+				item: { count: 1, id: "cobblemon:coba_berry" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -16.0d
+		}
+		{
+			id: "212618E1188DDDC5"
+			rewards: [
+				{
+					id: "55E50F658C8F49CD"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "383298F2B57A60D0"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "7B6D505D7F851780"
+				item: { count: 1, id: "cobblemon:wiki_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -12.5d
+		}
+		{
+			id: "5DAB6A9B47FDEC1F"
+			rewards: [
+				{
+					id: "47710A370C4CB9CA"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "13F2AA903DF97A63"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "5D57EDA5BED1F54D"
+				item: { count: 1, id: "cobblemon:cornn_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -11.5d
+		}
+		{
+			id: "73A9E1A5DB2FAEA7"
+			rewards: [
+				{
+					id: "13EACE4C86C53A49"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "36607A3F48CF6612"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "0473606434612B45"
+				item: { count: 1, id: "cobblemon:pamtre_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -10.5d
+		}
+		{
+			id: "4D318F1459F6CF29"
+			rewards: [
+				{
+					id: "27829DB9E49000DC"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "6F4704A84A9BCC14"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "65DB7A85CD597375"
+				item: { count: 1, id: "cobblemon:micle_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -8.5d
+		}
+		{
+			id: "773B89D104D262A9"
+			rewards: [
+				{
+					id: "3657035283B58B4B"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "5F7506345130AF6E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "522EE0EE7F8399AE"
+				item: { count: 1, id: "cobblemon:liechi_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -7.5d
+		}
+		{
+			id: "4ADAFF153D0BE502"
+			rewards: [
+				{
+					id: "12977FC5A2B6D4EC"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "4E0345C7CA2FB662"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "30FF8B6AE68729AE"
+				item: { count: 1, id: "cobblemon:kelpsy_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -9.5d
+		}
+		{
+			id: "0D7EDAC44657937D"
+			rewards: [
+				{
+					id: "6D85302AB455444E"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1915E7CC7E42A9EC"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "76A51AEC43D52089"
+				item: { count: 1, id: "cobblemon:mago_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			id: "23EC2FBCB0C6B95B"
+			rewards: [
+				{
+					id: "6D750BDBD037192D"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "19189CBB5A918367"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "68E7D5F32C78510A"
+				item: { count: 1, id: "cobblemon:magost_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -5.0d
+		}
+		{
+			id: "23BD2BA19A510D8E"
+			rewards: [
+				{
+					id: "4287E2E43638CDB6"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1A755E626060EDE2"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "413D26D2C48BD690"
+				item: { count: 1, id: "cobblemon:qualot_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			id: "420A2805ADAD155F"
+			rewards: [
+				{
+					id: "35FCCA5344E110C9"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "5DD70573E9897D42"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "2CF237300B505142"
+				item: { count: 1, id: "cobblemon:custap_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			id: "317465C54F791936"
+			rewards: [
+				{
+					id: "7164CBA532AD31E1"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "787BE04EA0F92778"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "33CEC672E726A791"
+				item: { count: 1, id: "cobblemon:ganlon_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			id: "1F7E9CAC6FFB3F9E"
+			rewards: [
+				{
+					id: "60F8460932A3FCBD"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "6E931FEB592293D1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "51CDC6D49021F2E1"
+				item: { count: 1, id: "cobblemon:watmel_berry" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.0d
+		}
+		{
+			id: "3EDA72B6589D98A5"
+			rewards: [
+				{
+					id: "621AB0095D688425"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "520370402EE98C1E"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "15D73B5DAC47BCC3"
+				item: { count: 1, id: "cobblemon:iapapa_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.0d
+		}
+		{
+			id: "6467BABC10AF293B"
+			rewards: [
+				{
+					id: "4CC151C7A20F1AC9"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "77D1897798BDB0D9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "3C92055A4EBD3466"
+				item: { count: 1, id: "cobblemon:nomel_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			id: "7B534106017A87D3"
+			rewards: [
+				{
+					id: "29449BBB7EF8F570"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "4DEFF78B3924BEA4"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "1AD8B14E3EF8A1EA"
+				item: { count: 1, id: "cobblemon:belue_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			id: "1E016C833289DAD4"
+			rewards: [
+				{
+					id: "09DAA073C65B68E1"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1DA6048104A6B9B6"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "1CE7E15B4D7538A8"
+				item: { count: 1, id: "cobblemon:grepa_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "3062529C37E6F5D4"
+			rewards: [
+				{
+					id: "3208F8E3219D57C9"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "2D1EA91FA1624B38"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "301F811FE12AD93E"
+				item: { count: 1, id: "cobblemon:rowap_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "4AE863D143C8A197"
+			rewards: [
+				{
+					id: "1531D843C6907DF4"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "115FAAE02951C112"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "58CC608140211EC0"
+				item: { count: 1, id: "cobblemon:apicot_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "185AED2945EB56AB"
+			rewards: [
+				{
+					id: "539634AD8CDFD625"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "5BF48257F9BE88C9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "0E8E8AC603B4B682"
+				item: { count: 1, id: "cobblemon:petaya_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -1.0d
+		}
+		{
+			id: "7E4F289E154122E5"
+			rewards: [
+				{
+					id: "44F6458E667E244D"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "63DC2CE35995FCD1"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "0CE88F84AEE03650"
+				item: { count: 1, id: "cobblemon:jaboca_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			id: "1D1FA8275D4CFBD7"
+			rewards: [
+				{
+					id: "745CB21FAC84290C"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "4C340D847705A577"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "0F45C85B565D8F02"
+				item: { count: 1, id: "cobblemon:hondew_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			id: "42CB833EC74B1F89"
+			rewards: [
+				{
+					id: "0376C00CC3213F90"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "74FC287DFA16F359"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "687C7A40E5CAE39F"
+				item: { count: 1, id: "cobblemon:aguav_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -6.0d
+		}
+		{
+			id: "30B6A599DB189275"
+			rewards: [
+				{
+					id: "66C9452003F0D40F"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "69B2679FBFCEE596"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "0740FE39A706D149"
+				item: { count: 1, id: "cobblemon:rabuta_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -5.0d
+		}
+		{
+			id: "22DFEAC7A1D27C89"
+			rewards: [
+				{
+					id: "7ECA376BFA3D0693"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "6CC689C5F247B5B9"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "03E4883BDFC02400"
+				item: { count: 1, id: "cobblemon:durin_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -4.0d
+		}
+		{
+			id: "71E8BFCD3D7EC789"
+			rewards: [
+				{
+					id: "420CDD58FCDEE177"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "6802C202F5216BFD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "474673FE588D3981"
+				item: { count: 1, id: "cobblemon:figy_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -12.5d
+		}
+		{
+			id: "7DB0B468E4208E48"
+			rewards: [
+				{
+					id: "77F31BB3F5039A59"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "7395C9509A96F976"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "0BC09CDCB6E67970"
+				item: { count: 1, id: "cobblemon:spelon_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -10.5d
+		}
+		{
+			id: "40F8BA613A30F9BC"
+			rewards: [
+				{
+					id: "08E0A9CE73721AFC"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "56199086A2A0323D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "2A531CF479F78ACB"
+				item: { count: 1, id: "cobblemon:touga_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -11.5d
+		}
+		{
+			id: "4D2DC808F84300B0"
+			rewards: [
+				{
+					id: "01F4C3BF0B4479FA"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "68C41169BD9EC157"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "339A83C5F202DFBE"
+				item: { count: 1, id: "cobblemon:tamato_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -9.5d
+		}
+		{
+			id: "09178EB5B4285168"
+			rewards: [
+				{
+					id: "61BBFF94BC3FF256"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "109FB5266D30F3AD"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "1AB8311EF67D5914"
+				item: { count: 1, id: "cobblemon:lansat_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -8.5d
+		}
+		{
+			id: "5CBDC9A0B173AF74"
+			rewards: [
+				{
+					id: "09254E012E9DFAD1"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "3DEA531F08BA8DDA"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "37088C58FF960598"
+				item: { count: 1, id: "cobblemon:salac_berry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -7.5d
+		}
+		{
+			id: "2150443840CCF3A4"
+			rewards: [
+				{
+					count: 3
+					id: "7EC618F321E61700"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "661795D0B0E17397"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "75CB8E0298676776"
+				item: { count: 1, id: "cobblemon:coarse_mulch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -17.5d
+		}
+		{
+			id: "36EE8268CC667B9E"
+			rewards: [
+				{
+					count: 3
+					id: "7823C651F2BFDC36"
+					item: {
+						count: 1
+						id: "cobblemon:mulch_base"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6E3602860AA169EE"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "0BB3B5B9ABCAA2E3"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "00B4B5DCD4E724A1"
+				item: { count: 1, id: "cobblemon:mulch_base" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -18.5d
+		}
+		{
+			id: "7CFD5C552D81ACDA"
+			rewards: [
+				{
+					count: 3
+					id: "5924E117936D67D7"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "2C9F40582D2AEF28"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "1874FA55E54DA8CB"
+				item: { count: 1, id: "cobblemon:growth_mulch" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -17.5d
+		}
+		{
+			id: "36B80D9432BF7CA9"
+			rewards: [
+				{
+					count: 3
+					id: "6814DD76615EDBC5"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "3AD4F107153A166E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "1B8FB28D7ECAD74B"
+				item: { count: 1, id: "cobblemon:rich_mulch" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -16.5d
+		}
+		{
+			id: "594E0C36EBB7CB34"
+			rewards: [
+				{
+					count: 3
+					id: "1394A522C4278710"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "5C590B6D6B156BDF"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "0FFBD1F37E2E6703"
+				item: { count: 1, id: "cobblemon:peat_mulch" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -16.5d
+		}
+		{
+			id: "03AAA02D4D03B316"
+			rewards: [
+				{
+					count: 3
+					id: "12B047BF576033C9"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "5BA4B1EE475DCFA7"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "79CB882EC7E50CB4"
+				item: { count: 1, id: "cobblemon:humid_mulch" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -16.5d
+		}
+		{
+			id: "1A93C837C753AD90"
+			rewards: [
+				{
+					count: 3
+					id: "3E0E79C200284A0A"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "02D219AD532761AE"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "5A62A032D3CF7EB3"
+				item: { count: 1, id: "cobblemon:surprise_mulch" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -15.5d
+		}
+		{
+			id: "012F019C163F8E8D"
+			rewards: [
+				{
+					count: 3
+					id: "002C7BE1D7DCB890"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "3FF91F8A2B024580"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "3AAAA50833336B40"
+				item: { count: 1, id: "cobblemon:loamy_mulch" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -14.5d
+		}
+		{
+			id: "367DF2647D1CDF1B"
+			rewards: [
+				{
+					count: 3
+					id: "2E888553EB824E49"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "128DEE3265043905"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			tasks: [{
+				id: "13D005CEB1FC2EE5"
+				item: { count: 1, id: "cobblemon:sandy_mulch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -15.5d
+		}
+		{
+			id: "0C48F18E93F1B9DD"
+			rewards: [
+				{
+					id: "3DB31098E0349AE6"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "702F9EB14D67E239"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "00E08A2AF46608DF"
+				item: { count: 1, id: "cobblemon:pomeg_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			id: "2AE286C088184DBD"
+			rewards: [
+				{
+					id: "585507F4623D93DE"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "06EE9AE48C5B717D"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "4323969851CF98C9"
+				item: { count: 1, id: "cobblemon:hopo_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -12.0d
+		}
+		{
+			id: "1CEBF2CB6EFA1721"
+			rewards: [
+				{
+					id: "3F6C5C2257E09F15"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "0D128B18A25D6397"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "4BA7818E98DBC58C"
+				item: { count: 1, id: "cobblemon:maranga_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -11.0d
+		}
+		{
+			id: "1CF1ECB0DD9D162D"
+			rewards: [
+				{
+					id: "39F3A5BBDBF87FAB"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "19BB26A43024AC70"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "606799CA91F5DBFD"
+				item: { count: 1, id: "cobblemon:kee_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -10.0d
+		}
+		{
+			id: "64DCA72ED14B981F"
+			rewards: [
+				{
+					id: "6BA28793DD233274"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "3B05AABD3039B36B"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "2B8FDB0669F1B4AF"
+				item: { count: 1, id: "cobblemon:leppa_berry" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -14.5d
+		}
+		{
+			id: "0D252096DB5F033D"
+			rewards: [
+				{
+					id: "0387523214D3C60F"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "06257B0A110521F5"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "73E78B8EF952188A"
+				item: { count: 1, id: "cobblemon:lum_berry" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -14.5d
+		}
+		{
+			id: "3246BE1FACC400EE"
+			rewards: [
+				{
+					id: "41330B5016056213"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "4F8975A9A9545246"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "2B9E3110E3D98745"
+				item: { count: 1, id: "cobblemon:sitrus_berry" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -15.5d
+		}
+		{
+			id: "7905C3E53D48240D"
+			rewards: [
+				{
+					id: "2E1B5008A180C34B"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "662F48A44058D17C"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [{
+				id: "2ED6407E3ECBAF35"
+				item: { count: 1, id: "cobblemon:enigma_berry" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -14.5d
+		}
+		{
+			id: "4AB5B5AB3F7C4E1D"
+			rewards: [
+				{
+					id: "02B34082B545C447"
+					item: {
+						count: 1
+						id: "cobblemon:roseli_berry"
+					}
+					type: "item"
+				}
+				{
+					id: "78AA10EBB0E26F8E"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [{
+				id: "64BAE97669944E0D"
+				item: { count: 1, id: "cobblemon:roseli_berry" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -17.5d
+		}
+		{
+			icon: {
+				id: "cobblemon:enigma_berry"
+			}
+			id: "48688016A596425B"
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "08DE3B14D3DF0803"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -21.5d
+		}
+		{
+			dependencies: [
+				"30B6A599DB189275"
+				"1F7E9CAC6FFB3F9E"
+				"7B534106017A87D3"
+				"22DFEAC7A1D27C89"
+				"2AE286C088184DBD"
+				"40F8BA613A30F9BC"
+				"4D2DC808F84300B0"
+				"7DB0B468E4208E48"
+				"23BD2BA19A510D8E"
+				"1CF1ECB0DD9D162D"
+				"1D1FA8275D4CFBD7"
+				"3062529C37E6F5D4"
+				"09178EB5B4285168"
+				"185AED2945EB56AB"
+				"317465C54F791936"
+				"7E4F289E154122E5"
+				"23EC2FBCB0C6B95B"
+				"420A2805ADAD155F"
+				"4ADAFF153D0BE502"
+				"5DAB6A9B47FDEC1F"
+				"42CB833EC74B1F89"
+				"0C48F18E93F1B9DD"
+				"71E8BFCD3D7EC789"
+				"73A9E1A5DB2FAEA7"
+				"0D7EDAC44657937D"
+				"1E016C833289DAD4"
+				"212618E1188DDDC5"
+				"4AE863D143C8A197"
+				"1CEBF2CB6EFA1721"
+				"3EDA72B6589D98A5"
+				"6467BABC10AF293B"
+				"4D318F1459F6CF29"
+				"5CBDC9A0B173AF74"
+				"773B89D104D262A9"
+			]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "cobblemon:growth_mulch"
+			}
+			id: "649FB0A723C509FA"
+			rewards: [{
+				id: "60669D6CB34A73B1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3C9966513DAE6C03"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 1.0d
+		}
+	]
+}

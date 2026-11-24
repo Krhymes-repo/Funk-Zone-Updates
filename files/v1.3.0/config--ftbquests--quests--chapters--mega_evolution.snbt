@@ -1,0 +1,804 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mega_evolution"
+	group: "78D9B7EDB444A105"
+	icon: {
+		id: "mega_showdown:keystone"
+	}
+	id: "3D123A573045BD01"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7983F8960FA2112A"
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/find_keystone"
+				criterion: ""
+				id: "79F4CF2F3CC72778"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7983F8960FA2112A"]
+			id: "198B343EB3C6DEC8"
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/get_any_mega_bracelet"
+				criterion: ""
+				id: "71647466131D2B09"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "587008CD0A589C30"
+			tasks: [{
+				id: "5CBA3A9C33EBC665"
+				item: { count: 1, id: "mega_showdown:venusaurite" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "18ACC51CD43F46F3"
+			tasks: [{
+				id: "4421A2269585F8F2"
+				item: { count: 1, id: "mega_showdown:charizardite_x" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "24FE4643303C91EF"
+			tasks: [{
+				id: "1EF7F39C4AB154AF"
+				item: { count: 1, id: "mega_showdown:charizardite_y" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "6C71D05E05C25181"
+			tasks: [{
+				id: "3907CB5F7A353DF6"
+				item: { count: 1, id: "mega_showdown:blastoisinite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "1B44BFA5B25D9F7D"
+			tasks: [{
+				id: "72D8BACA03E2111F"
+				item: { count: 1, id: "mega_showdown:beedrillite" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "7117DC550953A51C"
+			tasks: [{
+				id: "4D78A389ED09F51A"
+				item: { count: 1, id: "mega_showdown:pidgeotite" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "367175C9493EAF22"
+			tasks: [{
+				id: "51FD08EB8E65CABB"
+				item: { count: 1, id: "mega_showdown:alakazite" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "1FF2A3A7D8CB189E"
+			tasks: [{
+				id: "3AEA48C1BC06D1D2"
+				item: { count: 1, id: "mega_showdown:slowbronite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "1959A9A126901FE9"
+			tasks: [{
+				id: "4FFF0DF7969223A0"
+				item: { count: 1, id: "mega_showdown:gengarite" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "0DE1A8B5E2809D38"
+			tasks: [{
+				id: "2C08D5EB12DDB241"
+				item: { count: 1, id: "mega_showdown:kangaskhanite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "3BB36278D0EA5609"
+			tasks: [{
+				id: "0E8C060411EE8EC4"
+				item: { count: 1, id: "mega_showdown:pinsirite" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "25653522B40E0990"
+			tasks: [{
+				id: "7EB1EECBDA3DA8C1"
+				item: { count: 1, id: "mega_showdown:gyaradosite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "3A244001EBCA7860"
+			tasks: [{
+				id: "633EE01E34B13DEE"
+				item: { count: 1, id: "mega_showdown:aerodactylite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "175E107346208786"
+			tasks: [{
+				id: "0B957D5D1F599B4F"
+				item: { count: 1, id: "mega_showdown:mewtwonite_y" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "34D1A555FDC0A0C5"
+			tasks: [{
+				id: "6925AB4A940B09D3"
+				item: { count: 1, id: "mega_showdown:mewtwonite_x" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			dependency_requirement: "all_started"
+			hide_dependency_lines: true
+			id: "7D47E63D00BCA5EA"
+			tasks: [{
+				id: "092A1568D75BED5B"
+				item: { count: 1, id: "mega_showdown:ampharosite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "04242F14280ED081"
+			tasks: [{
+				id: "3C30035A98E42459"
+				item: { count: 1, id: "mega_showdown:steelixite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "0CA6470E215EA140"
+			tasks: [{
+				id: "22CAC6052326F477"
+				item: { count: 1, id: "mega_showdown:scizorite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "6C2ADEB7F09FAC2B"
+			tasks: [{
+				id: "39A99163ED8B210E"
+				item: { count: 1, id: "mega_showdown:heracronite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "5D6DA16F1F4A34FB"
+			tasks: [{
+				id: "1CAA87B39C24E6B9"
+				item: { count: 1, id: "mega_showdown:houndoominite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "14668BF145A76413"
+			tasks: [{
+				id: "7010A70ECC366B11"
+				item: { count: 1, id: "mega_showdown:tyranitarite" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "65F799D52342A783"
+			tasks: [{
+				id: "120559F01F2C57B7"
+				item: { count: 1, id: "mega_showdown:sceptilite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "41EC5CD36AB8DA47"
+			tasks: [{
+				id: "0EB81E67461FF11D"
+				item: { count: 1, id: "mega_showdown:swampertite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "000DDD8E792A7B75"
+			tasks: [{
+				id: "10CA0A86FF8BFAD1"
+				item: { count: 1, id: "mega_showdown:blazikenite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "514E0DAF1F0A7220"
+			tasks: [{
+				id: "3113CB71474F4158"
+				item: { count: 1, id: "mega_showdown:gardevoirite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "61667C7B493109A1"
+			tasks: [{
+				id: "75FC1C7120B40699"
+				item: { count: 1, id: "mega_showdown:sablenite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "63F7658CD5E22B40"
+			tasks: [{
+				id: "3B0BD5BE02A0C713"
+				item: { count: 1, id: "mega_showdown:mawilite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "3E95650C9C54E029"
+			tasks: [{
+				id: "64948A9E733646CC"
+				item: { count: 1, id: "mega_showdown:aggronite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "3353DDF2C885581B"
+			tasks: [{
+				id: "3C7F07DCD87C290A"
+				item: { count: 1, id: "mega_showdown:medichamite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "51623E46992F9DE4"
+			tasks: [{
+				id: "5E8C71E4270CE8A5"
+				item: { count: 1, id: "mega_showdown:manectite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "0FFE25B21195BEAA"
+			tasks: [{
+				id: "2D189C85A997A4C8"
+				item: { count: 1, id: "mega_showdown:sharpedonite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "3B5392DAE0118412"
+			tasks: [{
+				id: "638C9F19BBBCC761"
+				item: { count: 1, id: "mega_showdown:cameruptite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "1EC32A5D35421DBA"
+			tasks: [{
+				id: "34B4B4D979158B5F"
+				item: { count: 1, id: "mega_showdown:altarianite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "44A40671FEBFF4AF"
+			tasks: [{
+				id: "6D03F9FA35AC75A0"
+				item: { count: 1, id: "mega_showdown:banettite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "03ADF47FFF6336AA"
+			tasks: [{
+				id: "0D1EFF6BBDB4B1A5"
+				item: { count: 1, id: "mega_showdown:absolite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "128A3EF413A71E15"
+			tasks: [{
+				id: "62FF9A1A9F579DF9"
+				item: { count: 1, id: "mega_showdown:glalitite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "1CA47C17138F77C7"
+			tasks: [{
+				id: "5B61FAB7D4C43761"
+				item: { count: 1, id: "mega_showdown:salamencite" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "73F8FFB0EED74669"
+			tasks: [{
+				id: "339CB40E51A4B501"
+				item: { count: 1, id: "mega_showdown:metagrossite" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "26AC4BC2D2BA617F"
+			optional: true
+			tasks: [{
+				id: "394A52A4D538C453"
+				item: { count: 1, id: "mega_showdown:latiasite" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "04ADD70E7437187E"
+			tasks: [{
+				id: "0EB385600CDBDA4E"
+				item: { count: 1, id: "mega_showdown:latiosite" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "1F0A8EA5392E1A5F"
+			tasks: [{
+				id: "2D36FAA288A9DB99"
+				item: { count: 1, id: "mega_showdown:lopunnite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "6AC778DFD892F679"
+			tasks: [{
+				id: "008DE8C5F61165E7"
+				item: { count: 1, id: "mega_showdown:garchompite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "2F6420E9EE945ADD"
+			tasks: [{
+				id: "25F92CD485788349"
+				item: { count: 1, id: "mega_showdown:lucarionite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "27752A2E5C3D67C6"
+			tasks: [{
+				id: "292D08F76981C62C"
+				item: { count: 1, id: "mega_showdown:abomasite" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "158B28EB504ED7E5"
+			tasks: [{
+				id: "53873409CA85D152"
+				item: { count: 1, id: "mega_showdown:galladite" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "539D436D5D994529"
+			tasks: [{
+				id: "5E2EF36CDBCCA567"
+				item: { count: 1, id: "mega_showdown:audinite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["54C9AA7A602FACA4"]
+			hide_dependency_lines: true
+			id: "15E09AD3B993A209"
+			tasks: [{
+				id: "26F6E60086FDFFE4"
+				item: { count: 1, id: "mega_showdown:diancite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["198B343EB3C6DEC8"]
+			hide_dependent_lines: true
+			id: "54C9AA7A602FACA4"
+			tasks: [{
+				id: "460D626CC2E7231F"
+				item: { count: 1, id: "mega_showdown:mega_stone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"3A244001EBCA7860"
+				"51623E46992F9DE4"
+				"27752A2E5C3D67C6"
+				"34D1A555FDC0A0C5"
+				"14668BF145A76413"
+				"6C71D05E05C25181"
+				"3BB36278D0EA5609"
+				"1B44BFA5B25D9F7D"
+				"44A40671FEBFF4AF"
+				"6AC61C3369F0E150"
+				"7D47E63D00BCA5EA"
+				"3B5392DAE0118412"
+			]
+			hide_dependency_lines: true
+			id: "41AA1B81294EC7D6"
+			rewards: [
+				{
+					id: "284B20E010DE7EE7"
+					item: {
+						count: 1
+						id: "cobblemon:hp_up"
+					}
+					type: "item"
+				}
+				{
+					id: "441512F719350131"
+					item: {
+						count: 1
+						id: "cobblemon:protein"
+					}
+					type: "item"
+				}
+				{
+					id: "3AF9F417606DB587"
+					item: {
+						count: 1
+						id: "cobblemon:iron"
+					}
+					type: "item"
+				}
+				{
+					id: "3D853398E129D3FE"
+					item: {
+						count: 1
+						id: "cobblemon:calcium"
+					}
+					type: "item"
+				}
+				{
+					id: "48EAB3CBC3048D27"
+					item: {
+						count: 1
+						id: "cobblemon:zinc"
+					}
+					type: "item"
+				}
+				{
+					id: "24BEE7D11664A0D0"
+					item: {
+						count: 1
+						id: "cobblemon:carbos"
+					}
+					type: "item"
+				}
+				{
+					id: "4D1A0DB63C2A447B"
+					item: {
+						count: 1
+						id: "cobblemon:pp_max"
+					}
+					type: "item"
+				}
+			]
+			shape: "none"
+			tasks: [{
+				id: "31CEBD25DFD5B035"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 10.5d
+		}
+		{
+			id: "6AC61C3369F0E150"
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/mega_evolve"
+				criterion: ""
+				id: "39EDA11E85125B57"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"41AA1B81294EC7D6"
+				"3E95650C9C54E029"
+				"539D436D5D994529"
+				"367175C9493EAF22"
+				"1EC32A5D35421DBA"
+				"04ADD70E7437187E"
+				"514E0DAF1F0A7220"
+				"0DE1A8B5E2809D38"
+				"1F0A8EA5392E1A5F"
+				"5D6DA16F1F4A34FB"
+				"1FF2A3A7D8CB189E"
+				"1959A9A126901FE9"
+				"587008CD0A589C30"
+			]
+			hide_dependency_lines: true
+			id: "49A5DCE37812CE48"
+			rewards: [{
+				id: "36E1ADD2E3F85661"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "none"
+			tasks: [{
+				id: "2E637AF63DD3B51E"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"49A5DCE37812CE48"
+				"03ADF47FFF6336AA"
+				"25653522B40E0990"
+				"15E09AD3B993A209"
+				"65F799D52342A783"
+				"41EC5CD36AB8DA47"
+				"000DDD8E792A7B75"
+				"6AC778DFD892F679"
+				"7117DC550953A51C"
+				"63F7658CD5E22B40"
+				"18ACC51CD43F46F3"
+				"2F6420E9EE945ADD"
+				"0FFE25B21195BEAA"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "0E81621FA209395A"
+			rewards: [{
+				id: "02C6F51B1B53F2F5"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "none"
+			tasks: [{
+				id: "4864176B3958631B"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"0E81621FA209395A"
+				"04242F14280ED081"
+				"24FE4643303C91EF"
+				"175E107346208786"
+				"0CA6470E215EA140"
+				"6C2ADEB7F09FAC2B"
+				"61667C7B493109A1"
+				"3353DDF2C885581B"
+				"128A3EF413A71E15"
+				"1CA47C17138F77C7"
+				"73F8FFB0EED74669"
+				"26AC4BC2D2BA617F"
+				"158B28EB504ED7E5"
+			]
+			hide_dependency_lines: true
+			id: "0726EB383ADA7DD8"
+			rewards: [{
+				id: "5FD5010D19EA69BB"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "none"
+			tasks: [{
+				id: "527FBD387F79FEA1"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 10.5d
+		}
+	]
+}

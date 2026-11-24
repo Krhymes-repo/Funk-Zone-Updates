@@ -1,0 +1,4665 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cobblemon_catching"
+	group: "78D9B7EDB444A105"
+	icon: {
+		id: "cobblemon:poke_ball"
+	}
+	id: "6E9961464D4D5D4E"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "cobblemon:poke_ball"
+			}
+			id: "2C46B66507BC308E"
+			rewards: [{
+				count: 5
+				id: "6550FF926A278330"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "3847ED5F3A58279A"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "cobblemon:great_ball"
+			}
+			id: "7F3279AD49772EE2"
+			rewards: [{
+				count: 8
+				id: "6DC42D01871B6353"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 10L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "1462D8730319D1AA"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "cobblemon:ultra_ball"
+			}
+			id: "75558CF9320BE00D"
+			rewards: [{
+				count: 3
+				id: "78E778DACA16441E"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 25L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "4393B26319A38177"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["75558CF9320BE00D"]
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "528F1DC684ABA101"
+			rewards: [{
+				count: 2
+				id: "4B8B5FA8C4EFFD93"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 50L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "13F1BADAE0DE76EC"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:potion"
+			}
+			id: "0436CD4642F8D1D1"
+			rewards: [{
+				count: 3
+				id: "74E61B4BDC779F03"
+				item: {
+					count: 1
+					id: "cobblemon:dive_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "23D7A1AB06CF1014"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "water"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:blaze_powder"
+			}
+			id: "0C9CC0C07C92D42B"
+			rewards: [{
+				count: 3
+				id: "61A9935F2DADD0D3"
+				item: {
+					count: 1
+					id: "cobblemon:repeat_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "1CDF94B92A707232"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			id: "213AA0BA00FAE74B"
+			rewards: [{
+				count: 3
+				id: "63C84ABBC37047A1"
+				item: {
+					count: 1
+					id: "cobblemon:nest_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "528C5C6AD4C26B29"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "grass"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:redstone"
+			}
+			id: "1975D192D8654507"
+			rewards: [{
+				count: 3
+				id: "683892D0A731950A"
+				item: {
+					count: 1
+					id: "cobblemon:quick_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "36B1680388917438"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "electric"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:amethyst_shard"
+			}
+			id: "009C7B295B9EA61E"
+			rewards: [{
+				count: 3
+				id: "0403B5599256B81B"
+				item: {
+					count: 1
+					id: "cobblemon:timer_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "556C53E616C3033A"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "psychic"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"0436CD4642F8D1D1"
+				"0C9CC0C07C92D42B"
+				"213AA0BA00FAE74B"
+			]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "0CC5AD7CD0092508"
+			rewards: [
+				{
+					count: 3
+					id: "07A7A772668B2A82"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4F5E7AAB9C06574F"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				id: "2755F584C35EB1D9"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:dragon_breath"
+			}
+			id: "0D22D8CFE98C4128"
+			rewards: [{
+				count: 3
+				id: "7D61D6E5CD198214"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "14FEA2BEDEC10EEB"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dragon"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:soul_lantern"
+			}
+			id: "6B7C4C88B579FB0C"
+			rewards: [{
+				count: 3
+				id: "63DD4D0F7CD6E7F5"
+				item: {
+					count: 1
+					id: "cobblemon:dusk_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "3ED4A46BBCDA3DB5"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ghost"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "4FE5FCEB10F9A6DD"
+			rewards: [{
+				count: 3
+				id: "03F64249E4A79232"
+				item: {
+					count: 1
+					id: "cobblemon:luxury_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "67106280CABFC00E"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dark"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "33DAA61DA07D6B5E"
+			rewards: [{
+				id: "5A2B196941EB1D73"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				abilities: ""
+				action: "evolve"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "0A3632FB8328C832"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "79330BDD7D4A9527"
+			rewards: [{
+				id: "41253B52F0965B96"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				abilities: ""
+				action: "evolve"
+				amount: 5L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "45132EE9F107ED77"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "10463C84AE61686B"
+			rewards: [{
+				id: "50DF2506EAEB34C2"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "7E2ECCD4E23DF7D5"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: true
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:clock"
+			}
+			id: "10617839476CF689"
+			rewards: [{
+				count: 2
+				id: "76F82421E8BA6366"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "21C1D5A7CAFB5C8E"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 12000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:blue_bed"
+			}
+			id: "0B0DE9FBE7685D62"
+			rewards: [{
+				count: 2
+				id: "2A7416BB7722CFF3"
+				item: {
+					count: 1
+					id: "cobblemon:dusk_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "38A210E92DA9B100"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 13000L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:paper"
+			}
+			id: "6B359227F90A1D9B"
+			rewards: [{
+				count: 3
+				id: "680DBEE2A5ABE16C"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "523D9312712E649D"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "normal"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:spider_eye"
+			}
+			id: "60431123EB746077"
+			rewards: [{
+				count: 3
+				id: "1FDC5962C81C80EA"
+				item: {
+					count: 1
+					id: "cobblemon:net_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "586302F27343B511"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "bug"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:feather"
+			}
+			id: "314D66FE2689DFE5"
+			rewards: [{
+				count: 2
+				id: "031DA12E17EB07E2"
+				item: {
+					count: 1
+					id: "cobblemon:quick_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 2L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "11C06F7C1D0362AA"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "flying"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "649E44AB22C221D2"
+			rewards: [{
+				count: 3
+				id: "0A7E2EAF21971450"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "594031D3D8747D56"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fighting"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:fermented_spider_eye"
+			}
+			id: "4302EEEA362BDC7A"
+			rewards: [{
+				count: 5
+				id: "210B63E499DD495E"
+				item: {
+					count: 1
+					id: "cobblemon:antidote"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "2BC7B294447A15AE"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "poison"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:dirt"
+			}
+			id: "59B269510423236C"
+			rewards: [{
+				count: 3
+				id: "72C1FAF78FCEB628"
+				item: {
+					count: 1
+					id: "cobblemon:heavy_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "0BC5935DE46DE81C"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ground"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:cobblestone"
+			}
+			id: "5CDB40A017D68EFD"
+			rewards: [{
+				count: 3
+				id: "0C2E2B5B97732F16"
+				item: {
+					count: 1
+					id: "cobblemon:heavy_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "591216C2837AE4BC"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:ice"
+			}
+			id: "19E194A893611E80"
+			rewards: [{
+				count: 5
+				id: "5F2CD465E4B839AC"
+				item: {
+					count: 1
+					id: "cobblemon:ice_heal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 2L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "52C4DE3FB41180D5"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:iron_block"
+			}
+			id: "273D65B0B33DD4E1"
+			rewards: [{
+				count: 3
+				id: "24B973E8733B8131"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 2L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "0C8EA59345B1B936"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "steel"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:pink_dye"
+			}
+			id: "78646C922C8D5EB8"
+			rewards: [{
+				count: 3
+				id: "659012E2D4E537D3"
+				item: {
+					count: 1
+					id: "cobblemon:love_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 2L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "3D1F0716230C0EDD"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fairy"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["75558CF9320BE00D"]
+			icon: {
+				id: "cobblemon:master_ball"
+			}
+			id: "0ACD4F6948E95322"
+			rewards: [{
+				count: 2
+				id: "41EB737731F9B29C"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 75L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "736D5452BA029D68"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0ACD4F6948E95322"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "73EC3EC15B1AF06D"
+			rewards: [{
+				id: "5A26826D9FC42E95"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 100L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "53D3CAE856881473"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["79330BDD7D4A9527"]
+			icon: {
+				id: "minecraft:blaze_powder"
+			}
+			id: "55F2C43A7F08E993"
+			rewards: [{
+				count: 3
+				id: "2C1F63816167233C"
+				item: {
+					count: 1
+					id: "minecraft:emerald"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "evolve"
+				amount: 10L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5F807693A6819F62"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["55F2C43A7F08E993"]
+			icon: {
+				id: "minecraft:dragon_breath"
+			}
+			id: "4ADC1C593FEB8D21"
+			rewards: [{
+				count: 2
+				id: "5ABC96E520325A74"
+				item: {
+					count: 1
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			tasks: [{
+				abilities: ""
+				action: "evolve"
+				amount: 25L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "01A1C6D7134C0B33"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:cookie"
+			}
+			id: "5A6283B349987F89"
+			rewards: [{
+				count: 3
+				id: "305DF30FA1D7A41F"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "05D41789B3C92B36"
+				max_level: 10
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:golden_apple"
+			}
+			id: "0164CB9E331DB473"
+			rewards: [{
+				count: 5
+				id: "2EACCADF50B0F91D"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "4CF5E2CE1DA533BB"
+				max_level: 30
+				max_turns: 0
+				min_level: 20
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["0164CB9E331DB473"]
+			icon: {
+				id: "minecraft:enchanted_golden_apple"
+			}
+			id: "7EF8CDB175400F9D"
+			rewards: [
+				{
+					count: 3
+					id: "3E2670E4F6B571EA"
+					item: {
+						count: 1
+						id: "cobblemon:ultra_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "22B850BF8D8ACAFE"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5EB0ADD16F2D043E"
+				max_level: 100
+				max_turns: 0
+				min_level: 40
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["0CC5AD7CD0092508"]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "150FCA843EC7BC64"
+			rewards: [{
+				count: 3
+				id: "0E721F43CA5D1C80"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					abilities: ""
+					action: "catch"
+					amount: 1L
+					aspects: ""
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					held_items: ""
+					id: "2965AD52116ED952"
+					max_level: 100
+					max_turns: 0
+					min_level: 0
+					moves: ""
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: "fire"
+					raid_tiers: ""
+					region: ""
+					shiny: false
+					targetPlayer: ""
+					time_max: 24000L
+					time_min: 0L
+					trainers: ""
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					abilities: ""
+					action: "catch"
+					amount: 1L
+					aspects: ""
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					held_items: ""
+					id: "1EA91EC882C79423"
+					max_level: 100
+					max_turns: 0
+					min_level: 0
+					moves: ""
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: "water"
+					raid_tiers: ""
+					region: ""
+					shiny: false
+					targetPlayer: ""
+					time_max: 24000L
+					time_min: 0L
+					trainers: ""
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					abilities: ""
+					action: "catch"
+					amount: 1L
+					aspects: ""
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					held_items: ""
+					id: "7715BF971C9A2A14"
+					max_level: 100
+					max_turns: 0
+					min_level: 0
+					moves: ""
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: "grass"
+					raid_tiers: ""
+					region: ""
+					shiny: false
+					targetPlayer: ""
+					time_max: 24000L
+					time_min: 0L
+					trainers: ""
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:lightning_rod"
+			}
+			id: "67E96554D7636E0E"
+			rewards: [{
+				count: 3
+				id: "5A5A6F7A7B1C78C9"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "62B89EB2D7072F60"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "pikachu"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:brown_wool"
+			}
+			id: "6CB420483259C6AE"
+			rewards: [{
+				count: 3
+				id: "7EAED81A269B4B8C"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "22CECB6F2E6E0AD1"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "eevee"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:blaze_rod"
+			}
+			id: "16D32A69E703E698"
+			rewards: [{
+				count: 3
+				id: "514E3D5B4D899BB1"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "248EAB99B8E51F57"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "charizard"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:end_crystal"
+			}
+			id: "7F1EE1A063320825"
+			rewards: [{
+				count: 3
+				id: "7F0EA5B6D4CFFBF0"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "119A02A9B5DEA476"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "mewtwo"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:prismarine"
+			}
+			id: "2B4F3EDE7434B087"
+			rewards: [{
+				count: 3
+				id: "03568D24AE57705A"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5D9FC5738AC23AF3"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "gyarados"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:dragon_head"
+			}
+			id: "4DE222264C0EDEFB"
+			rewards: [{
+				count: 3
+				id: "4E9C0717B952A2E3"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "6490D850831E76EF"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "dragonite"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "4B68A3EC011A0FBE"
+			rewards: [{
+				count: 3
+				id: "7A2BC8F23CE8DF03"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "7BB9868AB0361AD7"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "lucario"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:diamond_block"
+			}
+			id: "4B813E2C5FCCCA9B"
+			rewards: [{
+				count: 3
+				id: "226349F706F95E02"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "760E116ED750E9F8"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "garchomp"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:purple_dye"
+			}
+			id: "6A1D54316771433A"
+			rewards: [{
+				count: 3
+				id: "5A2B6234AF612E98"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5CE883E5487325D2"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "gengar"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:enchanting_table"
+			}
+			id: "75C467A297D731D2"
+			rewards: [{
+				count: 3
+				id: "63686F726F101D08"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "7C87A4721F7F80E4"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "alakazam"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:iron_block"
+			}
+			id: "2DAC7018681A611E"
+			rewards: [{
+				count: 3
+				id: "75900860678EE141"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "6DAB54AD13A626C4"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "machamp"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:blue_ice"
+			}
+			id: "1EA440513BC58E5C"
+			rewards: [{
+				count: 3
+				id: "0E99C09AAE7756E8"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "1E683521BBC381C6"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "lapras"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:cake"
+			}
+			id: "783E0889FBD73CF6"
+			rewards: [{
+				count: 3
+				id: "60689D86CB95F344"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "06662AC8FBB35DB8"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "snorlax"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:blackstone"
+			}
+			id: "70632822D3BDA41E"
+			rewards: [{
+				count: 3
+				id: "3FF82BD8E5876769"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "6A9F116987AEE0B0"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "tyranitar"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:tnt"
+			}
+			id: "6315B3EB3783BCE0"
+			rewards: [{
+				count: 3
+				id: "49D25B10A1A4F7D3"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "08FEBD4D7C7F572E"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "blastoise"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:flowering_azalea"
+			}
+			id: "0E4062E9B13EA2B9"
+			rewards: [{
+				count: 3
+				id: "4EBE4900AF7B7178"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "52AAE08990CBF61D"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "venusaur"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:orange_wool"
+			}
+			id: "5F6713AC74A2FA2A"
+			rewards: [{
+				count: 3
+				id: "64ABA839325A8CA6"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "17D21FFF85E3EBEA"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "arcanine"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:black_dye"
+			}
+			id: "41974A26BFBFB454"
+			rewards: [{
+				count: 3
+				id: "5F2C4B6A972E61F1"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "18AA7FB481839F07"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "umbreon"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			id: "524E995E61945759"
+			rewards: [{
+				count: 3
+				id: "1D8C5D537C748425"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "79EBDEB3A32CF7C6"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "espeon"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["2C46B66507BC308E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:water_bucket"
+			}
+			id: "04C91212BFF3DFF2"
+			rewards: [{
+				count: 3
+				id: "7892F3BAAEC34E25"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "73F64E36EE9340B1"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "vaporeon"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7EF8CDB175400F9D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "1AD7770ABB672614"
+			rewards: [{
+				count: 3
+				id: "1477D7ADC51FEBF0"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "22B89E91E07253BE"
+				max_level: 100
+				max_turns: 0
+				min_level: 25
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7EF8CDB175400F9D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:gold_ingot"
+			}
+			id: "2260BF91CEE6C6D2"
+			rewards: [{
+				count: 3
+				id: "62023A4E21FD2DD0"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "50854461BAE2E3FA"
+				max_level: 100
+				max_turns: 0
+				min_level: 40
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7EF8CDB175400F9D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "36C42956CA147F59"
+			rewards: [{
+				count: 3
+				id: "19734E2D4118169E"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "1D40984B8FA830E3"
+				max_level: 100
+				max_turns: 0
+				min_level: 50
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7EF8CDB175400F9D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "5B67F8C03CEB5BCA"
+			rewards: [{
+				count: 3
+				id: "029050D1B24AF53C"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "15B8DFBDCD3AD038"
+				max_level: 100
+				max_turns: 0
+				min_level: 60
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["7EF8CDB175400F9D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:netherite_ingot"
+			}
+			id: "09BF7E964E06EF5C"
+			rewards: [{
+				count: 3
+				id: "11B0D562B2041FD0"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "2C64D3C819C93DFB"
+				max_level: 100
+				max_turns: 0
+				min_level: 75
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7EF8CDB175400F9D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "45124D3E8303C281"
+			rewards: [{
+				count: 3
+				id: "064E9620AAA72B8D"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "25C2429C2944292F"
+				max_level: 100
+				max_turns: 0
+				min_level: 90
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7EF8CDB175400F9D"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:beacon"
+			}
+			id: "77C5EDC3E46C18A0"
+			rewards: [{
+				count: 3
+				id: "1CE931CDEFFC0B76"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "37C4CA6996C63741"
+				max_level: 100
+				max_turns: 0
+				min_level: 100
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -15.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:fishing_rod"
+			}
+			id: "7C71FB1A0EDF7DDB"
+			rewards: [{
+				count: 3
+				id: "0870F2F4D0BECCFF"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 5L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "7921CD1F20F7C052"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "magikarp"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:string"
+			}
+			id: "69A7BF81EEE2C5E8"
+			rewards: [{
+				count: 3
+				id: "4B563634D079D6D9"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 10L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "40F13CED202A8AC9"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "caterpie"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:feather"
+			}
+			id: "53AE4B5D4106D429"
+			rewards: [{
+				count: 3
+				id: "64E68EA7D208244F"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 5L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "41D4327902CF3012"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "pidgey"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:light_gray_wool"
+			}
+			id: "470D243C2E765038"
+			rewards: [{
+				count: 2
+				id: "2C4782A43CCA6061"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "4584F6CF6D68EE81"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "rattata"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:ghast_tear"
+			}
+			id: "2CCE3286EB2B858E"
+			rewards: [{
+				count: 3
+				id: "3D53712B6FD8CA50"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 10L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "23D751EA0DC8251C"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "zubat"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:stone"
+			}
+			id: "394EBDD42FB1DF8F"
+			rewards: [{
+				count: 3
+				id: "7E40C4485823EBA1"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 5L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "20326F851D14771A"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "geodude"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:ender_pearl"
+			}
+			id: "2547A984A6B1C8CB"
+			rewards: [{
+				count: 5
+				id: "679D3EA16B6C27A1"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "4F5F7DC88C68B3A0"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "abra"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:yellow_dye"
+			}
+			id: "6DA961A8FABD009D"
+			rewards: [{
+				count: 3
+				id: "51C2B7AA78EFC68B"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 5L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5B5DC148C002B6E1"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "psyduck"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:saddle"
+			}
+			id: "1BFC75CDF1F71F46"
+			rewards: [{
+				count: 3
+				id: "64B8A099933FC559"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "614326B114B87CF0"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "ponyta"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "07E5252E1128E6D7"
+			rewards: [{
+				count: 5
+				id: "00496FE4E7D0130A"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 3L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "7EF67ED141B7AA58"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "eevee"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:sand"
+			}
+			id: "161359C2D796C943"
+			rewards: [{
+				count: 3
+				id: "228758A4B19DD138"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: "minecraft:desert"
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "72E2FA3E46767050"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:heart_of_the_sea"
+			}
+			id: "5D012754DD82906E"
+			rewards: [{
+				count: 3
+				id: "79A33A667F84CDD6"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: "minecraft:ocean"
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "46A4CB1818365093"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "water"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:pointed_dripstone"
+			}
+			id: "109ACD94CA4C934C"
+			rewards: [{
+				count: 3
+				id: "2930A3EC305C569F"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: "minecraft:windswept_hills,minecraft:windswept_gravelly_hills,minecraft:jagged_peaks,minecraft:stony_peaks,minecraft:frozen_peaks,minecraft:snowy_slopes,minecraft:meadow"
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "3AB5F49472157441"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:oak_leaves"
+			}
+			id: "3D2169E49386731D"
+			rewards: [{
+				count: 3
+				id: "0E7909BC9638692A"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: "minecraft:forest"
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "61D6CBBE7B172100"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "grass"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:powder_snow_bucket"
+			}
+			id: "0734589AF0CD50C6"
+			rewards: [{
+				count: 3
+				id: "119C23CF0925D4A3"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: "minecraft:taiga"
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "4C1D8C6597C01BE9"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "77C5EF798014D621"
+			rewards: [{
+				count: 2
+				id: "086D2B03E663675C"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: "minecraft:plains"
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "27D39FBB72188300"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "normal"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:slime_ball"
+			}
+			id: "696C79B74D055B30"
+			rewards: [{
+				count: 3
+				id: "49CCE01A68573F20"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: "minecraft:swamp"
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "2E687F21890A25FE"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "poison"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:torch"
+			}
+			id: "6FA239BE7A1FE233"
+			rewards: [{
+				count: 3
+				id: "2A221C5DBDAFB4FB"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "1F972C61FF2F2C41"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:slime_ball"
+			}
+			id: "4693F5399DC27F48"
+			rewards: [{
+				count: 3
+				id: "1455176F2A169BB2"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "47AE914A23436545"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "ditto"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:blue_dye"
+			}
+			id: "11059D5E865D4F28"
+			rewards: [{
+				count: 2
+				id: "4EF4EB661DA06699"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: "male"
+				held_items: ""
+				id: "5734AFAB02EF202E"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:pink_dye"
+			}
+			id: "6C0219914BB51458"
+			rewards: [{
+				count: 2
+				id: "0F6FCF4CB880B5B4"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: "female"
+				held_items: ""
+				id: "038D3A173E7E08F1"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:redstone_lamp"
+			}
+			id: "06484AB4F142DD1E"
+			rewards: [{
+				count: 3
+				id: "0B7C4FD812CC1B01"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "1BB215ADEFCD3538"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "rotom"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7F3279AD49772EE2"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:snow_block"
+			}
+			id: "43D602BCB02FF26F"
+			rewards: [{
+				count: 3
+				id: "767586DBFA273EB0"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "44D00DE43AAE889C"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "castform"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:blaze_powder"
+			}
+			id: "68EEA4E50B8B1841"
+			rewards: [{
+				count: 3
+				id: "08512C3DADDDC00E"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "177945F9532594F8"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "charizard"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:cyan_dye"
+			}
+			id: "2DF2ECEA3C7BD5AC"
+			rewards: [{
+				count: 3
+				id: "49A42E70334AD23C"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "4CC071D46CA2C70A"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "blastoise"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:vine"
+			}
+			id: "4E5BE59839A61377"
+			rewards: [{
+				count: 3
+				id: "256F3DECCC04A330"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "3DD50D63992886C8"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "venusaur"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:feather"
+			}
+			id: "11CA83C60C2BB439"
+			rewards: [{
+				count: 3
+				id: "1F0D9D3E9DF62A67"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "2D6904C955CF04B1"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "pidgeot"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:purple_dye"
+			}
+			id: "477DB315F21E6562"
+			rewards: [{
+				count: 3
+				id: "6616493B9E62285F"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "35B45106A67B38B7"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "nidoqueen"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:purple_concrete"
+			}
+			id: "75361FA1FDAA1391"
+			rewards: [{
+				count: 3
+				id: "2ACD28EB0E11E38E"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "517A46A02FB4D8FB"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "nidoking"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:red_tulip"
+			}
+			id: "51CDB58CB74EF0BE"
+			rewards: [{
+				count: 3
+				id: "247E0B647BEEE31E"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5F5D2B333EE03DA7"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "vileplume"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:light_blue_dye"
+			}
+			id: "1E680442AB44FF1A"
+			rewards: [{
+				count: 3
+				id: "464C7156BED5010E"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "32D61918B86FC7C8"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "poliwrath"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:tuff"
+			}
+			id: "5B00A8DE8D8FBCD7"
+			rewards: [{
+				count: 3
+				id: "4E760203D2E0DFAB"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "5A322FA182DA7ADA"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "golem"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["33DAA61DA07D6B5E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:iron_bars"
+			}
+			id: "1C54BFF530000889"
+			rewards: [{
+				count: 3
+				id: "4AFE336AA6E3AB74"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				abilities: ""
+				action: "catch"
+				amount: 1L
+				aspects: ""
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				held_items: ""
+				id: "35AC008D815DD4CE"
+				max_level: 100
+				max_turns: 0
+				min_level: 0
+				moves: ""
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "steelix"
+				pokemon_type: ""
+				raid_tiers: ""
+				region: ""
+				shiny: false
+				targetPlayer: ""
+				time_max: 24000L
+				time_min: 0L
+				trainers: ""
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -9.0d
+		}
+	]
+}
