@@ -10,8 +10,8 @@
     {
       "path": "mods/funkfrontier-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-      "sha1": "d36dc1ebb4525a406878626bc3e2459c2c669112",
-      "size": 26524974,
+      "sha1": "e7a4344293adecde33f5091ffcc74af69e4f44b5",
+      "size": 26645575,
       "mode": "replace",
       "side": "both"
     },
@@ -1266,8 +1266,8 @@
     {
       "path": "mods/funkfits-1.0.1.jar",
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfits-1.0.1.jar",
-      "sha1": "93a7d299a7454c8e350cce35483ba885ab4c0e4f",
-      "size": 946603,
+      "sha1": "a62f3d3eb6f1731c714d0bd78f1b327f599f7a22",
+      "size": 946582,
       "mode": "replace",
       "side": "both"
     },
