@@ -10,8 +10,8 @@
     {
       "path": "mods/funkfrontier-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-      "sha1": "06683a4832f4ef535f854e7409ce2ce3a0551dcf",
-      "size": 26678244,
+      "sha1": "04188e3343c48bf8e8ca2fa2e4a300dc3e307f42",
+      "size": 26693466,
       "mode": "replace",
       "side": "both"
     },
@@ -2654,6 +2654,30 @@
       "size": 1848,
       "mode": "once",
       "side": "both"
+    },
+    {
+      "path": "mods/ParCool-1.21.1-4.0.2.0.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--ParCool-1.21.1-4.0.2.0.jar",
+      "sha1": "34f1f737127c523c2f228557caac1b1c14edf0c1",
+      "size": 1265497,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/fdi-neoforge-3.8.4+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--fdi-neoforge-3.8.4-mc1.21.1.jar",
+      "sha1": "9c4ba8f03fd1193fbf1cd72f735a187778210d11",
+      "size": 109450,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "config/parcool-server.toml",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--parcool-server.toml",
+      "sha1": "1a15691195247b5cafb0391b72274a6e20c10ed2",
+      "size": 10204,
+      "mode": "once",
+      "side": "server"
     }
   ],
   "remove": [
