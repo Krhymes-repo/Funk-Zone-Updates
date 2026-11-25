@@ -2638,6 +2638,22 @@
       "size": 172671,
       "mode": "replace",
       "side": "both"
+    },
+    {
+      "path": "mods/synchromachine-neoforge-1.9.0.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--synchromachine-neoforge-1.9.0.jar",
+      "sha1": "e4e2fe0d855c412273ee93ddf4cb38b4dc763ba1",
+      "size": 1529412,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "config/cobblemon_synchro_machine.json",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--cobblemon_synchro_machine.json",
+      "sha1": "e345d72db4cc4b037b1a812b967e96607e00277b",
+      "size": 1848,
+      "mode": "once",
+      "side": "both"
     }
   ],
   "remove": [
