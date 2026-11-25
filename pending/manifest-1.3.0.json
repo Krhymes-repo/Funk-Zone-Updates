@@ -10,8 +10,8 @@
   {
    "path": "mods/funkfrontier-1.0.0.jar",
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-   "sha1": "482de891ffacaa600b853a509346a61628ef39f2",
-   "size": 25938792,
+   "sha1": "b79e2f8414ef04c18f761cf51595b9a98d0e0811",
+   "size": 25947871,
    "mode": "replace",
    "side": "both"
   },
@@ -2628,6 +2628,14 @@
    "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--ftbquests--quests--chapters--welcome.snbt",
    "sha1": "d0f8b040f221743b0ef21994a0021e5d00592db6",
    "size": 4512,
+   "mode": "replace",
+   "side": "both"
+  },
+  {
+   "path": "mods/polymorph-neoforge-1.2.0+1.21.1.jar",
+   "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--polymorph-neoforge-1.2.0-1.21.1.jar",
+   "sha1": "fa6c5fa8a21229c85d564b47c73df7160b3bd4df",
+   "size": 172671,
    "mode": "replace",
    "side": "both"
   }
