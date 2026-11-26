@@ -10,8 +10,8 @@
     {
       "path": "mods/funkfrontier-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-      "sha1": "35d282ed0b4ecaf7ba33055349a4fb1f670c7dd4",
-      "size": 26703570,
+      "sha1": "bb1166d5047936dba6e788830f54def5c2917a67",
+      "size": 26772856,
       "mode": "replace",
       "side": "both"
     },
@@ -2702,6 +2702,206 @@
       "size": 1240248,
       "mode": "replace",
       "side": "both"
+    },
+    {
+      "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+      "sha1": "6a12e1a249d074fb18f07d1f141b80ca2885e2be",
+      "size": 22338157,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
+      "sha1": "f2aed3ac68f5cc5e41ccc9d493f2706b0df53296",
+      "size": 167853,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "sha1": "a31c3f36330f19aa538add3d727782a62c9c30ad",
+      "size": 90717,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/Quark-4.1-489.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Quark-4.1-489.jar",
+      "sha1": "c23224423393312f5feaa25e8cd869fbb44b2f77",
+      "size": 13836984,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+      "sha1": "5347db4d1150b132841bd124d1608f812bf8076f",
+      "size": 1131419,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/Zeta-1.1-41.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--Zeta-1.1-41.jar",
+      "sha1": "494fda38fd83341e5b72d026e79218e61c2d9212",
+      "size": 763764,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/addonslib-neoforge-1.21.1-1.14.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--addonslib-neoforge-1.21.1-1.14.jar",
+      "sha1": "9f4eae06f0b713ed73cfcae03c668fb5b289e020",
+      "size": 131893,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/create_hypertube-0.6.1-NEOFORGE.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--create_hypertube-0.6.1-NEOFORGE.jar",
+      "sha1": "c62fb925810ab0b59488d0c43d35fc7301ffc51e",
+      "size": 551681,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/createaddition-1.7.2.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--createaddition-1.7.2.jar",
+      "sha1": "8e7158d3144b1ee97e58092fe006675b0e09f6d8",
+      "size": 1772844,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/domum-ornamentum-1.0.231-main.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--domum-ornamentum-1.0.231-main.jar",
+      "sha1": "a8ec9660788133676fd440ce6998d813184cd486",
+      "size": 1143596,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+      "sha1": "71ece28129789a2123cf07e79938f488d8675bb2",
+      "size": 661387,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "c127904f23db1a641dd9e065ec51c5c177cb4cd7",
+      "size": 1190404,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-holidays-1.1.2-mc1.21.1neoforge.jar",
+      "sha1": "fbe2d2239fdab916120357ca3c45f582ca34f71d",
+      "size": 1012915,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "13c1107caf26b2c60d8626b3658b26cc7f634b38",
+      "size": 525744,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+      "sha1": "b5580c3fc521ed8bf4db3e407bd590efc317f74d",
+      "size": 673871,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+      "sha1": "4bb7e1d28eef19f87438881b0f582a15297b95ae",
+      "size": 777742,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
+      "sha1": "1ee43d693c821efc955a74e551f94372af90a140",
+      "size": 529082,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+      "sha1": "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c",
+      "size": 1261268,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-paintings-1.1.0-mc1.21.1neoforge.jar",
+      "sha1": "7e637b44624da6a3b7cd6cfd26324c3f116d4da6",
+      "size": 179058,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+      "sha1": "05806ff152fab56f7c1b4b215d772ea73611283d",
+      "size": 1784829,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+      "sha1": "1f8b59e31f889f53b6296b42ee09d447e7e56620",
+      "size": 572870,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/mcwbiomesoplenty-neoforge-1.21.1-1.6.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--mcwbiomesoplenty-neoforge-1.21.1-1.6.jar",
+      "sha1": "ec8e661a5ef336eb2bd9b8a1978df1213a812ded",
+      "size": 7018204,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/modular-routers-13.2.7+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--modular-routers-13.2.7_mc1.21.1.jar",
+      "sha1": "d67d3df00b08ea5135326cf1a063ae3032a53114",
+      "size": 1285765,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/simplylight-1.5.3+1.21.1-b4.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--simplylight-1.5.3_1.21.1-b4.jar",
+      "sha1": "d85bfed3824cb66d258acf11c73edaf11d583223",
+      "size": 1103352,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "config/biomesoplenty/generation.toml",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/config--biomesoplenty--generation.toml",
+      "sha1": "ab75dc2b44b08f1363e3283e2ace0a7079ff797c",
+      "size": 632,
+      "mode": "replace",
+      "side": "server"
     }
   ],
   "remove": [
