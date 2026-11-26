@@ -10,8 +10,8 @@
     {
       "path": "mods/funkfrontier-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--funkfrontier-1.0.0.jar",
-      "sha1": "54431f0d0ff1e64328728d378522ecc847243d0c",
-      "size": 26691640,
+      "sha1": "c6b504ab26a5425553184a105ba09cfac8f67ba0",
+      "size": 26696978,
       "mode": "replace",
       "side": "both"
     },
@@ -2660,6 +2660,46 @@
       "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--fdi-neoforge-3.8.4-mc1.21.1.jar",
       "sha1": "9c4ba8f03fd1193fbf1cd72f735a187778210d11",
       "size": 109450,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/FramedBlocks-10.6.3.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--FramedBlocks-10.6.3.jar",
+      "sha1": "4e3d28804fdc2c0be4d71d444f18b85d2c863b01",
+      "size": 4306766,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/fresco-1.0.7.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--fresco-1.0.7.jar",
+      "sha1": "6fc9a0c02bb40e91904a8d42cb7dda5694070ed1",
+      "size": 188704,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/painter-0.6.1-3beta.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--painter-0.6.1-3beta.jar",
+      "sha1": "fd1c368adfcfdaa8505461f72b48170dc3b2ac2f",
+      "size": 260375,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/LittleTiles_BETA_v1.6.0-pre241_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--LittleTiles_BETA_v1.6.0-pre241_mc1.21.1.jar",
+      "sha1": "034c5901354ec45deb17e9014be947b64a438be1",
+      "size": 2895350,
+      "mode": "replace",
+      "side": "both"
+    },
+    {
+      "path": "mods/CreativeCore_NEOFORGE_v2.13.56_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Krhymes-repo/Funk-Zone-Updates/main/files/v1.3.0/mods--CreativeCore_NEOFORGE_v2.13.56_mc1.21.1.jar",
+      "sha1": "820f9d39efac80b25feb72639dc35e21c748fe71",
+      "size": 1240248,
       "mode": "replace",
       "side": "both"
     }
